@@ -1,0 +1,446 @@
+{
+  "size": 512,
+  "parts": {
+    "tattoo": [
+      {
+        "id": "tattoo-gamebird",
+        "name": "Game bird",
+        "src": "assets/adornments/tattoo-gamebird.webp",
+        "bounds": [
+          284,
+          257,
+          52,
+          47
+        ],
+        "source": "1903"
+      },
+      {
+        "id": "tattoo-messenger",
+        "name": "Messenger bird",
+        "src": "assets/adornments/tattoo-messenger.webp",
+        "bounds": [
+          174,
+          259,
+          43,
+          61
+        ],
+        "source": "1903"
+      },
+      {
+        "id": "tattoo-lion",
+        "name": "Lion on the prowl",
+        "src": "assets/adornments/tattoo-lion.webp",
+        "bounds": [
+          290,
+          257,
+          34,
+          73
+        ],
+        "source": "1903"
+      },
+      {
+        "id": "tattoo-stag",
+        "name": "Stag head",
+        "src": "assets/adornments/tattoo-stag.webp",
+        "bounds": [
+          168,
+          254,
+          54,
+          72
+        ],
+        "source": "1903"
+      },
+      {
+        "id": "tattoo-winged-dolphin",
+        "name": "Winged dolphin",
+        "src": "assets/adornments/tattoo-winged-dolphin.webp",
+        "bounds": [
+          287,
+          254,
+          48,
+          62
+        ],
+        "source": "1903"
+      },
+      {
+        "id": "tattoo-stalking-cat",
+        "name": "Stalking cat",
+        "src": "assets/adornments/tattoo-stalking-cat.webp",
+        "bounds": [
+          179,
+          254,
+          38,
+          84
+        ],
+        "source": "1903"
+      },
+      {
+        "id": "tattoo-coiled-dragon",
+        "name": "Coiled dragon",
+        "src": "assets/adornments/tattoo-coiled-dragon.webp",
+        "bounds": [
+          295,
+          251,
+          36,
+          93
+        ],
+        "source": "1903"
+      }
+    ],
+    "piercing": [
+      {
+        "id": "piercing-zenu-bar",
+        "name": "Zenú septum bar",
+        "src": "assets/adornments/piercing-zenu-bar.webp",
+        "bounds": [
+          207,
+          287,
+          98,
+          17
+        ],
+        "source": "312749"
+      },
+      {
+        "id": "piercing-filigree",
+        "name": "Cast nose ornament",
+        "src": "assets/adornments/piercing-filigree.webp",
+        "bounds": [
+          238,
+          286,
+          37,
+          31
+        ],
+        "source": "313514"
+      },
+      {
+        "id": "piercing-open-hoop",
+        "name": "Open gold hoop",
+        "src": "assets/adornments/piercing-open-hoop.webp",
+        "bounds": [
+          223,
+          282,
+          30,
+          27
+        ],
+        "source": "444954"
+      },
+      {
+        "id": "piercing-moche-crescent",
+        "name": "Moche crescent",
+        "src": "assets/adornments/piercing-moche-crescent.webp",
+        "bounds": [
+          223,
+          282,
+          66,
+          40
+        ],
+        "source": "317800"
+      },
+      {
+        "id": "piercing-coin-chain",
+        "name": "Silver coin chain",
+        "src": "assets/adornments/piercing-coin-chain.webp",
+        "bounds": [
+          130,
+          270,
+          124,
+          49
+        ],
+        "source": "446855"
+      }
+    ],
+    "jewelry": [
+      {
+        "id": "jewelry-crescents",
+        "name": "Crescent hoops",
+        "src": "assets/adornments/jewelry-crescents.webp",
+        "bounds": [
+          130,
+          274,
+          252,
+          29
+        ],
+        "source": "243314"
+      },
+      {
+        "id": "jewelry-garnet",
+        "name": "Garnet drop",
+        "src": "assets/adornments/jewelry-garnet.webp",
+        "bounds": [
+          352,
+          272,
+          27,
+          62
+        ],
+        "source": "250992"
+      },
+      {
+        "id": "jewelry-jhumka",
+        "name": "Jhumka earring",
+        "src": "assets/adornments/jewelry-jhumka.webp",
+        "bounds": [
+          120,
+          269,
+          55,
+          64
+        ],
+        "source": "446792"
+      },
+      {
+        "id": "jewelry-foliate-diadem",
+        "name": "Embossed diadem",
+        "src": "assets/adornments/jewelry-foliate-diadem.webp",
+        "bounds": [
+          165,
+          164,
+          182,
+          20
+        ],
+        "source": "242724"
+      },
+      {
+        "id": "jewelry-herakles",
+        "name": "Herakles knot band",
+        "src": "assets/adornments/jewelry-herakles.webp",
+        "bounds": [
+          158,
+          153,
+          194,
+          25
+        ],
+        "source": "250990"
+      },
+      {
+        "id": "jewelry-beryl-strand",
+        "name": "Beryl necklace",
+        "src": "assets/adornments/jewelry-beryl-strand.webp",
+        "bounds": [
+          189,
+          409,
+          134,
+          59
+        ],
+        "source": "251937"
+      },
+      {
+        "id": "jewelry-onyx-pin",
+        "name": "Onyx hairpin",
+        "src": "assets/adornments/jewelry-onyx-pin.webp",
+        "bounds": [
+          141,
+          129,
+          58,
+          67
+        ],
+        "source": "243103"
+      }
+    ],
+    "texture": [
+      {
+        "id": "texture-bark",
+        "name": "Furrowed bark",
+        "src": "assets/adornments/texture-bark.webp",
+        "bounds": [
+          0,
+          0,
+          512,
+          512
+        ],
+        "source": "bark_brown_01"
+      },
+      {
+        "id": "texture-hessian",
+        "name": "Hessian weave",
+        "src": "assets/adornments/texture-hessian.webp",
+        "bounds": [
+          0,
+          0,
+          512,
+          512
+        ],
+        "source": "hessian_380"
+      },
+      {
+        "id": "texture-denim",
+        "name": "Denim twill",
+        "src": "assets/adornments/texture-denim.webp",
+        "bounds": [
+          0,
+          0,
+          512,
+          512
+        ],
+        "source": "denim_fabric_06"
+      }
+    ],
+    "glasses": [
+      {
+        "id": "glasses-thule-goggles",
+        "name": "Thule snow goggles",
+        "src": "assets/adornments/glasses-thule-goggles.webp",
+        "bounds": [
+          148,
+          211,
+          216,
+          62
+        ],
+        "source": "751542"
+      }
+    ]
+  },
+  "sources": {
+    "1903": {
+      "title": "Six arms showing different designs of tattoo, and two smaller views of tattoos",
+      "credit": "The Tatler, 25 November 1903, p. 311. Wellcome Collection, 35574i",
+      "url": "https://wellcomecollection.org/works/kv9bw5f4",
+      "rights": "Public Domain Mark 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "image": "https://iiif.wellcomecollection.org/image/V0040689/full/full/0/default.jpg",
+      "sha256": "2504c0c64c02c893f69e0e043d085e8c7c96704319bba04b6118fd84e21c6916"
+    },
+    "312749": {
+      "title": "Nose ornament, Zenú, 1–1000 CE",
+      "credit": "The Metropolitan Museum of Art, 1979.206.545",
+      "url": "https://www.metmuseum.org/art/collection/search/312749",
+      "rights": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "image": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/312749/2177867/main-image",
+      "sha256": "d693b31501e2e52a8c844b8e4ec3c458c4ea26c8b34916818728c46f2b45b921"
+    },
+    "313514": {
+      "title": "Nose ornament, Venado Beach, 5th–8th century",
+      "credit": "The Metropolitan Museum of Art, 1979.206.1353",
+      "url": "https://www.metmuseum.org/art/collection/search/313514",
+      "rights": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "image": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/313514/1651525/main-image",
+      "sha256": "bb546c31b67ea8df253f567fe6dda86effaed7477533715359d0cf89bb293e07"
+    },
+    "243314": {
+      "title": "Earring, crescent-shaped, decorated, Roman, 1st century CE",
+      "credit": "The Metropolitan Museum of Art, 74.51.3896",
+      "url": "https://www.metmuseum.org/art/collection/search/243314",
+      "rights": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "image": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/243314/535343/main-image",
+      "sha256": "c63066d4dbe4c33f7eedff3da0f4134a74ebd9baa22959e1212332f523ed0a92"
+    },
+    "250992": {
+      "title": "Gold earring with pendant and garnet setting, Roman, 2nd century CE",
+      "credit": "The Metropolitan Museum of Art, 20.243",
+      "url": "https://www.metmuseum.org/art/collection/search/250992",
+      "rights": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "image": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/250992/1393922/main-image",
+      "sha256": "170de4f8fb0ff67da7213192fc2fb3c3f59975a27a5016a49bc5704781b6d1ce"
+    },
+    "446792": {
+      "title": "Earring, one of a pair, attributed to India, 19th century",
+      "credit": "The Metropolitan Museum of Art, 15.95.129",
+      "url": "https://www.metmuseum.org/art/collection/search/446792",
+      "rights": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "image": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/446792/2010963/main-image",
+      "sha256": "0a39e92807afe3bfd95d5c1e04c33d822a3fac7bc890067760f02bb3dc2fb780"
+    },
+    "242724": {
+      "title": "Gold diadem, Cypriot, 4th century BCE",
+      "credit": "The Metropolitan Museum of Art, 74.51.3291",
+      "url": "https://www.metmuseum.org/art/collection/search/242724",
+      "rights": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "image": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/242724/535790/main-image",
+      "sha256": "97e886f59b6a538f44a028cb67498d0e526bd6ef797132251f271f553a740991"
+    },
+    "251937": {
+      "title": "Necklace with pearls and beryl beads, Roman, 1st–2nd century CE",
+      "credit": "The Metropolitan Museum of Art, 25.192.1",
+      "url": "https://www.metmuseum.org/art/collection/search/251937",
+      "rights": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "image": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/251937/1396126/main-image",
+      "sha256": "e704e97bd12ddbb8a2ef36beddf5f948da84eb6c7c53da892fb22939a4fe8a0a"
+    },
+    "243103": {
+      "title": "Hair pin",
+      "credit": "The Metropolitan Museum of Art, 74.51.3685",
+      "url": "https://www.metmuseum.org/art/collection/search/243103",
+      "rights": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "image": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/243103/544624/main-image",
+      "sha256": "cba7b6f2acfd99e0d04d24912e2fcfd0f5867d4989b6fa701662ddfcf14a12d0"
+    },
+    "317800": {
+      "title": "Nose Ornament, Moche, 1st–3rd century",
+      "credit": "The Metropolitan Museum of Art, 1996.372.1",
+      "url": "https://www.metmuseum.org/art/collection/search/317800",
+      "rights": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "image": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/317800/660349/main-image",
+      "sha256": "bf2269c9612500b8e4d3fcf0f373f21f0b6066e1ce844016e459a19d6087c663"
+    },
+    "444954": {
+      "title": "Nose Ring, probably 19th century",
+      "credit": "The Metropolitan Museum of Art, 04.34.9",
+      "url": "https://www.metmuseum.org/art/collection/search/444954",
+      "rights": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "image": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/444954/1640417/main-image",
+      "sha256": "e18603a0810d5d752ddcf57b7f797f7d61c585dee4c758a2f19f96e455b558e1"
+    },
+    "446855": {
+      "title": "Nose Ring, 19th century",
+      "credit": "The Metropolitan Museum of Art, 16.74.22",
+      "url": "https://www.metmuseum.org/art/collection/search/446855",
+      "rights": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "image": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/446855/862952/main-image",
+      "sha256": "9c0bc7f5e8fa45652c83a2cad7c814dd136861707f74a731b5efb5641038ba65"
+    },
+    "751542": {
+      "title": "Snow goggles, Thule, Native American, ca. 800–1200",
+      "credit": "The Metropolitan Museum of Art, 2019.456.13",
+      "url": "https://www.metmuseum.org/art/collection/search/751542",
+      "rights": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "image": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/751542/1791607/main-image",
+      "sha256": "d239fc27935e723459ec72359fed2e0c8cc6c334aa4f0da7fafa8396a0a1bf56"
+    },
+    "250990": {
+      "title": "Gold and garnet strap diadem with Herakles knot, Greek, 3rd–2nd century BCE",
+      "credit": "The Metropolitan Museum of Art, 20.241",
+      "url": "https://www.metmuseum.org/art/collection/search/250990",
+      "rights": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "image": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/250990/1638831/main-image",
+      "sha256": "e54200aa4f3afc2631d99ad5c47faf01b8321467ed8a3ff9ebbdb2f2668baaad"
+    },
+    "bark_brown_01": {
+      "title": "Bark Brown 01",
+      "credit": "Rob Tuytel, Poly Haven",
+      "url": "https://polyhaven.com/a/bark_brown_01",
+      "rights": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "image": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/bark_brown_01/bark_brown_01_diff_2k.jpg",
+      "sha256": "0cdd066f34d357fdbf7eb99159e668a6dc346bb7fd093a9e27058eb827d09b9a"
+    },
+    "denim_fabric_06": {
+      "title": "Denim Fabric 06",
+      "credit": "Greg Zaal (photography), Rico Cilliers (processing), Poly Haven",
+      "url": "https://polyhaven.com/a/denim_fabric_06",
+      "rights": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "image": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/denim_fabric_06/denim_fabric_06_diff_2k.jpg",
+      "sha256": "ddeaa6edd75e9bb8f01764a3cf591a88cf260b89dadc1ac9ab6185c03ff0cecf"
+    },
+    "hessian_380": {
+      "title": "Hessian 380",
+      "credit": "colormass (photography), Rico Cilliers (processing), Poly Haven",
+      "url": "https://polyhaven.com/a/hessian_380",
+      "rights": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "image": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/hessian_380/hessian_380_diff_2k.jpg",
+      "sha256": "14a21d84cdd20cb3c64457b070d1ce220496e25652de063709ceed2ab453ee09"
+    }
+  }
+}

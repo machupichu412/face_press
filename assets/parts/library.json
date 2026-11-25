@@ -1,0 +1,7407 @@
+{
+  "size": 512,
+  "parts": {
+    "chin": [
+      {
+        "id": "chin-001-0011",
+        "name": "Jaw 01",
+        "src": "assets/parts/chin-001-0011.webp",
+        "bounds": [
+          157,
+          311,
+          202,
+          101
+        ],
+        "source": "001-0011",
+        "pixels": 512
+      },
+      {
+        "id": "chin-gov-7",
+        "name": "Jaw 02",
+        "src": "assets/parts/chin-gov-7.webp",
+        "bounds": [
+          145,
+          312,
+          275,
+          140
+        ],
+        "source": "gov-7",
+        "pixels": 512
+      },
+      {
+        "id": "chin-001-0166",
+        "name": "Jaw 03",
+        "src": "assets/parts/chin-001-0166.webp",
+        "bounds": [
+          151,
+          311,
+          205,
+          104
+        ],
+        "source": "001-0166",
+        "pixels": 512
+      },
+      {
+        "id": "chin-gov-6",
+        "name": "Jaw 04",
+        "src": "assets/parts/chin-gov-6.webp",
+        "bounds": [
+          146,
+          312,
+          213,
+          97
+        ],
+        "source": "gov-6",
+        "pixels": 512
+      },
+      {
+        "id": "chin-001-0251",
+        "name": "Jaw 05",
+        "src": "assets/parts/chin-001-0251.webp",
+        "bounds": [
+          154,
+          311,
+          211,
+          102
+        ],
+        "source": "001-0251",
+        "pixels": 512
+      },
+      {
+        "id": "chin-gov-3",
+        "name": "Jaw 06",
+        "src": "assets/parts/chin-gov-3.webp",
+        "bounds": [
+          139,
+          311,
+          242,
+          130
+        ],
+        "source": "gov-3",
+        "pixels": 512
+      },
+      {
+        "id": "chin-001-0426",
+        "name": "Jaw 07",
+        "src": "assets/parts/chin-001-0426.webp",
+        "bounds": [
+          160,
+          311,
+          206,
+          103
+        ],
+        "source": "001-0426",
+        "pixels": 512
+      },
+      {
+        "id": "chin-gov-2",
+        "name": "Jaw 08",
+        "src": "assets/parts/chin-gov-2.webp",
+        "bounds": [
+          145,
+          311,
+          226,
+          115
+        ],
+        "source": "gov-2",
+        "pixels": 512
+      },
+      {
+        "id": "chin-001-0126",
+        "name": "Jaw 09",
+        "src": "assets/parts/chin-001-0126.webp",
+        "bounds": [
+          112,
+          311,
+          231,
+          113
+        ],
+        "source": "001-0126",
+        "pixels": 512
+      },
+      {
+        "id": "chin-gov-11",
+        "name": "Jaw 10",
+        "src": "assets/parts/chin-gov-11.webp",
+        "bounds": [
+          170,
+          312,
+          211,
+          120
+        ],
+        "source": "gov-11",
+        "pixels": 512
+      },
+      {
+        "id": "chin-001-0381",
+        "name": "Jaw 11",
+        "src": "assets/parts/chin-001-0381.webp",
+        "bounds": [
+          158,
+          311,
+          207,
+          112
+        ],
+        "source": "001-0381",
+        "pixels": 512
+      },
+      {
+        "id": "chin-gov-10",
+        "name": "Jaw 12",
+        "src": "assets/parts/chin-gov-10.webp",
+        "bounds": [
+          150,
+          311,
+          249,
+          128
+        ],
+        "source": "gov-10",
+        "pixels": 512
+      },
+      {
+        "id": "chin-001-0006",
+        "name": "Jaw 13",
+        "src": "assets/parts/chin-001-0006.webp",
+        "bounds": [
+          156,
+          311,
+          203,
+          97
+        ],
+        "source": "001-0006",
+        "pixels": 512
+      },
+      {
+        "id": "chin-001-0026",
+        "name": "Jaw 14",
+        "src": "assets/parts/chin-001-0026.webp",
+        "bounds": [
+          146,
+          311,
+          207,
+          101
+        ],
+        "source": "001-0026",
+        "pixels": 512
+      },
+      {
+        "id": "chin-001-0041",
+        "name": "Jaw 15",
+        "src": "assets/parts/chin-001-0041.webp",
+        "bounds": [
+          151,
+          311,
+          211,
+          103
+        ],
+        "source": "001-0041",
+        "pixels": 512
+      },
+      {
+        "id": "chin-001-0046",
+        "name": "Jaw 16",
+        "src": "assets/parts/chin-001-0046.webp",
+        "bounds": [
+          165,
+          311,
+          207,
+          112
+        ],
+        "source": "001-0046",
+        "pixels": 512
+      },
+      {
+        "id": "chin-001-0066",
+        "name": "Jaw 17",
+        "src": "assets/parts/chin-001-0066.webp",
+        "bounds": [
+          157,
+          311,
+          202,
+          102
+        ],
+        "source": "001-0066",
+        "pixels": 512
+      },
+      {
+        "id": "chin-001-0081",
+        "name": "Jaw 18",
+        "src": "assets/parts/chin-001-0081.webp",
+        "bounds": [
+          153,
+          311,
+          210,
+          107
+        ],
+        "source": "001-0081",
+        "pixels": 512
+      },
+      {
+        "id": "chin-001-0086",
+        "name": "Jaw 19",
+        "src": "assets/parts/chin-001-0086.webp",
+        "bounds": [
+          168,
+          311,
+          179,
+          91
+        ],
+        "source": "001-0086",
+        "pixels": 512
+      },
+      {
+        "id": "chin-001-0106",
+        "name": "Jaw 20",
+        "src": "assets/parts/chin-001-0106.webp",
+        "bounds": [
+          157,
+          311,
+          208,
+          103
+        ],
+        "source": "001-0106",
+        "pixels": 512
+      },
+      {
+        "id": "chin-001-0121",
+        "name": "Jaw 21",
+        "src": "assets/parts/chin-001-0121.webp",
+        "bounds": [
+          153,
+          311,
+          208,
+          105
+        ],
+        "source": "001-0121",
+        "pixels": 512
+      },
+      {
+        "id": "chin-001-0131",
+        "name": "Jaw 22",
+        "src": "assets/parts/chin-001-0131.webp",
+        "bounds": [
+          152,
+          311,
+          204,
+          99
+        ],
+        "source": "001-0131",
+        "pixels": 512
+      },
+      {
+        "id": "chin-001-0141",
+        "name": "Jaw 23",
+        "src": "assets/parts/chin-001-0141.webp",
+        "bounds": [
+          161,
+          311,
+          212,
+          105
+        ],
+        "source": "001-0141",
+        "pixels": 512
+      },
+      {
+        "id": "chin-001-0171",
+        "name": "Jaw 24",
+        "src": "assets/parts/chin-001-0171.webp",
+        "bounds": [
+          165,
+          311,
+          213,
+          99
+        ],
+        "source": "001-0171",
+        "pixels": 512
+      },
+      {
+        "id": "chin-001-0191",
+        "name": "Jaw 25",
+        "src": "assets/parts/chin-001-0191.webp",
+        "bounds": [
+          155,
+          311,
+          202,
+          99
+        ],
+        "source": "001-0191",
+        "pixels": 512
+      },
+      {
+        "id": "chin-001-0201",
+        "name": "Jaw 26",
+        "src": "assets/parts/chin-001-0201.webp",
+        "bounds": [
+          161,
+          311,
+          209,
+          105
+        ],
+        "source": "001-0201",
+        "pixels": 512
+      },
+      {
+        "id": "chin-001-0206",
+        "name": "Jaw 27",
+        "src": "assets/parts/chin-001-0206.webp",
+        "bounds": [
+          156,
+          311,
+          210,
+          107
+        ],
+        "source": "001-0206",
+        "pixels": 512
+      },
+      {
+        "id": "chin-001-0226",
+        "name": "Jaw 28",
+        "src": "assets/parts/chin-001-0226.webp",
+        "bounds": [
+          144,
+          311,
+          216,
+          111
+        ],
+        "source": "001-0226",
+        "pixels": 512
+      },
+      {
+        "id": "chin-001-0231",
+        "name": "Jaw 29",
+        "src": "assets/parts/chin-001-0231.webp",
+        "bounds": [
+          152,
+          311,
+          209,
+          101
+        ],
+        "source": "001-0231",
+        "pixels": 512
+      },
+      {
+        "id": "chin-001-0266",
+        "name": "Jaw 30",
+        "src": "assets/parts/chin-001-0266.webp",
+        "bounds": [
+          155,
+          311,
+          192,
+          92
+        ],
+        "source": "001-0266",
+        "pixels": 512
+      },
+      {
+        "id": "chin-001-0271",
+        "name": "Jaw 31",
+        "src": "assets/parts/chin-001-0271.webp",
+        "bounds": [
+          153,
+          311,
+          202,
+          104
+        ],
+        "source": "001-0271",
+        "pixels": 512
+      },
+      {
+        "id": "chin-001-0301",
+        "name": "Jaw 32",
+        "src": "assets/parts/chin-001-0301.webp",
+        "bounds": [
+          155,
+          311,
+          204,
+          99
+        ],
+        "source": "001-0301",
+        "pixels": 512
+      },
+      {
+        "id": "chin-001-0306",
+        "name": "Jaw 33",
+        "src": "assets/parts/chin-001-0306.webp",
+        "bounds": [
+          161,
+          311,
+          196,
+          91
+        ],
+        "source": "001-0306",
+        "pixels": 512
+      },
+      {
+        "id": "chin-001-0326",
+        "name": "Jaw 34",
+        "src": "assets/parts/chin-001-0326.webp",
+        "bounds": [
+          124,
+          311,
+          238,
+          121
+        ],
+        "source": "001-0326",
+        "pixels": 512
+      },
+      {
+        "id": "chin-001-0331",
+        "name": "Jaw 35",
+        "src": "assets/parts/chin-001-0331.webp",
+        "bounds": [
+          121,
+          311,
+          221,
+          115
+        ],
+        "source": "001-0331",
+        "pixels": 512
+      },
+      {
+        "id": "chin-001-0346",
+        "name": "Jaw 36",
+        "src": "assets/parts/chin-001-0346.webp",
+        "bounds": [
+          149,
+          311,
+          223,
+          105
+        ],
+        "source": "001-0346",
+        "pixels": 512
+      },
+      {
+        "id": "chin-001-0361",
+        "name": "Jaw 37",
+        "src": "assets/parts/chin-001-0361.webp",
+        "bounds": [
+          145,
+          311,
+          229,
+          105
+        ],
+        "source": "001-0361",
+        "pixels": 512
+      },
+      {
+        "id": "chin-001-0366",
+        "name": "Jaw 38",
+        "src": "assets/parts/chin-001-0366.webp",
+        "bounds": [
+          168,
+          311,
+          183,
+          89
+        ],
+        "source": "001-0366",
+        "pixels": 512
+      },
+      {
+        "id": "chin-001-0386",
+        "name": "Jaw 39",
+        "src": "assets/parts/chin-001-0386.webp",
+        "bounds": [
+          165,
+          311,
+          194,
+          93
+        ],
+        "source": "001-0386",
+        "pixels": 512
+      },
+      {
+        "id": "chin-001-0421",
+        "name": "Jaw 40",
+        "src": "assets/parts/chin-001-0421.webp",
+        "bounds": [
+          138,
+          311,
+          208,
+          108
+        ],
+        "source": "001-0421",
+        "pixels": 512
+      },
+      {
+        "id": "chin-001-0431",
+        "name": "Jaw 41",
+        "src": "assets/parts/chin-001-0431.webp",
+        "bounds": [
+          171,
+          311,
+          215,
+          106
+        ],
+        "source": "001-0431",
+        "pixels": 512
+      },
+      {
+        "id": "chin-001-0451",
+        "name": "Jaw 42",
+        "src": "assets/parts/chin-001-0451.webp",
+        "bounds": [
+          161,
+          311,
+          205,
+          100
+        ],
+        "source": "001-0451",
+        "pixels": 512
+      },
+      {
+        "id": "chin-001-0461",
+        "name": "Jaw 43",
+        "src": "assets/parts/chin-001-0461.webp",
+        "bounds": [
+          178,
+          311,
+          201,
+          97
+        ],
+        "source": "001-0461",
+        "pixels": 512
+      },
+      {
+        "id": "chin-001-0471",
+        "name": "Jaw 44",
+        "src": "assets/parts/chin-001-0471.webp",
+        "bounds": [
+          158,
+          311,
+          202,
+          99
+        ],
+        "source": "001-0471",
+        "pixels": 512
+      },
+      {
+        "id": "chin-gov-1",
+        "name": "Jaw 45",
+        "src": "assets/parts/chin-gov-1.webp",
+        "bounds": [
+          137,
+          311,
+          252,
+          145
+        ],
+        "source": "gov-1",
+        "pixels": 512
+      },
+      {
+        "id": "chin-gov-4",
+        "name": "Jaw 46",
+        "src": "assets/parts/chin-gov-4.webp",
+        "bounds": [
+          149,
+          311,
+          245,
+          128
+        ],
+        "source": "gov-4",
+        "pixels": 512
+      },
+      {
+        "id": "chin-gov-5",
+        "name": "Jaw 47",
+        "src": "assets/parts/chin-gov-5.webp",
+        "bounds": [
+          146,
+          311,
+          239,
+          127
+        ],
+        "source": "gov-5",
+        "pixels": 512
+      },
+      {
+        "id": "chin-gov-9",
+        "name": "Jaw 48",
+        "src": "assets/parts/chin-gov-9.webp",
+        "bounds": [
+          123,
+          311,
+          234,
+          109
+        ],
+        "source": "gov-9",
+        "pixels": 512
+      },
+      {
+        "id": "chin-gov-12",
+        "name": "Jaw 49",
+        "src": "assets/parts/chin-gov-12.webp",
+        "bounds": [
+          152,
+          311,
+          230,
+          128
+        ],
+        "source": "gov-12",
+        "pixels": 512
+      },
+      {
+        "id": "chin-base-001-0019",
+        "name": "Jaw 50",
+        "src": "assets/parts/chin-base-001-0019.webp",
+        "bounds": [
+          99,
+          311,
+          251,
+          126
+        ],
+        "source": "base-001-0019",
+        "pixels": 1024
+      },
+      {
+        "id": "chin-base-001-0027",
+        "name": "Jaw 51",
+        "src": "assets/parts/chin-base-001-0027.webp",
+        "bounds": [
+          165,
+          311,
+          212,
+          106
+        ],
+        "source": "base-001-0027",
+        "pixels": 1024
+      },
+      {
+        "id": "chin-base-001-0035",
+        "name": "Jaw 52",
+        "src": "assets/parts/chin-base-001-0035.webp",
+        "bounds": [
+          157,
+          311,
+          200,
+          101
+        ],
+        "source": "base-001-0035",
+        "pixels": 1024
+      },
+      {
+        "id": "chin-base-001-0057",
+        "name": "Jaw 53",
+        "src": "assets/parts/chin-base-001-0057.webp",
+        "bounds": [
+          133,
+          311,
+          214,
+          110
+        ],
+        "source": "base-001-0057",
+        "pixels": 1024
+      },
+      {
+        "id": "chin-base-001-0079",
+        "name": "Jaw 54",
+        "src": "assets/parts/chin-base-001-0079.webp",
+        "bounds": [
+          125,
+          311,
+          219,
+          104
+        ],
+        "source": "base-001-0079",
+        "pixels": 1024
+      },
+      {
+        "id": "chin-base-001-0087",
+        "name": "Jaw 55",
+        "src": "assets/parts/chin-base-001-0087.webp",
+        "bounds": [
+          154,
+          311,
+          216,
+          107
+        ],
+        "source": "base-001-0087",
+        "pixels": 1024
+      },
+      {
+        "id": "chin-base-001-0097",
+        "name": "Jaw 56",
+        "src": "assets/parts/chin-base-001-0097.webp",
+        "bounds": [
+          145,
+          311,
+          226,
+          123
+        ],
+        "source": "base-001-0097",
+        "pixels": 1024
+      },
+      {
+        "id": "chin-base-001-0125",
+        "name": "Jaw 57",
+        "src": "assets/parts/chin-base-001-0125.webp",
+        "bounds": [
+          151,
+          311,
+          203,
+          103
+        ],
+        "source": "base-001-0125",
+        "pixels": 1024
+      },
+      {
+        "id": "chin-base-001-0143",
+        "name": "Jaw 58",
+        "src": "assets/parts/chin-base-001-0143.webp",
+        "bounds": [
+          156,
+          311,
+          211,
+          100
+        ],
+        "source": "base-001-0143",
+        "pixels": 1024
+      },
+      {
+        "id": "chin-base-001-0217",
+        "name": "Jaw 59",
+        "src": "assets/parts/chin-base-001-0217.webp",
+        "bounds": [
+          160,
+          311,
+          209,
+          100
+        ],
+        "source": "base-001-0217",
+        "pixels": 1024
+      },
+      {
+        "id": "chin-base-001-0248",
+        "name": "Jaw 60",
+        "src": "assets/parts/chin-base-001-0248.webp",
+        "bounds": [
+          154,
+          312,
+          204,
+          99
+        ],
+        "source": "base-001-0248",
+        "pixels": 1024
+      },
+      {
+        "id": "chin-base-001-0263",
+        "name": "Jaw 61",
+        "src": "assets/parts/chin-base-001-0263.webp",
+        "bounds": [
+          160,
+          312,
+          198,
+          92
+        ],
+        "source": "base-001-0263",
+        "pixels": 1024
+      },
+      {
+        "id": "chin-base-001-0319",
+        "name": "Jaw 62",
+        "src": "assets/parts/chin-base-001-0319.webp",
+        "bounds": [
+          173,
+          311,
+          228,
+          119
+        ],
+        "source": "base-001-0319",
+        "pixels": 1024
+      },
+      {
+        "id": "chin-base-001-0397",
+        "name": "Jaw 63",
+        "src": "assets/parts/chin-base-001-0397.webp",
+        "bounds": [
+          158,
+          311,
+          203,
+          94
+        ],
+        "source": "base-001-0397",
+        "pixels": 1024
+      },
+      {
+        "id": "chin-nasa-S92-40463",
+        "name": "Jaw 64",
+        "src": "assets/parts/chin-nasa-S92-40463.webp",
+        "bounds": [
+          148,
+          311,
+          211,
+          105
+        ],
+        "source": "nasa-S92-40463",
+        "pixels": 1024
+      },
+      {
+        "id": "chin-nasa-jsc2014e037863",
+        "name": "Jaw 65",
+        "src": "assets/parts/chin-nasa-jsc2014e037863.webp",
+        "bounds": [
+          155,
+          311,
+          223,
+          128
+        ],
+        "source": "nasa-jsc2014e037863",
+        "pixels": 1024
+      },
+      {
+        "id": "chin-nasa-JSC2001-03044",
+        "name": "Jaw 66",
+        "src": "assets/parts/chin-nasa-JSC2001-03044.webp",
+        "bounds": [
+          130,
+          311,
+          236,
+          110
+        ],
+        "source": "nasa-JSC2001-03044",
+        "pixels": 1024
+      },
+      {
+        "id": "chin-nasa-jsc2025e078605_alt",
+        "name": "Jaw 67",
+        "src": "assets/parts/chin-nasa-jsc2025e078605_alt.webp",
+        "bounds": [
+          155,
+          311,
+          228,
+          111
+        ],
+        "source": "nasa-jsc2025e078605_alt",
+        "pixels": 1024
+      },
+      {
+        "id": "chin-nasa-S97-06573",
+        "name": "Jaw 68",
+        "src": "assets/parts/chin-nasa-S97-06573.webp",
+        "bounds": [
+          135,
+          311,
+          247,
+          120
+        ],
+        "source": "nasa-S97-06573",
+        "pixels": 512
+      },
+      {
+        "id": "chin-nasa-S85-36539",
+        "name": "Jaw 69",
+        "src": "assets/parts/chin-nasa-S85-36539.webp",
+        "bounds": [
+          144,
+          311,
+          232,
+          104
+        ],
+        "source": "nasa-S85-36539",
+        "pixels": 1024
+      },
+      {
+        "id": "chin-nasa-S82-36442",
+        "name": "Jaw 70",
+        "src": "assets/parts/chin-nasa-S82-36442.webp",
+        "bounds": [
+          164,
+          311,
+          246,
+          116
+        ],
+        "source": "nasa-S82-36442",
+        "pixels": 1024
+      },
+      {
+        "id": "chin-nasa-NHQ202009160004",
+        "name": "Jaw 71",
+        "src": "assets/parts/chin-nasa-NHQ202009160004.webp",
+        "bounds": [
+          142,
+          311,
+          231,
+          118
+        ],
+        "source": "nasa-NHQ202009160004",
+        "pixels": 1024
+      },
+      {
+        "id": "chin-nasa-s64-29926",
+        "name": "Jaw 72",
+        "src": "assets/parts/chin-nasa-s64-29926.webp",
+        "bounds": [
+          169,
+          311,
+          226,
+          108
+        ],
+        "source": "nasa-s64-29926",
+        "pixels": 1024
+      },
+      {
+        "id": "chin-nasa-jsc2023e047050_alt",
+        "name": "Jaw 73",
+        "src": "assets/parts/chin-nasa-jsc2023e047050_alt.webp",
+        "bounds": [
+          152,
+          311,
+          248,
+          131
+        ],
+        "source": "nasa-jsc2023e047050_alt",
+        "pixels": 1024
+      },
+      {
+        "id": "chin-gov-13",
+        "name": "Jaw 74",
+        "src": "assets/parts/chin-gov-13.webp",
+        "bounds": [
+          156,
+          312,
+          237,
+          113
+        ],
+        "source": "gov-13",
+        "pixels": 512
+      },
+      {
+        "id": "chin-gov-16",
+        "name": "Jaw 75",
+        "src": "assets/parts/chin-gov-16.webp",
+        "bounds": [
+          146,
+          311,
+          232,
+          121
+        ],
+        "source": "gov-16",
+        "pixels": 1024
+      },
+      {
+        "id": "chin-gov-17",
+        "name": "Jaw 76",
+        "src": "assets/parts/chin-gov-17.webp",
+        "bounds": [
+          143,
+          311,
+          234,
+          134
+        ],
+        "source": "gov-17",
+        "pixels": 512
+      }
+    ],
+    "mouth": [
+      {
+        "id": "mouth-001-0011",
+        "name": "Lips 01",
+        "src": "assets/parts/mouth-001-0011.webp",
+        "bounds": [
+          211,
+          315,
+          91,
+          44
+        ],
+        "source": "001-0011",
+        "pixels": 512
+      },
+      {
+        "id": "mouth-gov-7",
+        "name": "Lips 02",
+        "src": "assets/parts/mouth-gov-7.webp",
+        "bounds": [
+          202,
+          315,
+          116,
+          51
+        ],
+        "source": "gov-7",
+        "pixels": 512
+      },
+      {
+        "id": "mouth-001-0166",
+        "name": "Lips 03",
+        "src": "assets/parts/mouth-001-0166.webp",
+        "bounds": [
+          203,
+          316,
+          98,
+          41
+        ],
+        "source": "001-0166",
+        "pixels": 512
+      },
+      {
+        "id": "mouth-gov-6",
+        "name": "Lips 04",
+        "src": "assets/parts/mouth-gov-6.webp",
+        "bounds": [
+          209,
+          319,
+          90,
+          32
+        ],
+        "source": "gov-6",
+        "pixels": 512
+      },
+      {
+        "id": "mouth-001-0251",
+        "name": "Lips 05",
+        "src": "assets/parts/mouth-001-0251.webp",
+        "bounds": [
+          209,
+          314,
+          96,
+          44
+        ],
+        "source": "001-0251",
+        "pixels": 512
+      },
+      {
+        "id": "mouth-gov-3",
+        "name": "Lips 06",
+        "src": "assets/parts/mouth-gov-3.webp",
+        "bounds": [
+          196,
+          308,
+          124,
+          60
+        ],
+        "source": "gov-3",
+        "pixels": 512
+      },
+      {
+        "id": "mouth-001-0426",
+        "name": "Lips 07",
+        "src": "assets/parts/mouth-001-0426.webp",
+        "bounds": [
+          212,
+          315,
+          90,
+          46
+        ],
+        "source": "001-0426",
+        "pixels": 512
+      },
+      {
+        "id": "mouth-gov-2",
+        "name": "Lips 08",
+        "src": "assets/parts/mouth-gov-2.webp",
+        "bounds": [
+          204,
+          319,
+          108,
+          33
+        ],
+        "source": "gov-2",
+        "pixels": 512
+      },
+      {
+        "id": "mouth-001-0126",
+        "name": "Lips 09",
+        "src": "assets/parts/mouth-001-0126.webp",
+        "bounds": [
+          220,
+          319,
+          89,
+          36
+        ],
+        "source": "001-0126",
+        "pixels": 512
+      },
+      {
+        "id": "mouth-gov-11",
+        "name": "Lips 10",
+        "src": "assets/parts/mouth-gov-11.webp",
+        "bounds": [
+          200,
+          305,
+          131,
+          73
+        ],
+        "source": "gov-11",
+        "pixels": 512
+      },
+      {
+        "id": "mouth-001-0381",
+        "name": "Lips 11",
+        "src": "assets/parts/mouth-001-0381.webp",
+        "bounds": [
+          208,
+          316,
+          93,
+          45
+        ],
+        "source": "001-0381",
+        "pixels": 512
+      },
+      {
+        "id": "mouth-gov-10",
+        "name": "Lips 12",
+        "src": "assets/parts/mouth-gov-10.webp",
+        "bounds": [
+          201,
+          314,
+          120,
+          51
+        ],
+        "source": "gov-10",
+        "pixels": 512
+      },
+      {
+        "id": "mouth-001-0006",
+        "name": "Lips 13",
+        "src": "assets/parts/mouth-001-0006.webp",
+        "bounds": [
+          210,
+          313,
+          93,
+          45
+        ],
+        "source": "001-0006",
+        "pixels": 512
+      },
+      {
+        "id": "mouth-001-0026",
+        "name": "Lips 14",
+        "src": "assets/parts/mouth-001-0026.webp",
+        "bounds": [
+          212,
+          311,
+          92,
+          48
+        ],
+        "source": "001-0026",
+        "pixels": 512
+      },
+      {
+        "id": "mouth-001-0041",
+        "name": "Lips 15",
+        "src": "assets/parts/mouth-001-0041.webp",
+        "bounds": [
+          210,
+          314,
+          94,
+          47
+        ],
+        "source": "001-0041",
+        "pixels": 512
+      },
+      {
+        "id": "mouth-001-0046",
+        "name": "Lips 16",
+        "src": "assets/parts/mouth-001-0046.webp",
+        "bounds": [
+          206,
+          317,
+          100,
+          43
+        ],
+        "source": "001-0046",
+        "pixels": 512
+      },
+      {
+        "id": "mouth-001-0066",
+        "name": "Lips 17",
+        "src": "assets/parts/mouth-001-0066.webp",
+        "bounds": [
+          209,
+          315,
+          90,
+          44
+        ],
+        "source": "001-0066",
+        "pixels": 512
+      },
+      {
+        "id": "mouth-001-0081",
+        "name": "Lips 18",
+        "src": "assets/parts/mouth-001-0081.webp",
+        "bounds": [
+          212,
+          314,
+          90,
+          46
+        ],
+        "source": "001-0081",
+        "pixels": 512
+      },
+      {
+        "id": "mouth-001-0086",
+        "name": "Lips 19",
+        "src": "assets/parts/mouth-001-0086.webp",
+        "bounds": [
+          211,
+          310,
+          94,
+          53
+        ],
+        "source": "001-0086",
+        "pixels": 512
+      },
+      {
+        "id": "mouth-001-0106",
+        "name": "Lips 20",
+        "src": "assets/parts/mouth-001-0106.webp",
+        "bounds": [
+          210,
+          316,
+          87,
+          40
+        ],
+        "source": "001-0106",
+        "pixels": 512
+      },
+      {
+        "id": "mouth-001-0121",
+        "name": "Lips 21",
+        "src": "assets/parts/mouth-001-0121.webp",
+        "bounds": [
+          209,
+          319,
+          92,
+          36
+        ],
+        "source": "001-0121",
+        "pixels": 512
+      },
+      {
+        "id": "mouth-001-0131",
+        "name": "Lips 22",
+        "src": "assets/parts/mouth-001-0131.webp",
+        "bounds": [
+          213,
+          314,
+          90,
+          44
+        ],
+        "source": "001-0131",
+        "pixels": 512
+      },
+      {
+        "id": "mouth-001-0141",
+        "name": "Lips 23",
+        "src": "assets/parts/mouth-001-0141.webp",
+        "bounds": [
+          206,
+          315,
+          97,
+          45
+        ],
+        "source": "001-0141",
+        "pixels": 512
+      },
+      {
+        "id": "mouth-001-0171",
+        "name": "Lips 24",
+        "src": "assets/parts/mouth-001-0171.webp",
+        "bounds": [
+          206,
+          315,
+          89,
+          43
+        ],
+        "source": "001-0171",
+        "pixels": 512
+      },
+      {
+        "id": "mouth-001-0191",
+        "name": "Lips 25",
+        "src": "assets/parts/mouth-001-0191.webp",
+        "bounds": [
+          210,
+          309,
+          95,
+          52
+        ],
+        "source": "001-0191",
+        "pixels": 512
+      },
+      {
+        "id": "mouth-001-0201",
+        "name": "Lips 26",
+        "src": "assets/parts/mouth-001-0201.webp",
+        "bounds": [
+          210,
+          316,
+          93,
+          44
+        ],
+        "source": "001-0201",
+        "pixels": 512
+      },
+      {
+        "id": "mouth-001-0206",
+        "name": "Lips 27",
+        "src": "assets/parts/mouth-001-0206.webp",
+        "bounds": [
+          215,
+          316,
+          88,
+          42
+        ],
+        "source": "001-0206",
+        "pixels": 512
+      },
+      {
+        "id": "mouth-001-0226",
+        "name": "Lips 28",
+        "src": "assets/parts/mouth-001-0226.webp",
+        "bounds": [
+          198,
+          317,
+          112,
+          43
+        ],
+        "source": "001-0226",
+        "pixels": 512
+      },
+      {
+        "id": "mouth-001-0231",
+        "name": "Lips 29",
+        "src": "assets/parts/mouth-001-0231.webp",
+        "bounds": [
+          209,
+          313,
+          93,
+          48
+        ],
+        "source": "001-0231",
+        "pixels": 512
+      },
+      {
+        "id": "mouth-001-0266",
+        "name": "Lips 30",
+        "src": "assets/parts/mouth-001-0266.webp",
+        "bounds": [
+          214,
+          312,
+          87,
+          49
+        ],
+        "source": "001-0266",
+        "pixels": 512
+      },
+      {
+        "id": "mouth-001-0271",
+        "name": "Lips 31",
+        "src": "assets/parts/mouth-001-0271.webp",
+        "bounds": [
+          216,
+          316,
+          84,
+          44
+        ],
+        "source": "001-0271",
+        "pixels": 512
+      },
+      {
+        "id": "mouth-001-0301",
+        "name": "Lips 32",
+        "src": "assets/parts/mouth-001-0301.webp",
+        "bounds": [
+          213,
+          316,
+          87,
+          40
+        ],
+        "source": "001-0301",
+        "pixels": 512
+      },
+      {
+        "id": "mouth-001-0306",
+        "name": "Lips 33",
+        "src": "assets/parts/mouth-001-0306.webp",
+        "bounds": [
+          213,
+          317,
+          88,
+          38
+        ],
+        "source": "001-0306",
+        "pixels": 512
+      },
+      {
+        "id": "mouth-001-0326",
+        "name": "Lips 34",
+        "src": "assets/parts/mouth-001-0326.webp",
+        "bounds": [
+          183,
+          308,
+          140,
+          61
+        ],
+        "source": "001-0326",
+        "pixels": 512
+      },
+      {
+        "id": "mouth-001-0331",
+        "name": "Lips 35",
+        "src": "assets/parts/mouth-001-0331.webp",
+        "bounds": [
+          216,
+          314,
+          84,
+          51
+        ],
+        "source": "001-0331",
+        "pixels": 512
+      },
+      {
+        "id": "mouth-001-0346",
+        "name": "Lips 36",
+        "src": "assets/parts/mouth-001-0346.webp",
+        "bounds": [
+          211,
+          318,
+          87,
+          34
+        ],
+        "source": "001-0346",
+        "pixels": 512
+      },
+      {
+        "id": "mouth-001-0361",
+        "name": "Lips 37",
+        "src": "assets/parts/mouth-001-0361.webp",
+        "bounds": [
+          209,
+          319,
+          100,
+          37
+        ],
+        "source": "001-0361",
+        "pixels": 512
+      },
+      {
+        "id": "mouth-001-0366",
+        "name": "Lips 38",
+        "src": "assets/parts/mouth-001-0366.webp",
+        "bounds": [
+          211,
+          313,
+          86,
+          46
+        ],
+        "source": "001-0366",
+        "pixels": 512
+      },
+      {
+        "id": "mouth-001-0386",
+        "name": "Lips 39",
+        "src": "assets/parts/mouth-001-0386.webp",
+        "bounds": [
+          213,
+          318,
+          86,
+          36
+        ],
+        "source": "001-0386",
+        "pixels": 512
+      },
+      {
+        "id": "mouth-001-0421",
+        "name": "Lips 40",
+        "src": "assets/parts/mouth-001-0421.webp",
+        "bounds": [
+          209,
+          314,
+          92,
+          47
+        ],
+        "source": "001-0421",
+        "pixels": 512
+      },
+      {
+        "id": "mouth-001-0431",
+        "name": "Lips 41",
+        "src": "assets/parts/mouth-001-0431.webp",
+        "bounds": [
+          209,
+          316,
+          96,
+          45
+        ],
+        "source": "001-0431",
+        "pixels": 512
+      },
+      {
+        "id": "mouth-001-0451",
+        "name": "Lips 42",
+        "src": "assets/parts/mouth-001-0451.webp",
+        "bounds": [
+          210,
+          318,
+          89,
+          38
+        ],
+        "source": "001-0451",
+        "pixels": 512
+      },
+      {
+        "id": "mouth-001-0461",
+        "name": "Lips 43",
+        "src": "assets/parts/mouth-001-0461.webp",
+        "bounds": [
+          210,
+          317,
+          90,
+          42
+        ],
+        "source": "001-0461",
+        "pixels": 512
+      },
+      {
+        "id": "mouth-001-0471",
+        "name": "Lips 44",
+        "src": "assets/parts/mouth-001-0471.webp",
+        "bounds": [
+          212,
+          314,
+          91,
+          44
+        ],
+        "source": "001-0471",
+        "pixels": 512
+      },
+      {
+        "id": "mouth-gov-1",
+        "name": "Lips 45",
+        "src": "assets/parts/mouth-gov-1.webp",
+        "bounds": [
+          200,
+          315,
+          115,
+          45
+        ],
+        "source": "gov-1",
+        "pixels": 512
+      },
+      {
+        "id": "mouth-gov-4",
+        "name": "Lips 46",
+        "src": "assets/parts/mouth-gov-4.webp",
+        "bounds": [
+          203,
+          314,
+          112,
+          50
+        ],
+        "source": "gov-4",
+        "pixels": 512
+      },
+      {
+        "id": "mouth-gov-5",
+        "name": "Lips 47",
+        "src": "assets/parts/mouth-gov-5.webp",
+        "bounds": [
+          201,
+          311,
+          125,
+          54
+        ],
+        "source": "gov-5",
+        "pixels": 512
+      },
+      {
+        "id": "mouth-gov-9",
+        "name": "Lips 48",
+        "src": "assets/parts/mouth-gov-9.webp",
+        "bounds": [
+          209,
+          321,
+          99,
+          24
+        ],
+        "source": "gov-9",
+        "pixels": 512
+      },
+      {
+        "id": "mouth-gov-12",
+        "name": "Lips 49",
+        "src": "assets/parts/mouth-gov-12.webp",
+        "bounds": [
+          203,
+          312,
+          118,
+          50
+        ],
+        "source": "gov-12",
+        "pixels": 512
+      },
+      {
+        "id": "mouth-base-001-0019",
+        "name": "Lips 50",
+        "src": "assets/parts/mouth-base-001-0019.webp",
+        "bounds": [
+          207,
+          316,
+          108,
+          47
+        ],
+        "source": "base-001-0019",
+        "pixels": 1024
+      },
+      {
+        "id": "mouth-base-001-0027",
+        "name": "Lips 51",
+        "src": "assets/parts/mouth-base-001-0027.webp",
+        "bounds": [
+          207,
+          314,
+          93,
+          47
+        ],
+        "source": "base-001-0027",
+        "pixels": 1024
+      },
+      {
+        "id": "mouth-base-001-0035",
+        "name": "Lips 52",
+        "src": "assets/parts/mouth-base-001-0035.webp",
+        "bounds": [
+          213,
+          315,
+          87,
+          43
+        ],
+        "source": "base-001-0035",
+        "pixels": 1024
+      },
+      {
+        "id": "mouth-base-001-0057",
+        "name": "Lips 53",
+        "src": "assets/parts/mouth-base-001-0057.webp",
+        "bounds": [
+          215,
+          315,
+          90,
+          48
+        ],
+        "source": "base-001-0057",
+        "pixels": 1024
+      },
+      {
+        "id": "mouth-base-001-0079",
+        "name": "Lips 54",
+        "src": "assets/parts/mouth-base-001-0079.webp",
+        "bounds": [
+          219,
+          313,
+          89,
+          47
+        ],
+        "source": "base-001-0079",
+        "pixels": 1024
+      },
+      {
+        "id": "mouth-base-001-0087",
+        "name": "Lips 55",
+        "src": "assets/parts/mouth-base-001-0087.webp",
+        "bounds": [
+          211,
+          315,
+          90,
+          44
+        ],
+        "source": "base-001-0087",
+        "pixels": 1024
+      },
+      {
+        "id": "mouth-base-001-0097",
+        "name": "Lips 56",
+        "src": "assets/parts/mouth-base-001-0097.webp",
+        "bounds": [
+          191,
+          307,
+          131,
+          64
+        ],
+        "source": "base-001-0097",
+        "pixels": 1024
+      },
+      {
+        "id": "mouth-base-001-0125",
+        "name": "Lips 57",
+        "src": "assets/parts/mouth-base-001-0125.webp",
+        "bounds": [
+          211,
+          316,
+          96,
+          40
+        ],
+        "source": "base-001-0125",
+        "pixels": 1024
+      },
+      {
+        "id": "mouth-base-001-0143",
+        "name": "Lips 58",
+        "src": "assets/parts/mouth-base-001-0143.webp",
+        "bounds": [
+          213,
+          315,
+          90,
+          44
+        ],
+        "source": "base-001-0143",
+        "pixels": 1024
+      },
+      {
+        "id": "mouth-base-001-0217",
+        "name": "Lips 59",
+        "src": "assets/parts/mouth-base-001-0217.webp",
+        "bounds": [
+          209,
+          315,
+          90,
+          40
+        ],
+        "source": "base-001-0217",
+        "pixels": 1024
+      },
+      {
+        "id": "mouth-base-001-0248",
+        "name": "Lips 60",
+        "src": "assets/parts/mouth-base-001-0248.webp",
+        "bounds": [
+          211,
+          314,
+          90,
+          48
+        ],
+        "source": "base-001-0248",
+        "pixels": 1024
+      },
+      {
+        "id": "mouth-base-001-0263",
+        "name": "Lips 61",
+        "src": "assets/parts/mouth-base-001-0263.webp",
+        "bounds": [
+          213,
+          316,
+          85,
+          41
+        ],
+        "source": "base-001-0263",
+        "pixels": 1024
+      },
+      {
+        "id": "mouth-base-001-0319",
+        "name": "Lips 62",
+        "src": "assets/parts/mouth-base-001-0319.webp",
+        "bounds": [
+          199,
+          313,
+          95,
+          47
+        ],
+        "source": "base-001-0319",
+        "pixels": 1024
+      },
+      {
+        "id": "mouth-base-001-0397",
+        "name": "Lips 63",
+        "src": "assets/parts/mouth-base-001-0397.webp",
+        "bounds": [
+          211,
+          315,
+          91,
+          43
+        ],
+        "source": "base-001-0397",
+        "pixels": 1024
+      },
+      {
+        "id": "mouth-nasa-S92-40463",
+        "name": "Lips 64",
+        "src": "assets/parts/mouth-nasa-S92-40463.webp",
+        "bounds": [
+          205,
+          312,
+          104,
+          57
+        ],
+        "source": "nasa-S92-40463",
+        "pixels": 1024
+      },
+      {
+        "id": "mouth-nasa-jsc2014e037863",
+        "name": "Lips 65",
+        "src": "assets/parts/mouth-nasa-jsc2014e037863.webp",
+        "bounds": [
+          198,
+          313,
+          119,
+          56
+        ],
+        "source": "nasa-jsc2014e037863",
+        "pixels": 1024
+      },
+      {
+        "id": "mouth-nasa-JSC2001-03044",
+        "name": "Lips 66",
+        "src": "assets/parts/mouth-nasa-JSC2001-03044.webp",
+        "bounds": [
+          186,
+          311,
+          130,
+          49
+        ],
+        "source": "nasa-JSC2001-03044",
+        "pixels": 1024
+      },
+      {
+        "id": "mouth-nasa-jsc2025e078605_alt",
+        "name": "Lips 67",
+        "src": "assets/parts/mouth-nasa-jsc2025e078605_alt.webp",
+        "bounds": [
+          204,
+          316,
+          113,
+          39
+        ],
+        "source": "nasa-jsc2025e078605_alt",
+        "pixels": 1024
+      },
+      {
+        "id": "mouth-nasa-S97-06573",
+        "name": "Lips 68",
+        "src": "assets/parts/mouth-nasa-S97-06573.webp",
+        "bounds": [
+          200,
+          311,
+          115,
+          54
+        ],
+        "source": "nasa-S97-06573",
+        "pixels": 512
+      },
+      {
+        "id": "mouth-nasa-S82-36442",
+        "name": "Lips 69",
+        "src": "assets/parts/mouth-nasa-S82-36442.webp",
+        "bounds": [
+          210,
+          323,
+          94,
+          24
+        ],
+        "source": "nasa-S82-36442",
+        "pixels": 1024
+      },
+      {
+        "id": "mouth-nasa-NHQ202009160004",
+        "name": "Lips 70",
+        "src": "assets/parts/mouth-nasa-NHQ202009160004.webp",
+        "bounds": [
+          215,
+          320,
+          91,
+          30
+        ],
+        "source": "nasa-NHQ202009160004",
+        "pixels": 1024
+      },
+      {
+        "id": "mouth-nasa-s64-29926",
+        "name": "Lips 71",
+        "src": "assets/parts/mouth-nasa-s64-29926.webp",
+        "bounds": [
+          202,
+          322,
+          82,
+          27
+        ],
+        "source": "nasa-s64-29926",
+        "pixels": 1024
+      },
+      {
+        "id": "mouth-nasa-jsc2023e047050_alt",
+        "name": "Lips 72",
+        "src": "assets/parts/mouth-nasa-jsc2023e047050_alt.webp",
+        "bounds": [
+          199,
+          315,
+          123,
+          51
+        ],
+        "source": "nasa-jsc2023e047050_alt",
+        "pixels": 1024
+      },
+      {
+        "id": "mouth-gov-14",
+        "name": "Lips 73",
+        "src": "assets/parts/mouth-gov-14.webp",
+        "bounds": [
+          203,
+          320,
+          96,
+          28
+        ],
+        "source": "gov-14",
+        "pixels": 512
+      },
+      {
+        "id": "mouth-gov-16",
+        "name": "Lips 74",
+        "src": "assets/parts/mouth-gov-16.webp",
+        "bounds": [
+          191,
+          307,
+          128,
+          62
+        ],
+        "source": "gov-16",
+        "pixels": 1024
+      },
+      {
+        "id": "mouth-gov-17",
+        "name": "Lips 75",
+        "src": "assets/parts/mouth-gov-17.webp",
+        "bounds": [
+          198,
+          317,
+          123,
+          34
+        ],
+        "source": "gov-17",
+        "pixels": 512
+      }
+    ],
+    "nose": [
+      {
+        "id": "nose-001-0011",
+        "name": "Nose 01",
+        "src": "assets/parts/nose-001-0011.webp",
+        "bounds": [
+          218,
+          221,
+          70,
+          87
+        ],
+        "source": "001-0011",
+        "pixels": 512
+      },
+      {
+        "id": "nose-gov-7",
+        "name": "Nose 02",
+        "src": "assets/parts/nose-gov-7.webp",
+        "bounds": [
+          209,
+          218,
+          95,
+          90
+        ],
+        "source": "gov-7",
+        "pixels": 512
+      },
+      {
+        "id": "nose-001-0166",
+        "name": "Nose 03",
+        "src": "assets/parts/nose-001-0166.webp",
+        "bounds": [
+          217,
+          227,
+          73,
+          84
+        ],
+        "source": "001-0166",
+        "pixels": 512
+      },
+      {
+        "id": "nose-gov-6",
+        "name": "Nose 04",
+        "src": "assets/parts/nose-gov-6.webp",
+        "bounds": [
+          210,
+          240,
+          91,
+          68
+        ],
+        "source": "gov-6",
+        "pixels": 512
+      },
+      {
+        "id": "nose-001-0251",
+        "name": "Nose 05",
+        "src": "assets/parts/nose-001-0251.webp",
+        "bounds": [
+          217,
+          219,
+          78,
+          85
+        ],
+        "source": "001-0251",
+        "pixels": 512
+      },
+      {
+        "id": "nose-gov-3",
+        "name": "Nose 06",
+        "src": "assets/parts/nose-gov-3.webp",
+        "bounds": [
+          204,
+          217,
+          102,
+          85
+        ],
+        "source": "gov-3",
+        "pixels": 512
+      },
+      {
+        "id": "nose-001-0426",
+        "name": "Nose 07",
+        "src": "assets/parts/nose-001-0426.webp",
+        "bounds": [
+          219,
+          222,
+          74,
+          85
+        ],
+        "source": "001-0426",
+        "pixels": 512
+      },
+      {
+        "id": "nose-gov-2",
+        "name": "Nose 08",
+        "src": "assets/parts/nose-gov-2.webp",
+        "bounds": [
+          219,
+          221,
+          83,
+          88
+        ],
+        "source": "gov-2",
+        "pixels": 512
+      },
+      {
+        "id": "nose-001-0126",
+        "name": "Nose 09",
+        "src": "assets/parts/nose-001-0126.webp",
+        "bounds": [
+          227,
+          217,
+          77,
+          89
+        ],
+        "source": "001-0126",
+        "pixels": 512
+      },
+      {
+        "id": "nose-gov-11",
+        "name": "Nose 10",
+        "src": "assets/parts/nose-gov-11.webp",
+        "bounds": [
+          206,
+          219,
+          100,
+          87
+        ],
+        "source": "gov-11",
+        "pixels": 512
+      },
+      {
+        "id": "nose-001-0381",
+        "name": "Nose 11",
+        "src": "assets/parts/nose-001-0381.webp",
+        "bounds": [
+          215,
+          221,
+          77,
+          87
+        ],
+        "source": "001-0381",
+        "pixels": 512
+      },
+      {
+        "id": "nose-gov-10",
+        "name": "Nose 12",
+        "src": "assets/parts/nose-gov-10.webp",
+        "bounds": [
+          214,
+          219,
+          92,
+          93
+        ],
+        "source": "gov-10",
+        "pixels": 512
+      },
+      {
+        "id": "nose-001-0006",
+        "name": "Nose 13",
+        "src": "assets/parts/nose-001-0006.webp",
+        "bounds": [
+          221,
+          221,
+          71,
+          87
+        ],
+        "source": "001-0006",
+        "pixels": 512
+      },
+      {
+        "id": "nose-001-0026",
+        "name": "Nose 14",
+        "src": "assets/parts/nose-001-0026.webp",
+        "bounds": [
+          220,
+          217,
+          75,
+          92
+        ],
+        "source": "001-0026",
+        "pixels": 512
+      },
+      {
+        "id": "nose-001-0041",
+        "name": "Nose 15",
+        "src": "assets/parts/nose-001-0041.webp",
+        "bounds": [
+          221,
+          222,
+          69,
+          86
+        ],
+        "source": "001-0041",
+        "pixels": 512
+      },
+      {
+        "id": "nose-001-0046",
+        "name": "Nose 16",
+        "src": "assets/parts/nose-001-0046.webp",
+        "bounds": [
+          213,
+          220,
+          81,
+          90
+        ],
+        "source": "001-0046",
+        "pixels": 512
+      },
+      {
+        "id": "nose-001-0066",
+        "name": "Nose 17",
+        "src": "assets/parts/nose-001-0066.webp",
+        "bounds": [
+          219,
+          223,
+          72,
+          86
+        ],
+        "source": "001-0066",
+        "pixels": 512
+      },
+      {
+        "id": "nose-001-0081",
+        "name": "Nose 18",
+        "src": "assets/parts/nose-001-0081.webp",
+        "bounds": [
+          218,
+          221,
+          75,
+          88
+        ],
+        "source": "001-0081",
+        "pixels": 512
+      },
+      {
+        "id": "nose-001-0086",
+        "name": "Nose 19",
+        "src": "assets/parts/nose-001-0086.webp",
+        "bounds": [
+          217,
+          220,
+          81,
+          86
+        ],
+        "source": "001-0086",
+        "pixels": 512
+      },
+      {
+        "id": "nose-001-0106",
+        "name": "Nose 20",
+        "src": "assets/parts/nose-001-0106.webp",
+        "bounds": [
+          216,
+          226,
+          73,
+          81
+        ],
+        "source": "001-0106",
+        "pixels": 512
+      },
+      {
+        "id": "nose-001-0121",
+        "name": "Nose 21",
+        "src": "assets/parts/nose-001-0121.webp",
+        "bounds": [
+          221,
+          223,
+          74,
+          87
+        ],
+        "source": "001-0121",
+        "pixels": 512
+      },
+      {
+        "id": "nose-001-0131",
+        "name": "Nose 22",
+        "src": "assets/parts/nose-001-0131.webp",
+        "bounds": [
+          221,
+          225,
+          61,
+          81
+        ],
+        "source": "001-0131",
+        "pixels": 512
+      },
+      {
+        "id": "nose-001-0141",
+        "name": "Nose 23",
+        "src": "assets/parts/nose-001-0141.webp",
+        "bounds": [
+          213,
+          220,
+          80,
+          89
+        ],
+        "source": "001-0141",
+        "pixels": 512
+      },
+      {
+        "id": "nose-001-0171",
+        "name": "Nose 24",
+        "src": "assets/parts/nose-001-0171.webp",
+        "bounds": [
+          216,
+          219,
+          72,
+          87
+        ],
+        "source": "001-0171",
+        "pixels": 512
+      },
+      {
+        "id": "nose-001-0191",
+        "name": "Nose 25",
+        "src": "assets/parts/nose-001-0191.webp",
+        "bounds": [
+          221,
+          218,
+          71,
+          88
+        ],
+        "source": "001-0191",
+        "pixels": 512
+      },
+      {
+        "id": "nose-001-0201",
+        "name": "Nose 26",
+        "src": "assets/parts/nose-001-0201.webp",
+        "bounds": [
+          215,
+          222,
+          75,
+          85
+        ],
+        "source": "001-0201",
+        "pixels": 512
+      },
+      {
+        "id": "nose-001-0206",
+        "name": "Nose 27",
+        "src": "assets/parts/nose-001-0206.webp",
+        "bounds": [
+          218,
+          221,
+          66,
+          86
+        ],
+        "source": "001-0206",
+        "pixels": 512
+      },
+      {
+        "id": "nose-001-0226",
+        "name": "Nose 28",
+        "src": "assets/parts/nose-001-0226.webp",
+        "bounds": [
+          211,
+          221,
+          90,
+          87
+        ],
+        "source": "001-0226",
+        "pixels": 512
+      },
+      {
+        "id": "nose-001-0231",
+        "name": "Nose 29",
+        "src": "assets/parts/nose-001-0231.webp",
+        "bounds": [
+          217,
+          222,
+          75,
+          87
+        ],
+        "source": "001-0231",
+        "pixels": 512
+      },
+      {
+        "id": "nose-001-0266",
+        "name": "Nose 30",
+        "src": "assets/parts/nose-001-0266.webp",
+        "bounds": [
+          221,
+          222,
+          70,
+          87
+        ],
+        "source": "001-0266",
+        "pixels": 512
+      },
+      {
+        "id": "nose-001-0271",
+        "name": "Nose 31",
+        "src": "assets/parts/nose-001-0271.webp",
+        "bounds": [
+          223,
+          220,
+          61,
+          90
+        ],
+        "source": "001-0271",
+        "pixels": 512
+      },
+      {
+        "id": "nose-001-0301",
+        "name": "Nose 32",
+        "src": "assets/parts/nose-001-0301.webp",
+        "bounds": [
+          221,
+          222,
+          73,
+          88
+        ],
+        "source": "001-0301",
+        "pixels": 512
+      },
+      {
+        "id": "nose-001-0306",
+        "name": "Nose 33",
+        "src": "assets/parts/nose-001-0306.webp",
+        "bounds": [
+          219,
+          223,
+          71,
+          85
+        ],
+        "source": "001-0306",
+        "pixels": 512
+      },
+      {
+        "id": "nose-001-0326",
+        "name": "Nose 34",
+        "src": "assets/parts/nose-001-0326.webp",
+        "bounds": [
+          212,
+          220,
+          97,
+          89
+        ],
+        "source": "001-0326",
+        "pixels": 512
+      },
+      {
+        "id": "nose-001-0331",
+        "name": "Nose 35",
+        "src": "assets/parts/nose-001-0331.webp",
+        "bounds": [
+          222,
+          218,
+          69,
+          86
+        ],
+        "source": "001-0331",
+        "pixels": 512
+      },
+      {
+        "id": "nose-001-0346",
+        "name": "Nose 36",
+        "src": "assets/parts/nose-001-0346.webp",
+        "bounds": [
+          212,
+          220,
+          87,
+          91
+        ],
+        "source": "001-0346",
+        "pixels": 512
+      },
+      {
+        "id": "nose-001-0361",
+        "name": "Nose 37",
+        "src": "assets/parts/nose-001-0361.webp",
+        "bounds": [
+          210,
+          220,
+          93,
+          92
+        ],
+        "source": "001-0361",
+        "pixels": 512
+      },
+      {
+        "id": "nose-001-0366",
+        "name": "Nose 38",
+        "src": "assets/parts/nose-001-0366.webp",
+        "bounds": [
+          216,
+          221,
+          76,
+          87
+        ],
+        "source": "001-0366",
+        "pixels": 512
+      },
+      {
+        "id": "nose-001-0386",
+        "name": "Nose 39",
+        "src": "assets/parts/nose-001-0386.webp",
+        "bounds": [
+          219,
+          224,
+          71,
+          86
+        ],
+        "source": "001-0386",
+        "pixels": 512
+      },
+      {
+        "id": "nose-001-0421",
+        "name": "Nose 40",
+        "src": "assets/parts/nose-001-0421.webp",
+        "bounds": [
+          218,
+          221,
+          67,
+          86
+        ],
+        "source": "001-0421",
+        "pixels": 512
+      },
+      {
+        "id": "nose-001-0431",
+        "name": "Nose 41",
+        "src": "assets/parts/nose-001-0431.webp",
+        "bounds": [
+          223,
+          223,
+          66,
+          89
+        ],
+        "source": "001-0431",
+        "pixels": 512
+      },
+      {
+        "id": "nose-001-0451",
+        "name": "Nose 42",
+        "src": "assets/parts/nose-001-0451.webp",
+        "bounds": [
+          218,
+          221,
+          74,
+          89
+        ],
+        "source": "001-0451",
+        "pixels": 512
+      },
+      {
+        "id": "nose-001-0461",
+        "name": "Nose 43",
+        "src": "assets/parts/nose-001-0461.webp",
+        "bounds": [
+          221,
+          225,
+          63,
+          85
+        ],
+        "source": "001-0461",
+        "pixels": 512
+      },
+      {
+        "id": "nose-001-0471",
+        "name": "Nose 44",
+        "src": "assets/parts/nose-001-0471.webp",
+        "bounds": [
+          219,
+          222,
+          71,
+          84
+        ],
+        "source": "001-0471",
+        "pixels": 512
+      },
+      {
+        "id": "nose-gov-1",
+        "name": "Nose 45",
+        "src": "assets/parts/nose-gov-1.webp",
+        "bounds": [
+          206,
+          224,
+          96,
+          87
+        ],
+        "source": "gov-1",
+        "pixels": 512
+      },
+      {
+        "id": "nose-gov-4",
+        "name": "Nose 46",
+        "src": "assets/parts/nose-gov-4.webp",
+        "bounds": [
+          208,
+          223,
+          93,
+          82
+        ],
+        "source": "gov-4",
+        "pixels": 512
+      },
+      {
+        "id": "nose-gov-5",
+        "name": "Nose 47",
+        "src": "assets/parts/nose-gov-5.webp",
+        "bounds": [
+          210,
+          220,
+          97,
+          92
+        ],
+        "source": "gov-5",
+        "pixels": 512
+      },
+      {
+        "id": "nose-gov-9",
+        "name": "Nose 48",
+        "src": "assets/parts/nose-gov-9.webp",
+        "bounds": [
+          217,
+          226,
+          85,
+          82
+        ],
+        "source": "gov-9",
+        "pixels": 512
+      },
+      {
+        "id": "nose-gov-12",
+        "name": "Nose 49",
+        "src": "assets/parts/nose-gov-12.webp",
+        "bounds": [
+          210,
+          227,
+          94,
+          84
+        ],
+        "source": "gov-12",
+        "pixels": 512
+      },
+      {
+        "id": "nose-base-001-0019",
+        "name": "Nose 50",
+        "src": "assets/parts/nose-base-001-0019.webp",
+        "bounds": [
+          224,
+          217,
+          92,
+          95
+        ],
+        "source": "base-001-0019",
+        "pixels": 1024
+      },
+      {
+        "id": "nose-base-001-0027",
+        "name": "Nose 51",
+        "src": "assets/parts/nose-base-001-0027.webp",
+        "bounds": [
+          212,
+          219,
+          77,
+          90
+        ],
+        "source": "base-001-0027",
+        "pixels": 1024
+      },
+      {
+        "id": "nose-base-001-0035",
+        "name": "Nose 52",
+        "src": "assets/parts/nose-base-001-0035.webp",
+        "bounds": [
+          221,
+          223,
+          67,
+          86
+        ],
+        "source": "base-001-0035",
+        "pixels": 1024
+      },
+      {
+        "id": "nose-base-001-0057",
+        "name": "Nose 53",
+        "src": "assets/parts/nose-base-001-0057.webp",
+        "bounds": [
+          223,
+          219,
+          74,
+          88
+        ],
+        "source": "base-001-0057",
+        "pixels": 1024
+      },
+      {
+        "id": "nose-base-001-0079",
+        "name": "Nose 54",
+        "src": "assets/parts/nose-base-001-0079.webp",
+        "bounds": [
+          228,
+          219,
+          65,
+          86
+        ],
+        "source": "base-001-0079",
+        "pixels": 1024
+      },
+      {
+        "id": "nose-base-001-0087",
+        "name": "Nose 55",
+        "src": "assets/parts/nose-base-001-0087.webp",
+        "bounds": [
+          217,
+          218,
+          77,
+          92
+        ],
+        "source": "base-001-0087",
+        "pixels": 1024
+      },
+      {
+        "id": "nose-base-001-0097",
+        "name": "Nose 56",
+        "src": "assets/parts/nose-base-001-0097.webp",
+        "bounds": [
+          209,
+          219,
+          98,
+          86
+        ],
+        "source": "base-001-0097",
+        "pixels": 1024
+      },
+      {
+        "id": "nose-base-001-0125",
+        "name": "Nose 57",
+        "src": "assets/parts/nose-base-001-0125.webp",
+        "bounds": [
+          220,
+          213,
+          77,
+          95
+        ],
+        "source": "base-001-0125",
+        "pixels": 1024
+      },
+      {
+        "id": "nose-base-001-0143",
+        "name": "Nose 58",
+        "src": "assets/parts/nose-base-001-0143.webp",
+        "bounds": [
+          219,
+          223,
+          74,
+          87
+        ],
+        "source": "base-001-0143",
+        "pixels": 1024
+      },
+      {
+        "id": "nose-base-001-0217",
+        "name": "Nose 59",
+        "src": "assets/parts/nose-base-001-0217.webp",
+        "bounds": [
+          215,
+          218,
+          76,
+          91
+        ],
+        "source": "base-001-0217",
+        "pixels": 1024
+      },
+      {
+        "id": "nose-base-001-0248",
+        "name": "Nose 60",
+        "src": "assets/parts/nose-base-001-0248.webp",
+        "bounds": [
+          219,
+          221,
+          66,
+          87
+        ],
+        "source": "base-001-0248",
+        "pixels": 1024
+      },
+      {
+        "id": "nose-base-001-0263",
+        "name": "Nose 61",
+        "src": "assets/parts/nose-base-001-0263.webp",
+        "bounds": [
+          221,
+          224,
+          66,
+          86
+        ],
+        "source": "base-001-0263",
+        "pixels": 1024
+      },
+      {
+        "id": "nose-base-001-0319",
+        "name": "Nose 62",
+        "src": "assets/parts/nose-base-001-0319.webp",
+        "bounds": [
+          206,
+          222,
+          76,
+          85
+        ],
+        "source": "base-001-0319",
+        "pixels": 1024
+      },
+      {
+        "id": "nose-base-001-0397",
+        "name": "Nose 63",
+        "src": "assets/parts/nose-base-001-0397.webp",
+        "bounds": [
+          219,
+          223,
+          74,
+          86
+        ],
+        "source": "base-001-0397",
+        "pixels": 1024
+      },
+      {
+        "id": "nose-nasa-S92-40463",
+        "name": "Nose 64",
+        "src": "assets/parts/nose-nasa-S92-40463.webp",
+        "bounds": [
+          211,
+          225,
+          93,
+          84
+        ],
+        "source": "nasa-S92-40463",
+        "pixels": 1024
+      },
+      {
+        "id": "nose-nasa-jsc2014e037863",
+        "name": "Nose 65",
+        "src": "assets/parts/nose-nasa-jsc2014e037863.webp",
+        "bounds": [
+          211,
+          223,
+          86,
+          84
+        ],
+        "source": "nasa-jsc2014e037863",
+        "pixels": 1024
+      },
+      {
+        "id": "nose-nasa-JSC2001-03044",
+        "name": "Nose 66",
+        "src": "assets/parts/nose-nasa-JSC2001-03044.webp",
+        "bounds": [
+          212,
+          225,
+          94,
+          87
+        ],
+        "source": "nasa-JSC2001-03044",
+        "pixels": 1024
+      },
+      {
+        "id": "nose-nasa-jsc2025e078605_alt",
+        "name": "Nose 67",
+        "src": "assets/parts/nose-nasa-jsc2025e078605_alt.webp",
+        "bounds": [
+          211,
+          221,
+          86,
+          90
+        ],
+        "source": "nasa-jsc2025e078605_alt",
+        "pixels": 1024
+      },
+      {
+        "id": "nose-nasa-S97-06573",
+        "name": "Nose 68",
+        "src": "assets/parts/nose-nasa-S97-06573.webp",
+        "bounds": [
+          222,
+          226,
+          76,
+          80
+        ],
+        "source": "nasa-S97-06573",
+        "pixels": 512
+      },
+      {
+        "id": "nose-nasa-S85-36539",
+        "name": "Nose 69",
+        "src": "assets/parts/nose-nasa-S85-36539.webp",
+        "bounds": [
+          209,
+          213,
+          88,
+          97
+        ],
+        "source": "nasa-S85-36539",
+        "pixels": 1024
+      },
+      {
+        "id": "nose-nasa-S82-36442",
+        "name": "Nose 70",
+        "src": "assets/parts/nose-nasa-S82-36442.webp",
+        "bounds": [
+          208,
+          223,
+          84,
+          87
+        ],
+        "source": "nasa-S82-36442",
+        "pixels": 1024
+      },
+      {
+        "id": "nose-nasa-NHQ202009160004",
+        "name": "Nose 71",
+        "src": "assets/parts/nose-nasa-NHQ202009160004.webp",
+        "bounds": [
+          218,
+          219,
+          79,
+          91
+        ],
+        "source": "nasa-NHQ202009160004",
+        "pixels": 1024
+      },
+      {
+        "id": "nose-nasa-s64-29926",
+        "name": "Nose 72",
+        "src": "assets/parts/nose-nasa-s64-29926.webp",
+        "bounds": [
+          209,
+          223,
+          76,
+          88
+        ],
+        "source": "nasa-s64-29926",
+        "pixels": 1024
+      },
+      {
+        "id": "nose-nasa-jsc2023e047050_alt",
+        "name": "Nose 73",
+        "src": "assets/parts/nose-nasa-jsc2023e047050_alt.webp",
+        "bounds": [
+          202,
+          215,
+          102,
+          89
+        ],
+        "source": "nasa-jsc2023e047050_alt",
+        "pixels": 1024
+      },
+      {
+        "id": "nose-archive-lincoln",
+        "name": "Nose 74",
+        "src": "assets/parts/nose-archive-lincoln.webp",
+        "bounds": [
+          217,
+          220,
+          84,
+          89
+        ],
+        "source": "archive-lincoln",
+        "pixels": 1024
+      },
+      {
+        "id": "nose-gov-13",
+        "name": "Nose 75",
+        "src": "assets/parts/nose-gov-13.webp",
+        "bounds": [
+          208,
+          222,
+          91,
+          88
+        ],
+        "source": "gov-13",
+        "pixels": 512
+      },
+      {
+        "id": "nose-gov-14",
+        "name": "Nose 76",
+        "src": "assets/parts/nose-gov-14.webp",
+        "bounds": [
+          222,
+          222,
+          67,
+          88
+        ],
+        "source": "gov-14",
+        "pixels": 512
+      },
+      {
+        "id": "nose-gov-15",
+        "name": "Nose 77",
+        "src": "assets/parts/nose-gov-15.webp",
+        "bounds": [
+          214,
+          218,
+          84,
+          98
+        ],
+        "source": "gov-15",
+        "pixels": 1024
+      },
+      {
+        "id": "nose-gov-16",
+        "name": "Nose 78",
+        "src": "assets/parts/nose-gov-16.webp",
+        "bounds": [
+          205,
+          219,
+          99,
+          88
+        ],
+        "source": "gov-16",
+        "pixels": 1024
+      },
+      {
+        "id": "nose-gov-17",
+        "name": "Nose 79",
+        "src": "assets/parts/nose-gov-17.webp",
+        "bounds": [
+          213,
+          218,
+          88,
+          96
+        ],
+        "source": "gov-17",
+        "pixels": 512
+      }
+    ],
+    "eyes": [
+      {
+        "id": "eyes-001-0011",
+        "name": "Eyes 01",
+        "src": "assets/parts/eyes-001-0011.webp",
+        "bounds": [
+          171,
+          218,
+          168,
+          34
+        ],
+        "source": "001-0011",
+        "pixels": 512
+      },
+      {
+        "id": "eyes-gov-7",
+        "name": "Eyes 02",
+        "src": "assets/parts/eyes-gov-7.webp",
+        "bounds": [
+          176,
+          225,
+          162,
+          25
+        ],
+        "source": "gov-7",
+        "pixels": 512
+      },
+      {
+        "id": "eyes-001-0166",
+        "name": "Eyes 03",
+        "src": "assets/parts/eyes-001-0166.webp",
+        "bounds": [
+          172,
+          219,
+          168,
+          33
+        ],
+        "source": "001-0166",
+        "pixels": 512
+      },
+      {
+        "id": "eyes-gov-6",
+        "name": "Eyes 04",
+        "src": "assets/parts/eyes-gov-6.webp",
+        "bounds": [
+          169,
+          222,
+          174,
+          30
+        ],
+        "source": "gov-6",
+        "pixels": 512
+      },
+      {
+        "id": "eyes-001-0251",
+        "name": "Eyes 05",
+        "src": "assets/parts/eyes-001-0251.webp",
+        "bounds": [
+          172,
+          218,
+          168,
+          34
+        ],
+        "source": "001-0251",
+        "pixels": 512
+      },
+      {
+        "id": "eyes-gov-3",
+        "name": "Eyes 06",
+        "src": "assets/parts/eyes-gov-3.webp",
+        "bounds": [
+          175,
+          225,
+          166,
+          23
+        ],
+        "source": "gov-3",
+        "pixels": 512
+      },
+      {
+        "id": "eyes-001-0426",
+        "name": "Eyes 07",
+        "src": "assets/parts/eyes-001-0426.webp",
+        "bounds": [
+          174,
+          219,
+          167,
+          33
+        ],
+        "source": "001-0426",
+        "pixels": 512
+      },
+      {
+        "id": "eyes-gov-2",
+        "name": "Eyes 08",
+        "src": "assets/parts/eyes-gov-2.webp",
+        "bounds": [
+          175,
+          221,
+          162,
+          30
+        ],
+        "source": "gov-2",
+        "pixels": 512
+      },
+      {
+        "id": "eyes-001-0126",
+        "name": "Eyes 09",
+        "src": "assets/parts/eyes-001-0126.webp",
+        "bounds": [
+          173,
+          221,
+          164,
+          30
+        ],
+        "source": "001-0126",
+        "pixels": 512
+      },
+      {
+        "id": "eyes-gov-11",
+        "name": "Eyes 10",
+        "src": "assets/parts/eyes-gov-11.webp",
+        "bounds": [
+          175,
+          224,
+          168,
+          25
+        ],
+        "source": "gov-11",
+        "pixels": 512
+      },
+      {
+        "id": "eyes-001-0381",
+        "name": "Eyes 11",
+        "src": "assets/parts/eyes-001-0381.webp",
+        "bounds": [
+          171,
+          216,
+          171,
+          37
+        ],
+        "source": "001-0381",
+        "pixels": 512
+      },
+      {
+        "id": "eyes-gov-10",
+        "name": "Eyes 12",
+        "src": "assets/parts/eyes-gov-10.webp",
+        "bounds": [
+          175,
+          223,
+          166,
+          27
+        ],
+        "source": "gov-10",
+        "pixels": 512
+      },
+      {
+        "id": "eyes-001-0006",
+        "name": "Eyes 13",
+        "src": "assets/parts/eyes-001-0006.webp",
+        "bounds": [
+          173,
+          220,
+          165,
+          32
+        ],
+        "source": "001-0006",
+        "pixels": 512
+      },
+      {
+        "id": "eyes-001-0026",
+        "name": "Eyes 14",
+        "src": "assets/parts/eyes-001-0026.webp",
+        "bounds": [
+          172,
+          216,
+          168,
+          38
+        ],
+        "source": "001-0026",
+        "pixels": 512
+      },
+      {
+        "id": "eyes-001-0041",
+        "name": "Eyes 15",
+        "src": "assets/parts/eyes-001-0041.webp",
+        "bounds": [
+          173,
+          216,
+          170,
+          36
+        ],
+        "source": "001-0041",
+        "pixels": 512
+      },
+      {
+        "id": "eyes-001-0046",
+        "name": "Eyes 16",
+        "src": "assets/parts/eyes-001-0046.webp",
+        "bounds": [
+          171,
+          215,
+          171,
+          39
+        ],
+        "source": "001-0046",
+        "pixels": 512
+      },
+      {
+        "id": "eyes-001-0066",
+        "name": "Eyes 17",
+        "src": "assets/parts/eyes-001-0066.webp",
+        "bounds": [
+          174,
+          218,
+          168,
+          34
+        ],
+        "source": "001-0066",
+        "pixels": 512
+      },
+      {
+        "id": "eyes-001-0081",
+        "name": "Eyes 18",
+        "src": "assets/parts/eyes-001-0081.webp",
+        "bounds": [
+          171,
+          216,
+          171,
+          37
+        ],
+        "source": "001-0081",
+        "pixels": 512
+      },
+      {
+        "id": "eyes-001-0086",
+        "name": "Eyes 19",
+        "src": "assets/parts/eyes-001-0086.webp",
+        "bounds": [
+          175,
+          219,
+          164,
+          33
+        ],
+        "source": "001-0086",
+        "pixels": 512
+      },
+      {
+        "id": "eyes-001-0106",
+        "name": "Eyes 20",
+        "src": "assets/parts/eyes-001-0106.webp",
+        "bounds": [
+          172,
+          219,
+          169,
+          33
+        ],
+        "source": "001-0106",
+        "pixels": 512
+      },
+      {
+        "id": "eyes-001-0121",
+        "name": "Eyes 21",
+        "src": "assets/parts/eyes-001-0121.webp",
+        "bounds": [
+          172,
+          218,
+          169,
+          34
+        ],
+        "source": "001-0121",
+        "pixels": 512
+      },
+      {
+        "id": "eyes-001-0131",
+        "name": "Eyes 22",
+        "src": "assets/parts/eyes-001-0131.webp",
+        "bounds": [
+          172,
+          219,
+          166,
+          32
+        ],
+        "source": "001-0131",
+        "pixels": 512
+      },
+      {
+        "id": "eyes-001-0141",
+        "name": "Eyes 23",
+        "src": "assets/parts/eyes-001-0141.webp",
+        "bounds": [
+          172,
+          220,
+          167,
+          32
+        ],
+        "source": "001-0141",
+        "pixels": 512
+      },
+      {
+        "id": "eyes-001-0171",
+        "name": "Eyes 24",
+        "src": "assets/parts/eyes-001-0171.webp",
+        "bounds": [
+          175,
+          219,
+          166,
+          33
+        ],
+        "source": "001-0171",
+        "pixels": 512
+      },
+      {
+        "id": "eyes-001-0191",
+        "name": "Eyes 25",
+        "src": "assets/parts/eyes-001-0191.webp",
+        "bounds": [
+          174,
+          219,
+          168,
+          34
+        ],
+        "source": "001-0191",
+        "pixels": 512
+      },
+      {
+        "id": "eyes-001-0201",
+        "name": "Eyes 26",
+        "src": "assets/parts/eyes-001-0201.webp",
+        "bounds": [
+          171,
+          217,
+          171,
+          36
+        ],
+        "source": "001-0201",
+        "pixels": 512
+      },
+      {
+        "id": "eyes-001-0206",
+        "name": "Eyes 27",
+        "src": "assets/parts/eyes-001-0206.webp",
+        "bounds": [
+          172,
+          218,
+          168,
+          34
+        ],
+        "source": "001-0206",
+        "pixels": 512
+      },
+      {
+        "id": "eyes-001-0226",
+        "name": "Eyes 28",
+        "src": "assets/parts/eyes-001-0226.webp",
+        "bounds": [
+          170,
+          219,
+          172,
+          34
+        ],
+        "source": "001-0226",
+        "pixels": 512
+      },
+      {
+        "id": "eyes-001-0231",
+        "name": "Eyes 29",
+        "src": "assets/parts/eyes-001-0231.webp",
+        "bounds": [
+          171,
+          216,
+          173,
+          37
+        ],
+        "source": "001-0231",
+        "pixels": 512
+      },
+      {
+        "id": "eyes-001-0266",
+        "name": "Eyes 30",
+        "src": "assets/parts/eyes-001-0266.webp",
+        "bounds": [
+          173,
+          218,
+          167,
+          35
+        ],
+        "source": "001-0266",
+        "pixels": 512
+      },
+      {
+        "id": "eyes-001-0271",
+        "name": "Eyes 31",
+        "src": "assets/parts/eyes-001-0271.webp",
+        "bounds": [
+          173,
+          221,
+          166,
+          30
+        ],
+        "source": "001-0271",
+        "pixels": 512
+      },
+      {
+        "id": "eyes-001-0301",
+        "name": "Eyes 32",
+        "src": "assets/parts/eyes-001-0301.webp",
+        "bounds": [
+          172,
+          217,
+          169,
+          36
+        ],
+        "source": "001-0301",
+        "pixels": 512
+      },
+      {
+        "id": "eyes-001-0306",
+        "name": "Eyes 33",
+        "src": "assets/parts/eyes-001-0306.webp",
+        "bounds": [
+          173,
+          218,
+          166,
+          34
+        ],
+        "source": "001-0306",
+        "pixels": 512
+      },
+      {
+        "id": "eyes-001-0326",
+        "name": "Eyes 34",
+        "src": "assets/parts/eyes-001-0326.webp",
+        "bounds": [
+          172,
+          220,
+          171,
+          32
+        ],
+        "source": "001-0326",
+        "pixels": 512
+      },
+      {
+        "id": "eyes-001-0331",
+        "name": "Eyes 35",
+        "src": "assets/parts/eyes-001-0331.webp",
+        "bounds": [
+          170,
+          219,
+          168,
+          31
+        ],
+        "source": "001-0331",
+        "pixels": 512
+      },
+      {
+        "id": "eyes-001-0346",
+        "name": "Eyes 36",
+        "src": "assets/parts/eyes-001-0346.webp",
+        "bounds": [
+          173,
+          218,
+          166,
+          34
+        ],
+        "source": "001-0346",
+        "pixels": 512
+      },
+      {
+        "id": "eyes-001-0361",
+        "name": "Eyes 37",
+        "src": "assets/parts/eyes-001-0361.webp",
+        "bounds": [
+          171,
+          220,
+          170,
+          33
+        ],
+        "source": "001-0361",
+        "pixels": 512
+      },
+      {
+        "id": "eyes-001-0366",
+        "name": "Eyes 38",
+        "src": "assets/parts/eyes-001-0366.webp",
+        "bounds": [
+          174,
+          219,
+          167,
+          34
+        ],
+        "source": "001-0366",
+        "pixels": 512
+      },
+      {
+        "id": "eyes-001-0386",
+        "name": "Eyes 39",
+        "src": "assets/parts/eyes-001-0386.webp",
+        "bounds": [
+          172,
+          217,
+          168,
+          35
+        ],
+        "source": "001-0386",
+        "pixels": 512
+      },
+      {
+        "id": "eyes-001-0421",
+        "name": "Eyes 40",
+        "src": "assets/parts/eyes-001-0421.webp",
+        "bounds": [
+          172,
+          219,
+          167,
+          32
+        ],
+        "source": "001-0421",
+        "pixels": 512
+      },
+      {
+        "id": "eyes-001-0431",
+        "name": "Eyes 41",
+        "src": "assets/parts/eyes-001-0431.webp",
+        "bounds": [
+          173,
+          217,
+          171,
+          36
+        ],
+        "source": "001-0431",
+        "pixels": 512
+      },
+      {
+        "id": "eyes-001-0451",
+        "name": "Eyes 42",
+        "src": "assets/parts/eyes-001-0451.webp",
+        "bounds": [
+          173,
+          216,
+          169,
+          37
+        ],
+        "source": "001-0451",
+        "pixels": 512
+      },
+      {
+        "id": "eyes-001-0461",
+        "name": "Eyes 43",
+        "src": "assets/parts/eyes-001-0461.webp",
+        "bounds": [
+          175,
+          218,
+          166,
+          34
+        ],
+        "source": "001-0461",
+        "pixels": 512
+      },
+      {
+        "id": "eyes-001-0471",
+        "name": "Eyes 44",
+        "src": "assets/parts/eyes-001-0471.webp",
+        "bounds": [
+          174,
+          218,
+          166,
+          34
+        ],
+        "source": "001-0471",
+        "pixels": 512
+      },
+      {
+        "id": "eyes-gov-1",
+        "name": "Eyes 45",
+        "src": "assets/parts/eyes-gov-1.webp",
+        "bounds": [
+          174,
+          218,
+          169,
+          31
+        ],
+        "source": "gov-1",
+        "pixels": 512
+      },
+      {
+        "id": "eyes-gov-4",
+        "name": "Eyes 46",
+        "src": "assets/parts/eyes-gov-4.webp",
+        "bounds": [
+          176,
+          219,
+          163,
+          29
+        ],
+        "source": "gov-4",
+        "pixels": 512
+      },
+      {
+        "id": "eyes-gov-5",
+        "name": "Eyes 47",
+        "src": "assets/parts/eyes-gov-5.webp",
+        "bounds": [
+          174,
+          219,
+          166,
+          32
+        ],
+        "source": "gov-5",
+        "pixels": 512
+      },
+      {
+        "id": "eyes-gov-9",
+        "name": "Eyes 48",
+        "src": "assets/parts/eyes-gov-9.webp",
+        "bounds": [
+          178,
+          220,
+          160,
+          31
+        ],
+        "source": "gov-9",
+        "pixels": 512
+      },
+      {
+        "id": "eyes-gov-12",
+        "name": "Eyes 49",
+        "src": "assets/parts/eyes-gov-12.webp",
+        "bounds": [
+          174,
+          221,
+          166,
+          30
+        ],
+        "source": "gov-12",
+        "pixels": 512
+      },
+      {
+        "id": "eyes-base-001-0019",
+        "name": "Eyes 50",
+        "src": "assets/parts/eyes-base-001-0019.webp",
+        "bounds": [
+          173,
+          217,
+          166,
+          36
+        ],
+        "source": "base-001-0019",
+        "pixels": 1024
+      },
+      {
+        "id": "eyes-base-001-0027",
+        "name": "Eyes 51",
+        "src": "assets/parts/eyes-base-001-0027.webp",
+        "bounds": [
+          172,
+          216,
+          169,
+          37
+        ],
+        "source": "base-001-0027",
+        "pixels": 1024
+      },
+      {
+        "id": "eyes-base-001-0035",
+        "name": "Eyes 52",
+        "src": "assets/parts/eyes-base-001-0035.webp",
+        "bounds": [
+          172,
+          219,
+          168,
+          33
+        ],
+        "source": "base-001-0035",
+        "pixels": 1024
+      },
+      {
+        "id": "eyes-base-001-0057",
+        "name": "Eyes 53",
+        "src": "assets/parts/eyes-base-001-0057.webp",
+        "bounds": [
+          169,
+          217,
+          172,
+          36
+        ],
+        "source": "base-001-0057",
+        "pixels": 1024
+      },
+      {
+        "id": "eyes-base-001-0079",
+        "name": "Eyes 54",
+        "src": "assets/parts/eyes-base-001-0079.webp",
+        "bounds": [
+          173,
+          219,
+          167,
+          34
+        ],
+        "source": "base-001-0079",
+        "pixels": 1024
+      },
+      {
+        "id": "eyes-base-001-0087",
+        "name": "Eyes 55",
+        "src": "assets/parts/eyes-base-001-0087.webp",
+        "bounds": [
+          170,
+          216,
+          172,
+          37
+        ],
+        "source": "base-001-0087",
+        "pixels": 1024
+      },
+      {
+        "id": "eyes-base-001-0097",
+        "name": "Eyes 56",
+        "src": "assets/parts/eyes-base-001-0097.webp",
+        "bounds": [
+          178,
+          224,
+          159,
+          28
+        ],
+        "source": "base-001-0097",
+        "pixels": 1024
+      },
+      {
+        "id": "eyes-base-001-0125",
+        "name": "Eyes 57",
+        "src": "assets/parts/eyes-base-001-0125.webp",
+        "bounds": [
+          176,
+          220,
+          162,
+          31
+        ],
+        "source": "base-001-0125",
+        "pixels": 1024
+      },
+      {
+        "id": "eyes-base-001-0143",
+        "name": "Eyes 58",
+        "src": "assets/parts/eyes-base-001-0143.webp",
+        "bounds": [
+          172,
+          217,
+          167,
+          36
+        ],
+        "source": "base-001-0143",
+        "pixels": 1024
+      },
+      {
+        "id": "eyes-base-001-0217",
+        "name": "Eyes 59",
+        "src": "assets/parts/eyes-base-001-0217.webp",
+        "bounds": [
+          173,
+          216,
+          169,
+          38
+        ],
+        "source": "base-001-0217",
+        "pixels": 1024
+      },
+      {
+        "id": "eyes-base-001-0248",
+        "name": "Eyes 60",
+        "src": "assets/parts/eyes-base-001-0248.webp",
+        "bounds": [
+          173,
+          217,
+          167,
+          36
+        ],
+        "source": "base-001-0248",
+        "pixels": 1024
+      },
+      {
+        "id": "eyes-base-001-0263",
+        "name": "Eyes 61",
+        "src": "assets/parts/eyes-base-001-0263.webp",
+        "bounds": [
+          172,
+          218,
+          168,
+          34
+        ],
+        "source": "base-001-0263",
+        "pixels": 1024
+      },
+      {
+        "id": "eyes-base-001-0319",
+        "name": "Eyes 62",
+        "src": "assets/parts/eyes-base-001-0319.webp",
+        "bounds": [
+          172,
+          218,
+          172,
+          34
+        ],
+        "source": "base-001-0319",
+        "pixels": 1024
+      },
+      {
+        "id": "eyes-base-001-0397",
+        "name": "Eyes 63",
+        "src": "assets/parts/eyes-base-001-0397.webp",
+        "bounds": [
+          172,
+          217,
+          169,
+          36
+        ],
+        "source": "base-001-0397",
+        "pixels": 1024
+      },
+      {
+        "id": "eyes-nasa-S92-40463",
+        "name": "Eyes 64",
+        "src": "assets/parts/eyes-nasa-S92-40463.webp",
+        "bounds": [
+          172,
+          222,
+          169,
+          29
+        ],
+        "source": "nasa-S92-40463",
+        "pixels": 1024
+      },
+      {
+        "id": "eyes-nasa-jsc2014e037863",
+        "name": "Eyes 65",
+        "src": "assets/parts/eyes-nasa-jsc2014e037863.webp",
+        "bounds": [
+          172,
+          221,
+          169,
+          31
+        ],
+        "source": "nasa-jsc2014e037863",
+        "pixels": 1024
+      },
+      {
+        "id": "eyes-nasa-JSC2001-03044",
+        "name": "Eyes 66",
+        "src": "assets/parts/eyes-nasa-JSC2001-03044.webp",
+        "bounds": [
+          173,
+          220,
+          168,
+          31
+        ],
+        "source": "nasa-JSC2001-03044",
+        "pixels": 1024
+      },
+      {
+        "id": "eyes-nasa-jsc2025e078605_alt",
+        "name": "Eyes 67",
+        "src": "assets/parts/eyes-nasa-jsc2025e078605_alt.webp",
+        "bounds": [
+          176,
+          222,
+          164,
+          28
+        ],
+        "source": "nasa-jsc2025e078605_alt",
+        "pixels": 1024
+      },
+      {
+        "id": "eyes-nasa-S97-06573",
+        "name": "Eyes 68",
+        "src": "assets/parts/eyes-nasa-S97-06573.webp",
+        "bounds": [
+          175,
+          221,
+          164,
+          29
+        ],
+        "source": "nasa-S97-06573",
+        "pixels": 512
+      },
+      {
+        "id": "eyes-nasa-S85-36539",
+        "name": "Eyes 69",
+        "src": "assets/parts/eyes-nasa-S85-36539.webp",
+        "bounds": [
+          173,
+          221,
+          165,
+          32
+        ],
+        "source": "nasa-S85-36539",
+        "pixels": 1024
+      },
+      {
+        "id": "eyes-nasa-S82-36442",
+        "name": "Eyes 70",
+        "src": "assets/parts/eyes-nasa-S82-36442.webp",
+        "bounds": [
+          172,
+          219,
+          171,
+          31
+        ],
+        "source": "nasa-S82-36442",
+        "pixels": 1024
+      },
+      {
+        "id": "eyes-nasa-NHQ202009160004",
+        "name": "Eyes 71",
+        "src": "assets/parts/eyes-nasa-NHQ202009160004.webp",
+        "bounds": [
+          172,
+          220,
+          168,
+          30
+        ],
+        "source": "nasa-NHQ202009160004",
+        "pixels": 1024
+      },
+      {
+        "id": "eyes-nasa-s64-29926",
+        "name": "Eyes 72",
+        "src": "assets/parts/eyes-nasa-s64-29926.webp",
+        "bounds": [
+          173,
+          216,
+          169,
+          37
+        ],
+        "source": "nasa-s64-29926",
+        "pixels": 1024
+      },
+      {
+        "id": "eyes-nasa-jsc2023e047050_alt",
+        "name": "Eyes 73",
+        "src": "assets/parts/eyes-nasa-jsc2023e047050_alt.webp",
+        "bounds": [
+          172,
+          220,
+          172,
+          31
+        ],
+        "source": "nasa-jsc2023e047050_alt",
+        "pixels": 1024
+      },
+      {
+        "id": "eyes-archive-lincoln",
+        "name": "Eyes 74",
+        "src": "assets/parts/eyes-archive-lincoln.webp",
+        "bounds": [
+          176,
+          218,
+          165,
+          32
+        ],
+        "source": "archive-lincoln",
+        "pixels": 1024
+      },
+      {
+        "id": "eyes-gov-13",
+        "name": "Eyes 75",
+        "src": "assets/parts/eyes-gov-13.webp",
+        "bounds": [
+          175,
+          219,
+          165,
+          30
+        ],
+        "source": "gov-13",
+        "pixels": 512
+      },
+      {
+        "id": "eyes-gov-14",
+        "name": "Eyes 76",
+        "src": "assets/parts/eyes-gov-14.webp",
+        "bounds": [
+          176,
+          217,
+          163,
+          35
+        ],
+        "source": "gov-14",
+        "pixels": 512
+      },
+      {
+        "id": "eyes-gov-15",
+        "name": "Eyes 77",
+        "src": "assets/parts/eyes-gov-15.webp",
+        "bounds": [
+          171,
+          218,
+          170,
+          35
+        ],
+        "source": "gov-15",
+        "pixels": 1024
+      },
+      {
+        "id": "eyes-gov-16",
+        "name": "Eyes 78",
+        "src": "assets/parts/eyes-gov-16.webp",
+        "bounds": [
+          175,
+          226,
+          163,
+          25
+        ],
+        "source": "gov-16",
+        "pixels": 1024
+      },
+      {
+        "id": "eyes-gov-17",
+        "name": "Eyes 79",
+        "src": "assets/parts/eyes-gov-17.webp",
+        "bounds": [
+          175,
+          218,
+          163,
+          33
+        ],
+        "source": "gov-17",
+        "pixels": 512
+      }
+    ],
+    "eyebrows": [
+      {
+        "id": "eyebrows-001-0011",
+        "name": "Brows 01",
+        "src": "assets/parts/eyebrows-001-0011.webp",
+        "bounds": [
+          161,
+          192,
+          198,
+          31
+        ],
+        "source": "001-0011",
+        "pixels": 512
+      },
+      {
+        "id": "eyebrows-gov-7",
+        "name": "Brows 02",
+        "src": "assets/parts/eyebrows-gov-7.webp",
+        "bounds": [
+          152,
+          187,
+          210,
+          35
+        ],
+        "source": "gov-7",
+        "pixels": 512
+      },
+      {
+        "id": "eyebrows-001-0166",
+        "name": "Brows 03",
+        "src": "assets/parts/eyebrows-001-0166.webp",
+        "bounds": [
+          156,
+          192,
+          182,
+          25
+        ],
+        "source": "001-0166",
+        "pixels": 512
+      },
+      {
+        "id": "eyebrows-gov-6",
+        "name": "Brows 04",
+        "src": "assets/parts/eyebrows-gov-6.webp",
+        "bounds": [
+          167,
+          195,
+          184,
+          22
+        ],
+        "source": "gov-6",
+        "pixels": 512
+      },
+      {
+        "id": "eyebrows-001-0251",
+        "name": "Brows 05",
+        "src": "assets/parts/eyebrows-001-0251.webp",
+        "bounds": [
+          161,
+          191,
+          190,
+          28
+        ],
+        "source": "001-0251",
+        "pixels": 512
+      },
+      {
+        "id": "eyebrows-gov-3",
+        "name": "Brows 06",
+        "src": "assets/parts/eyebrows-gov-3.webp",
+        "bounds": [
+          162,
+          196,
+          191,
+          30
+        ],
+        "source": "gov-3",
+        "pixels": 512
+      },
+      {
+        "id": "eyebrows-001-0426",
+        "name": "Brows 07",
+        "src": "assets/parts/eyebrows-001-0426.webp",
+        "bounds": [
+          163,
+          188,
+          195,
+          33
+        ],
+        "source": "001-0426",
+        "pixels": 512
+      },
+      {
+        "id": "eyebrows-gov-2",
+        "name": "Brows 08",
+        "src": "assets/parts/eyebrows-gov-2.webp",
+        "bounds": [
+          153,
+          199,
+          199,
+          36
+        ],
+        "source": "gov-2",
+        "pixels": 512
+      },
+      {
+        "id": "eyebrows-001-0126",
+        "name": "Brows 09",
+        "src": "assets/parts/eyebrows-001-0126.webp",
+        "bounds": [
+          161,
+          192,
+          166,
+          25
+        ],
+        "source": "001-0126",
+        "pixels": 512
+      },
+      {
+        "id": "eyebrows-gov-11",
+        "name": "Brows 10",
+        "src": "assets/parts/eyebrows-gov-11.webp",
+        "bounds": [
+          159,
+          197,
+          201,
+          30
+        ],
+        "source": "gov-11",
+        "pixels": 512
+      },
+      {
+        "id": "eyebrows-001-0381",
+        "name": "Brows 11",
+        "src": "assets/parts/eyebrows-001-0381.webp",
+        "bounds": [
+          156,
+          188,
+          203,
+          33
+        ],
+        "source": "001-0381",
+        "pixels": 512
+      },
+      {
+        "id": "eyebrows-gov-10",
+        "name": "Brows 12",
+        "src": "assets/parts/eyebrows-gov-10.webp",
+        "bounds": [
+          166,
+          202,
+          188,
+          25
+        ],
+        "source": "gov-10",
+        "pixels": 512
+      },
+      {
+        "id": "eyebrows-001-0006",
+        "name": "Brows 13",
+        "src": "assets/parts/eyebrows-001-0006.webp",
+        "bounds": [
+          154,
+          190,
+          200,
+          29
+        ],
+        "source": "001-0006",
+        "pixels": 512
+      },
+      {
+        "id": "eyebrows-001-0026",
+        "name": "Brows 14",
+        "src": "assets/parts/eyebrows-001-0026.webp",
+        "bounds": [
+          159,
+          189,
+          186,
+          25
+        ],
+        "source": "001-0026",
+        "pixels": 512
+      },
+      {
+        "id": "eyebrows-001-0041",
+        "name": "Brows 15",
+        "src": "assets/parts/eyebrows-001-0041.webp",
+        "bounds": [
+          157,
+          191,
+          185,
+          31
+        ],
+        "source": "001-0041",
+        "pixels": 512
+      },
+      {
+        "id": "eyebrows-001-0046",
+        "name": "Brows 16",
+        "src": "assets/parts/eyebrows-001-0046.webp",
+        "bounds": [
+          163,
+          190,
+          195,
+          31
+        ],
+        "source": "001-0046",
+        "pixels": 512
+      },
+      {
+        "id": "eyebrows-001-0066",
+        "name": "Brows 17",
+        "src": "assets/parts/eyebrows-001-0066.webp",
+        "bounds": [
+          159,
+          193,
+          199,
+          27
+        ],
+        "source": "001-0066",
+        "pixels": 512
+      },
+      {
+        "id": "eyebrows-001-0081",
+        "name": "Brows 18",
+        "src": "assets/parts/eyebrows-001-0081.webp",
+        "bounds": [
+          155,
+          191,
+          207,
+          29
+        ],
+        "source": "001-0081",
+        "pixels": 512
+      },
+      {
+        "id": "eyebrows-001-0086",
+        "name": "Brows 19",
+        "src": "assets/parts/eyebrows-001-0086.webp",
+        "bounds": [
+          165,
+          192,
+          181,
+          33
+        ],
+        "source": "001-0086",
+        "pixels": 512
+      },
+      {
+        "id": "eyebrows-001-0106",
+        "name": "Brows 20",
+        "src": "assets/parts/eyebrows-001-0106.webp",
+        "bounds": [
+          158,
+          198,
+          187,
+          23
+        ],
+        "source": "001-0106",
+        "pixels": 512
+      },
+      {
+        "id": "eyebrows-001-0121",
+        "name": "Brows 21",
+        "src": "assets/parts/eyebrows-001-0121.webp",
+        "bounds": [
+          155,
+          195,
+          198,
+          28
+        ],
+        "source": "001-0121",
+        "pixels": 512
+      },
+      {
+        "id": "eyebrows-001-0131",
+        "name": "Brows 22",
+        "src": "assets/parts/eyebrows-001-0131.webp",
+        "bounds": [
+          153,
+          199,
+          197,
+          27
+        ],
+        "source": "001-0131",
+        "pixels": 512
+      },
+      {
+        "id": "eyebrows-001-0141",
+        "name": "Brows 23",
+        "src": "assets/parts/eyebrows-001-0141.webp",
+        "bounds": [
+          156,
+          190,
+          199,
+          29
+        ],
+        "source": "001-0141",
+        "pixels": 512
+      },
+      {
+        "id": "eyebrows-001-0171",
+        "name": "Brows 24",
+        "src": "assets/parts/eyebrows-001-0171.webp",
+        "bounds": [
+          158,
+          192,
+          201,
+          32
+        ],
+        "source": "001-0171",
+        "pixels": 512
+      },
+      {
+        "id": "eyebrows-001-0191",
+        "name": "Brows 25",
+        "src": "assets/parts/eyebrows-001-0191.webp",
+        "bounds": [
+          163,
+          189,
+          175,
+          30
+        ],
+        "source": "001-0191",
+        "pixels": 512
+      },
+      {
+        "id": "eyebrows-001-0201",
+        "name": "Brows 26",
+        "src": "assets/parts/eyebrows-001-0201.webp",
+        "bounds": [
+          157,
+          189,
+          204,
+          35
+        ],
+        "source": "001-0201",
+        "pixels": 512
+      },
+      {
+        "id": "eyebrows-001-0206",
+        "name": "Brows 27",
+        "src": "assets/parts/eyebrows-001-0206.webp",
+        "bounds": [
+          157,
+          192,
+          199,
+          30
+        ],
+        "source": "001-0206",
+        "pixels": 512
+      },
+      {
+        "id": "eyebrows-001-0226",
+        "name": "Brows 28",
+        "src": "assets/parts/eyebrows-001-0226.webp",
+        "bounds": [
+          164,
+          191,
+          184,
+          29
+        ],
+        "source": "001-0226",
+        "pixels": 512
+      },
+      {
+        "id": "eyebrows-001-0231",
+        "name": "Brows 29",
+        "src": "assets/parts/eyebrows-001-0231.webp",
+        "bounds": [
+          154,
+          190,
+          205,
+          32
+        ],
+        "source": "001-0231",
+        "pixels": 512
+      },
+      {
+        "id": "eyebrows-001-0266",
+        "name": "Brows 30",
+        "src": "assets/parts/eyebrows-001-0266.webp",
+        "bounds": [
+          165,
+          189,
+          193,
+          36
+        ],
+        "source": "001-0266",
+        "pixels": 512
+      },
+      {
+        "id": "eyebrows-001-0271",
+        "name": "Brows 31",
+        "src": "assets/parts/eyebrows-001-0271.webp",
+        "bounds": [
+          158,
+          189,
+          194,
+          26
+        ],
+        "source": "001-0271",
+        "pixels": 512
+      },
+      {
+        "id": "eyebrows-001-0301",
+        "name": "Brows 32",
+        "src": "assets/parts/eyebrows-001-0301.webp",
+        "bounds": [
+          158,
+          192,
+          196,
+          28
+        ],
+        "source": "001-0301",
+        "pixels": 512
+      },
+      {
+        "id": "eyebrows-001-0306",
+        "name": "Brows 33",
+        "src": "assets/parts/eyebrows-001-0306.webp",
+        "bounds": [
+          163,
+          193,
+          191,
+          28
+        ],
+        "source": "001-0306",
+        "pixels": 512
+      },
+      {
+        "id": "eyebrows-001-0326",
+        "name": "Brows 34",
+        "src": "assets/parts/eyebrows-001-0326.webp",
+        "bounds": [
+          159,
+          197,
+          192,
+          26
+        ],
+        "source": "001-0326",
+        "pixels": 512
+      },
+      {
+        "id": "eyebrows-001-0331",
+        "name": "Brows 35",
+        "src": "assets/parts/eyebrows-001-0331.webp",
+        "bounds": [
+          157,
+          185,
+          196,
+          30
+        ],
+        "source": "001-0331",
+        "pixels": 512
+      },
+      {
+        "id": "eyebrows-001-0346",
+        "name": "Brows 36",
+        "src": "assets/parts/eyebrows-001-0346.webp",
+        "bounds": [
+          166,
+          200,
+          179,
+          23
+        ],
+        "source": "001-0346",
+        "pixels": 512
+      },
+      {
+        "id": "eyebrows-001-0361",
+        "name": "Brows 37",
+        "src": "assets/parts/eyebrows-001-0361.webp",
+        "bounds": [
+          161,
+          196,
+          193,
+          25
+        ],
+        "source": "001-0361",
+        "pixels": 512
+      },
+      {
+        "id": "eyebrows-001-0366",
+        "name": "Brows 38",
+        "src": "assets/parts/eyebrows-001-0366.webp",
+        "bounds": [
+          168,
+          188,
+          173,
+          33
+        ],
+        "source": "001-0366",
+        "pixels": 512
+      },
+      {
+        "id": "eyebrows-001-0386",
+        "name": "Brows 39",
+        "src": "assets/parts/eyebrows-001-0386.webp",
+        "bounds": [
+          165,
+          198,
+          186,
+          23
+        ],
+        "source": "001-0386",
+        "pixels": 512
+      },
+      {
+        "id": "eyebrows-001-0421",
+        "name": "Brows 40",
+        "src": "assets/parts/eyebrows-001-0421.webp",
+        "bounds": [
+          157,
+          193,
+          196,
+          29
+        ],
+        "source": "001-0421",
+        "pixels": 512
+      },
+      {
+        "id": "eyebrows-001-0431",
+        "name": "Brows 41",
+        "src": "assets/parts/eyebrows-001-0431.webp",
+        "bounds": [
+          161,
+          190,
+          203,
+          33
+        ],
+        "source": "001-0431",
+        "pixels": 512
+      },
+      {
+        "id": "eyebrows-001-0451",
+        "name": "Brows 42",
+        "src": "assets/parts/eyebrows-001-0451.webp",
+        "bounds": [
+          161,
+          198,
+          192,
+          27
+        ],
+        "source": "001-0451",
+        "pixels": 512
+      },
+      {
+        "id": "eyebrows-001-0461",
+        "name": "Brows 43",
+        "src": "assets/parts/eyebrows-001-0461.webp",
+        "bounds": [
+          163,
+          195,
+          190,
+          27
+        ],
+        "source": "001-0461",
+        "pixels": 512
+      },
+      {
+        "id": "eyebrows-001-0471",
+        "name": "Brows 44",
+        "src": "assets/parts/eyebrows-001-0471.webp",
+        "bounds": [
+          159,
+          193,
+          195,
+          29
+        ],
+        "source": "001-0471",
+        "pixels": 512
+      },
+      {
+        "id": "eyebrows-gov-1",
+        "name": "Brows 45",
+        "src": "assets/parts/eyebrows-gov-1.webp",
+        "bounds": [
+          153,
+          198,
+          208,
+          38
+        ],
+        "source": "gov-1",
+        "pixels": 512
+      },
+      {
+        "id": "eyebrows-gov-4",
+        "name": "Brows 46",
+        "src": "assets/parts/eyebrows-gov-4.webp",
+        "bounds": [
+          156,
+          205,
+          207,
+          27
+        ],
+        "source": "gov-4",
+        "pixels": 512
+      },
+      {
+        "id": "eyebrows-gov-5",
+        "name": "Brows 47",
+        "src": "assets/parts/eyebrows-gov-5.webp",
+        "bounds": [
+          164,
+          194,
+          192,
+          27
+        ],
+        "source": "gov-5",
+        "pixels": 512
+      },
+      {
+        "id": "eyebrows-gov-9",
+        "name": "Brows 48",
+        "src": "assets/parts/eyebrows-gov-9.webp",
+        "bounds": [
+          153,
+          194,
+          205,
+          34
+        ],
+        "source": "gov-9",
+        "pixels": 512
+      },
+      {
+        "id": "eyebrows-gov-12",
+        "name": "Brows 49",
+        "src": "assets/parts/eyebrows-gov-12.webp",
+        "bounds": [
+          159,
+          204,
+          194,
+          26
+        ],
+        "source": "gov-12",
+        "pixels": 512
+      },
+      {
+        "id": "eyebrows-base-001-0019",
+        "name": "Brows 50",
+        "src": "assets/parts/eyebrows-base-001-0019.webp",
+        "bounds": [
+          146,
+          190,
+          198,
+          30
+        ],
+        "source": "base-001-0019",
+        "pixels": 1024
+      },
+      {
+        "id": "eyebrows-base-001-0027",
+        "name": "Brows 51",
+        "src": "assets/parts/eyebrows-base-001-0027.webp",
+        "bounds": [
+          158,
+          191,
+          204,
+          30
+        ],
+        "source": "base-001-0027",
+        "pixels": 1024
+      },
+      {
+        "id": "eyebrows-base-001-0035",
+        "name": "Brows 52",
+        "src": "assets/parts/eyebrows-base-001-0035.webp",
+        "bounds": [
+          167,
+          192,
+          182,
+          28
+        ],
+        "source": "base-001-0035",
+        "pixels": 1024
+      },
+      {
+        "id": "eyebrows-base-001-0057",
+        "name": "Brows 53",
+        "src": "assets/parts/eyebrows-base-001-0057.webp",
+        "bounds": [
+          153,
+          189,
+          197,
+          30
+        ],
+        "source": "base-001-0057",
+        "pixels": 1024
+      },
+      {
+        "id": "eyebrows-base-001-0079",
+        "name": "Brows 54",
+        "src": "assets/parts/eyebrows-base-001-0079.webp",
+        "bounds": [
+          146,
+          186,
+          203,
+          34
+        ],
+        "source": "base-001-0079",
+        "pixels": 1024
+      },
+      {
+        "id": "eyebrows-base-001-0087",
+        "name": "Brows 55",
+        "src": "assets/parts/eyebrows-base-001-0087.webp",
+        "bounds": [
+          153,
+          189,
+          203,
+          30
+        ],
+        "source": "base-001-0087",
+        "pixels": 1024
+      },
+      {
+        "id": "eyebrows-base-001-0097",
+        "name": "Brows 56",
+        "src": "assets/parts/eyebrows-base-001-0097.webp",
+        "bounds": [
+          162,
+          193,
+          185,
+          25
+        ],
+        "source": "base-001-0097",
+        "pixels": 1024
+      },
+      {
+        "id": "eyebrows-base-001-0125",
+        "name": "Brows 57",
+        "src": "assets/parts/eyebrows-base-001-0125.webp",
+        "bounds": [
+          158,
+          188,
+          192,
+          33
+        ],
+        "source": "base-001-0125",
+        "pixels": 1024
+      },
+      {
+        "id": "eyebrows-base-001-0143",
+        "name": "Brows 58",
+        "src": "assets/parts/eyebrows-base-001-0143.webp",
+        "bounds": [
+          156,
+          194,
+          202,
+          28
+        ],
+        "source": "base-001-0143",
+        "pixels": 1024
+      },
+      {
+        "id": "eyebrows-base-001-0217",
+        "name": "Brows 59",
+        "src": "assets/parts/eyebrows-base-001-0217.webp",
+        "bounds": [
+          164,
+          195,
+          192,
+          24
+        ],
+        "source": "base-001-0217",
+        "pixels": 1024
+      },
+      {
+        "id": "eyebrows-base-001-0248",
+        "name": "Brows 60",
+        "src": "assets/parts/eyebrows-base-001-0248.webp",
+        "bounds": [
+          157,
+          190,
+          192,
+          32
+        ],
+        "source": "base-001-0248",
+        "pixels": 1024
+      },
+      {
+        "id": "eyebrows-base-001-0263",
+        "name": "Brows 61",
+        "src": "assets/parts/eyebrows-base-001-0263.webp",
+        "bounds": [
+          155,
+          193,
+          198,
+          29
+        ],
+        "source": "base-001-0263",
+        "pixels": 1024
+      },
+      {
+        "id": "eyebrows-base-001-0319",
+        "name": "Brows 62",
+        "src": "assets/parts/eyebrows-base-001-0319.webp",
+        "bounds": [
+          165,
+          190,
+          190,
+          25
+        ],
+        "source": "base-001-0319",
+        "pixels": 1024
+      },
+      {
+        "id": "eyebrows-base-001-0397",
+        "name": "Brows 63",
+        "src": "assets/parts/eyebrows-base-001-0397.webp",
+        "bounds": [
+          160,
+          194,
+          192,
+          31
+        ],
+        "source": "base-001-0397",
+        "pixels": 1024
+      },
+      {
+        "id": "eyebrows-nasa-S92-40463",
+        "name": "Brows 64",
+        "src": "assets/parts/eyebrows-nasa-S92-40463.webp",
+        "bounds": [
+          162,
+          198,
+          188,
+          21
+        ],
+        "source": "nasa-S92-40463",
+        "pixels": 1024
+      },
+      {
+        "id": "eyebrows-nasa-jsc2014e037863",
+        "name": "Brows 65",
+        "src": "assets/parts/eyebrows-nasa-jsc2014e037863.webp",
+        "bounds": [
+          156,
+          201,
+          196,
+          22
+        ],
+        "source": "nasa-jsc2014e037863",
+        "pixels": 1024
+      },
+      {
+        "id": "eyebrows-nasa-JSC2001-03044",
+        "name": "Brows 66",
+        "src": "assets/parts/eyebrows-nasa-JSC2001-03044.webp",
+        "bounds": [
+          155,
+          198,
+          201,
+          27
+        ],
+        "source": "nasa-JSC2001-03044",
+        "pixels": 1024
+      },
+      {
+        "id": "eyebrows-nasa-jsc2025e078605_alt",
+        "name": "Brows 67",
+        "src": "assets/parts/eyebrows-nasa-jsc2025e078605_alt.webp",
+        "bounds": [
+          169,
+          198,
+          186,
+          26
+        ],
+        "source": "nasa-jsc2025e078605_alt",
+        "pixels": 1024
+      },
+      {
+        "id": "eyebrows-nasa-S97-06573",
+        "name": "Brows 68",
+        "src": "assets/parts/eyebrows-nasa-S97-06573.webp",
+        "bounds": [
+          155,
+          205,
+          206,
+          27
+        ],
+        "source": "nasa-S97-06573",
+        "pixels": 512
+      },
+      {
+        "id": "eyebrows-nasa-S85-36539",
+        "name": "Brows 69",
+        "src": "assets/parts/eyebrows-nasa-S85-36539.webp",
+        "bounds": [
+          172,
+          197,
+          172,
+          18
+        ],
+        "source": "nasa-S85-36539",
+        "pixels": 1024
+      },
+      {
+        "id": "eyebrows-nasa-S82-36442",
+        "name": "Brows 70",
+        "src": "assets/parts/eyebrows-nasa-S82-36442.webp",
+        "bounds": [
+          160,
+          200,
+          196,
+          25
+        ],
+        "source": "nasa-S82-36442",
+        "pixels": 1024
+      },
+      {
+        "id": "eyebrows-nasa-NHQ202009160004",
+        "name": "Brows 71",
+        "src": "assets/parts/eyebrows-nasa-NHQ202009160004.webp",
+        "bounds": [
+          160,
+          195,
+          194,
+          28
+        ],
+        "source": "nasa-NHQ202009160004",
+        "pixels": 1024
+      },
+      {
+        "id": "eyebrows-nasa-s64-29926",
+        "name": "Brows 72",
+        "src": "assets/parts/eyebrows-nasa-s64-29926.webp",
+        "bounds": [
+          163,
+          198,
+          193,
+          30
+        ],
+        "source": "nasa-s64-29926",
+        "pixels": 1024
+      },
+      {
+        "id": "eyebrows-nasa-jsc2023e047050_alt",
+        "name": "Brows 73",
+        "src": "assets/parts/eyebrows-nasa-jsc2023e047050_alt.webp",
+        "bounds": [
+          168,
+          185,
+          191,
+          30
+        ],
+        "source": "nasa-jsc2023e047050_alt",
+        "pixels": 1024
+      },
+      {
+        "id": "eyebrows-archive-lincoln",
+        "name": "Brows 74",
+        "src": "assets/parts/eyebrows-archive-lincoln.webp",
+        "bounds": [
+          158,
+          193,
+          202,
+          44
+        ],
+        "source": "archive-lincoln",
+        "pixels": 1024
+      },
+      {
+        "id": "eyebrows-gov-13",
+        "name": "Brows 75",
+        "src": "assets/parts/eyebrows-gov-13.webp",
+        "bounds": [
+          158,
+          208,
+          198,
+          28
+        ],
+        "source": "gov-13",
+        "pixels": 512
+      },
+      {
+        "id": "eyebrows-gov-14",
+        "name": "Brows 76",
+        "src": "assets/parts/eyebrows-gov-14.webp",
+        "bounds": [
+          164,
+          201,
+          190,
+          29
+        ],
+        "source": "gov-14",
+        "pixels": 512
+      },
+      {
+        "id": "eyebrows-gov-15",
+        "name": "Brows 77",
+        "src": "assets/parts/eyebrows-gov-15.webp",
+        "bounds": [
+          159,
+          194,
+          197,
+          32
+        ],
+        "source": "gov-15",
+        "pixels": 1024
+      },
+      {
+        "id": "eyebrows-gov-16",
+        "name": "Brows 78",
+        "src": "assets/parts/eyebrows-gov-16.webp",
+        "bounds": [
+          175,
+          188,
+          176,
+          30
+        ],
+        "source": "gov-16",
+        "pixels": 1024
+      },
+      {
+        "id": "eyebrows-gov-17",
+        "name": "Brows 79",
+        "src": "assets/parts/eyebrows-gov-17.webp",
+        "bounds": [
+          173,
+          188,
+          187,
+          29
+        ],
+        "source": "gov-17",
+        "pixels": 512
+      }
+    ],
+    "ears": [
+      {
+        "id": "ears-001-0011",
+        "name": "Ears 01",
+        "src": "assets/parts/ears-001-0011.webp",
+        "bounds": [
+          119,
+          235,
+          275,
+          56
+        ],
+        "source": "001-0011",
+        "pixels": 512
+      },
+      {
+        "id": "ears-gov-7",
+        "name": "Ears 02",
+        "src": "assets/parts/ears-gov-7.webp",
+        "bounds": [
+          114,
+          231,
+          284,
+          64
+        ],
+        "source": "gov-7",
+        "pixels": 512
+      },
+      {
+        "id": "ears-001-0166",
+        "name": "Ears 03",
+        "src": "assets/parts/ears-001-0166.webp",
+        "bounds": [
+          129,
+          236,
+          254,
+          55
+        ],
+        "source": "001-0166",
+        "pixels": 512
+      },
+      {
+        "id": "ears-gov-6",
+        "name": "Ears 04",
+        "src": "assets/parts/ears-gov-6.webp",
+        "bounds": [
+          126,
+          235,
+          260,
+          56
+        ],
+        "source": "gov-6",
+        "pixels": 512
+      },
+      {
+        "id": "ears-gov-3",
+        "name": "Ears 05",
+        "src": "assets/parts/ears-gov-3.webp",
+        "bounds": [
+          130,
+          235,
+          252,
+          58
+        ],
+        "source": "gov-3",
+        "pixels": 512
+      },
+      {
+        "id": "ears-001-0426",
+        "name": "Ears 06",
+        "src": "assets/parts/ears-001-0426.webp",
+        "bounds": [
+          126,
+          236,
+          257,
+          55
+        ],
+        "source": "001-0426",
+        "pixels": 512
+      },
+      {
+        "id": "ears-gov-2",
+        "name": "Ears 07",
+        "src": "assets/parts/ears-gov-2.webp",
+        "bounds": [
+          131,
+          233,
+          250,
+          62
+        ],
+        "source": "gov-2",
+        "pixels": 512
+      },
+      {
+        "id": "ears-001-0126",
+        "name": "Ears 08",
+        "src": "assets/parts/ears-001-0126.webp",
+        "bounds": [
+          113,
+          235,
+          285,
+          55
+        ],
+        "source": "001-0126",
+        "pixels": 512
+      },
+      {
+        "id": "ears-gov-11",
+        "name": "Ears 09",
+        "src": "assets/parts/ears-gov-11.webp",
+        "bounds": [
+          130,
+          237,
+          252,
+          41
+        ],
+        "source": "gov-11",
+        "pixels": 512
+      },
+      {
+        "id": "ears-gov-10",
+        "name": "Ears 10",
+        "src": "assets/parts/ears-gov-10.webp",
+        "bounds": [
+          128,
+          230,
+          254,
+          65
+        ],
+        "source": "gov-10",
+        "pixels": 512
+      },
+      {
+        "id": "ears-001-0006",
+        "name": "Ears 11",
+        "src": "assets/parts/ears-001-0006.webp",
+        "bounds": [
+          118,
+          235,
+          277,
+          55
+        ],
+        "source": "001-0006",
+        "pixels": 512
+      },
+      {
+        "id": "ears-001-0026",
+        "name": "Ears 12",
+        "src": "assets/parts/ears-001-0026.webp",
+        "bounds": [
+          129,
+          236,
+          254,
+          55
+        ],
+        "source": "001-0026",
+        "pixels": 512
+      },
+      {
+        "id": "ears-001-0041",
+        "name": "Ears 13",
+        "src": "assets/parts/ears-001-0041.webp",
+        "bounds": [
+          116,
+          235,
+          280,
+          56
+        ],
+        "source": "001-0041",
+        "pixels": 512
+      },
+      {
+        "id": "ears-001-0046",
+        "name": "Ears 14",
+        "src": "assets/parts/ears-001-0046.webp",
+        "bounds": [
+          125,
+          235,
+          263,
+          56
+        ],
+        "source": "001-0046",
+        "pixels": 512
+      },
+      {
+        "id": "ears-001-0066",
+        "name": "Ears 15",
+        "src": "assets/parts/ears-001-0066.webp",
+        "bounds": [
+          124,
+          235,
+          264,
+          56
+        ],
+        "source": "001-0066",
+        "pixels": 512
+      },
+      {
+        "id": "ears-001-0106",
+        "name": "Ears 16",
+        "src": "assets/parts/ears-001-0106.webp",
+        "bounds": [
+          109,
+          236,
+          294,
+          54
+        ],
+        "source": "001-0106",
+        "pixels": 512
+      },
+      {
+        "id": "ears-001-0121",
+        "name": "Ears 17",
+        "src": "assets/parts/ears-001-0121.webp",
+        "bounds": [
+          126,
+          236,
+          260,
+          55
+        ],
+        "source": "001-0121",
+        "pixels": 512
+      },
+      {
+        "id": "ears-001-0131",
+        "name": "Ears 18",
+        "src": "assets/parts/ears-001-0131.webp",
+        "bounds": [
+          128,
+          235,
+          256,
+          56
+        ],
+        "source": "001-0131",
+        "pixels": 512
+      },
+      {
+        "id": "ears-001-0141",
+        "name": "Ears 19",
+        "src": "assets/parts/ears-001-0141.webp",
+        "bounds": [
+          110,
+          235,
+          292,
+          55
+        ],
+        "source": "001-0141",
+        "pixels": 512
+      },
+      {
+        "id": "ears-001-0171",
+        "name": "Ears 20",
+        "src": "assets/parts/ears-001-0171.webp",
+        "bounds": [
+          121,
+          235,
+          270,
+          56
+        ],
+        "source": "001-0171",
+        "pixels": 512
+      },
+      {
+        "id": "ears-001-0191",
+        "name": "Ears 21",
+        "src": "assets/parts/ears-001-0191.webp",
+        "bounds": [
+          134,
+          237,
+          244,
+          52
+        ],
+        "source": "001-0191",
+        "pixels": 512
+      },
+      {
+        "id": "ears-001-0201",
+        "name": "Ears 22",
+        "src": "assets/parts/ears-001-0201.webp",
+        "bounds": [
+          113,
+          235,
+          287,
+          56
+        ],
+        "source": "001-0201",
+        "pixels": 512
+      },
+      {
+        "id": "ears-001-0206",
+        "name": "Ears 23",
+        "src": "assets/parts/ears-001-0206.webp",
+        "bounds": [
+          110,
+          235,
+          292,
+          55
+        ],
+        "source": "001-0206",
+        "pixels": 512
+      },
+      {
+        "id": "ears-001-0226",
+        "name": "Ears 24",
+        "src": "assets/parts/ears-001-0226.webp",
+        "bounds": [
+          122,
+          227,
+          268,
+          72
+        ],
+        "source": "001-0226",
+        "pixels": 512
+      },
+      {
+        "id": "ears-001-0271",
+        "name": "Ears 25",
+        "src": "assets/parts/ears-001-0271.webp",
+        "bounds": [
+          129,
+          236,
+          255,
+          54
+        ],
+        "source": "001-0271",
+        "pixels": 512
+      },
+      {
+        "id": "ears-001-0306",
+        "name": "Ears 26",
+        "src": "assets/parts/ears-001-0306.webp",
+        "bounds": [
+          122,
+          235,
+          268,
+          56
+        ],
+        "source": "001-0306",
+        "pixels": 512
+      },
+      {
+        "id": "ears-001-0326",
+        "name": "Ears 27",
+        "src": "assets/parts/ears-001-0326.webp",
+        "bounds": [
+          104,
+          235,
+          305,
+          55
+        ],
+        "source": "001-0326",
+        "pixels": 512
+      },
+      {
+        "id": "ears-001-0346",
+        "name": "Ears 28",
+        "src": "assets/parts/ears-001-0346.webp",
+        "bounds": [
+          126,
+          236,
+          260,
+          55
+        ],
+        "source": "001-0346",
+        "pixels": 512
+      },
+      {
+        "id": "ears-001-0361",
+        "name": "Ears 29",
+        "src": "assets/parts/ears-001-0361.webp",
+        "bounds": [
+          125,
+          231,
+          263,
+          64
+        ],
+        "source": "001-0361",
+        "pixels": 512
+      },
+      {
+        "id": "ears-001-0386",
+        "name": "Ears 30",
+        "src": "assets/parts/ears-001-0386.webp",
+        "bounds": [
+          121,
+          236,
+          270,
+          55
+        ],
+        "source": "001-0386",
+        "pixels": 512
+      },
+      {
+        "id": "ears-001-0421",
+        "name": "Ears 31",
+        "src": "assets/parts/ears-001-0421.webp",
+        "bounds": [
+          109,
+          235,
+          294,
+          55
+        ],
+        "source": "001-0421",
+        "pixels": 512
+      },
+      {
+        "id": "ears-001-0431",
+        "name": "Ears 32",
+        "src": "assets/parts/ears-001-0431.webp",
+        "bounds": [
+          84,
+          235,
+          344,
+          55
+        ],
+        "source": "001-0431",
+        "pixels": 512
+      },
+      {
+        "id": "ears-001-0451",
+        "name": "Ears 33",
+        "src": "assets/parts/ears-001-0451.webp",
+        "bounds": [
+          113,
+          235,
+          286,
+          55
+        ],
+        "source": "001-0451",
+        "pixels": 512
+      },
+      {
+        "id": "ears-001-0461",
+        "name": "Ears 34",
+        "src": "assets/parts/ears-001-0461.webp",
+        "bounds": [
+          93,
+          235,
+          326,
+          55
+        ],
+        "source": "001-0461",
+        "pixels": 512
+      },
+      {
+        "id": "ears-001-0471",
+        "name": "Ears 35",
+        "src": "assets/parts/ears-001-0471.webp",
+        "bounds": [
+          119,
+          236,
+          275,
+          55
+        ],
+        "source": "001-0471",
+        "pixels": 512
+      },
+      {
+        "id": "ears-gov-1",
+        "name": "Ears 36",
+        "src": "assets/parts/ears-gov-1.webp",
+        "bounds": [
+          122,
+          235,
+          268,
+          57
+        ],
+        "source": "gov-1",
+        "pixels": 512
+      },
+      {
+        "id": "ears-gov-4",
+        "name": "Ears 37",
+        "src": "assets/parts/ears-gov-4.webp",
+        "bounds": [
+          120,
+          232,
+          255,
+          61
+        ],
+        "source": "gov-4",
+        "pixels": 512
+      },
+      {
+        "id": "ears-gov-5",
+        "name": "Ears 38",
+        "src": "assets/parts/ears-gov-5.webp",
+        "bounds": [
+          128,
+          233,
+          256,
+          60
+        ],
+        "source": "gov-5",
+        "pixels": 512
+      },
+      {
+        "id": "ears-gov-9",
+        "name": "Ears 39",
+        "src": "assets/parts/ears-gov-9.webp",
+        "bounds": [
+          118,
+          229,
+          276,
+          68
+        ],
+        "source": "gov-9",
+        "pixels": 512
+      },
+      {
+        "id": "ears-gov-12",
+        "name": "Ears 40",
+        "src": "assets/parts/ears-gov-12.webp",
+        "bounds": [
+          121,
+          234,
+          269,
+          59
+        ],
+        "source": "gov-12",
+        "pixels": 512
+      },
+      {
+        "id": "ears-base-001-0019",
+        "name": "Ears 41",
+        "src": "assets/parts/ears-base-001-0019.webp",
+        "bounds": [
+          101,
+          235,
+          310,
+          55
+        ],
+        "source": "base-001-0019",
+        "pixels": 1024
+      },
+      {
+        "id": "ears-base-001-0027",
+        "name": "Ears 42",
+        "src": "assets/parts/ears-base-001-0027.webp",
+        "bounds": [
+          100,
+          235,
+          312,
+          55
+        ],
+        "source": "base-001-0027",
+        "pixels": 1024
+      },
+      {
+        "id": "ears-base-001-0035",
+        "name": "Ears 43",
+        "src": "assets/parts/ears-base-001-0035.webp",
+        "bounds": [
+          117,
+          236,
+          278,
+          54
+        ],
+        "source": "base-001-0035",
+        "pixels": 1024
+      },
+      {
+        "id": "ears-base-001-0057",
+        "name": "Ears 44",
+        "src": "assets/parts/ears-base-001-0057.webp",
+        "bounds": [
+          117,
+          236,
+          278,
+          54
+        ],
+        "source": "base-001-0057",
+        "pixels": 1024
+      },
+      {
+        "id": "ears-base-001-0079",
+        "name": "Ears 45",
+        "src": "assets/parts/ears-base-001-0079.webp",
+        "bounds": [
+          123,
+          231,
+          266,
+          64
+        ],
+        "source": "base-001-0079",
+        "pixels": 1024
+      },
+      {
+        "id": "ears-base-001-0087",
+        "name": "Ears 46",
+        "src": "assets/parts/ears-base-001-0087.webp",
+        "bounds": [
+          123,
+          236,
+          266,
+          54
+        ],
+        "source": "base-001-0087",
+        "pixels": 1024
+      },
+      {
+        "id": "ears-base-001-0097",
+        "name": "Ears 47",
+        "src": "assets/parts/ears-base-001-0097.webp",
+        "bounds": [
+          129,
+          236,
+          254,
+          54
+        ],
+        "source": "base-001-0097",
+        "pixels": 1024
+      },
+      {
+        "id": "ears-base-001-0125",
+        "name": "Ears 48",
+        "src": "assets/parts/ears-base-001-0125.webp",
+        "bounds": [
+          126,
+          235,
+          260,
+          55
+        ],
+        "source": "base-001-0125",
+        "pixels": 1024
+      },
+      {
+        "id": "ears-base-001-0217",
+        "name": "Ears 49",
+        "src": "assets/parts/ears-base-001-0217.webp",
+        "bounds": [
+          114,
+          235,
+          285,
+          55
+        ],
+        "source": "base-001-0217",
+        "pixels": 1024
+      },
+      {
+        "id": "ears-base-001-0248",
+        "name": "Ears 50",
+        "src": "assets/parts/ears-base-001-0248.webp",
+        "bounds": [
+          120,
+          236,
+          272,
+          54
+        ],
+        "source": "base-001-0248",
+        "pixels": 1024
+      },
+      {
+        "id": "ears-base-001-0263",
+        "name": "Ears 51",
+        "src": "assets/parts/ears-base-001-0263.webp",
+        "bounds": [
+          128,
+          235,
+          255,
+          56
+        ],
+        "source": "base-001-0263",
+        "pixels": 1024
+      },
+      {
+        "id": "ears-base-001-0319",
+        "name": "Ears 52",
+        "src": "assets/parts/ears-base-001-0319.webp",
+        "bounds": [
+          100,
+          235,
+          312,
+          55
+        ],
+        "source": "base-001-0319",
+        "pixels": 1024
+      },
+      {
+        "id": "ears-base-001-0397",
+        "name": "Ears 53",
+        "src": "assets/parts/ears-base-001-0397.webp",
+        "bounds": [
+          130,
+          236,
+          252,
+          54
+        ],
+        "source": "base-001-0397",
+        "pixels": 1024
+      },
+      {
+        "id": "ears-nasa-S92-40463",
+        "name": "Ears 54",
+        "src": "assets/parts/ears-nasa-S92-40463.webp",
+        "bounds": [
+          128,
+          235,
+          255,
+          56
+        ],
+        "source": "nasa-S92-40463",
+        "pixels": 1024
+      },
+      {
+        "id": "ears-nasa-jsc2014e037863",
+        "name": "Ears 55",
+        "src": "assets/parts/ears-nasa-jsc2014e037863.webp",
+        "bounds": [
+          101,
+          237,
+          310,
+          51
+        ],
+        "source": "nasa-jsc2014e037863",
+        "pixels": 1024
+      },
+      {
+        "id": "ears-nasa-JSC2001-03044",
+        "name": "Ears 56",
+        "src": "assets/parts/ears-nasa-JSC2001-03044.webp",
+        "bounds": [
+          123,
+          236,
+          266,
+          54
+        ],
+        "source": "nasa-JSC2001-03044",
+        "pixels": 1024
+      },
+      {
+        "id": "ears-nasa-jsc2025e078605_alt",
+        "name": "Ears 57",
+        "src": "assets/parts/ears-nasa-jsc2025e078605_alt.webp",
+        "bounds": [
+          125,
+          233,
+          263,
+          60
+        ],
+        "source": "nasa-jsc2025e078605_alt",
+        "pixels": 1024
+      },
+      {
+        "id": "ears-nasa-S97-06573",
+        "name": "Ears 58",
+        "src": "assets/parts/ears-nasa-S97-06573.webp",
+        "bounds": [
+          117,
+          235,
+          278,
+          55
+        ],
+        "source": "nasa-S97-06573",
+        "pixels": 512
+      },
+      {
+        "id": "ears-nasa-S85-36539",
+        "name": "Ears 59",
+        "src": "assets/parts/ears-nasa-S85-36539.webp",
+        "bounds": [
+          130,
+          235,
+          252,
+          56
+        ],
+        "source": "nasa-S85-36539",
+        "pixels": 1024
+      },
+      {
+        "id": "ears-nasa-S82-36442",
+        "name": "Ears 60",
+        "src": "assets/parts/ears-nasa-S82-36442.webp",
+        "bounds": [
+          118,
+          234,
+          276,
+          58
+        ],
+        "source": "nasa-S82-36442",
+        "pixels": 1024
+      },
+      {
+        "id": "ears-nasa-s64-29926",
+        "name": "Ears 61",
+        "src": "assets/parts/ears-nasa-s64-29926.webp",
+        "bounds": [
+          112,
+          234,
+          288,
+          59
+        ],
+        "source": "nasa-s64-29926",
+        "pixels": 1024
+      },
+      {
+        "id": "ears-nasa-jsc2023e047050_alt",
+        "name": "Ears 62",
+        "src": "assets/parts/ears-nasa-jsc2023e047050_alt.webp",
+        "bounds": [
+          129,
+          236,
+          254,
+          54
+        ],
+        "source": "nasa-jsc2023e047050_alt",
+        "pixels": 1024
+      },
+      {
+        "id": "ears-archive-lincoln",
+        "name": "Ears 63",
+        "src": "assets/parts/ears-archive-lincoln.webp",
+        "bounds": [
+          111,
+          236,
+          290,
+          54
+        ],
+        "source": "archive-lincoln",
+        "pixels": 1024
+      },
+      {
+        "id": "ears-gov-13",
+        "name": "Ears 64",
+        "src": "assets/parts/ears-gov-13.webp",
+        "bounds": [
+          120,
+          231,
+          272,
+          64
+        ],
+        "source": "gov-13",
+        "pixels": 512
+      },
+      {
+        "id": "ears-gov-14",
+        "name": "Ears 65",
+        "src": "assets/parts/ears-gov-14.webp",
+        "bounds": [
+          114,
+          229,
+          283,
+          68
+        ],
+        "source": "gov-14",
+        "pixels": 512
+      },
+      {
+        "id": "ears-gov-15",
+        "name": "Ears 66",
+        "src": "assets/parts/ears-gov-15.webp",
+        "bounds": [
+          128,
+          227,
+          256,
+          71
+        ],
+        "source": "gov-15",
+        "pixels": 1024
+      },
+      {
+        "id": "ears-gov-16",
+        "name": "Ears 67",
+        "src": "assets/parts/ears-gov-16.webp",
+        "bounds": [
+          127,
+          236,
+          258,
+          54
+        ],
+        "source": "gov-16",
+        "pixels": 1024
+      }
+    ],
+    "hair": [
+      {
+        "id": "hair-001-0011",
+        "name": "Hair 01",
+        "src": "assets/parts/hair-001-0011.webp",
+        "bounds": [
+          46,
+          21,
+          413,
+          448
+        ],
+        "source": "001-0011",
+        "pixels": 512
+      },
+      {
+        "id": "hair-gov-7",
+        "name": "Hair 02",
+        "src": "assets/parts/hair-gov-7.webp",
+        "bounds": [
+          117,
+          21,
+          366,
+          253
+        ],
+        "source": "gov-7",
+        "pixels": 512
+      },
+      {
+        "id": "hair-001-0166",
+        "name": "Hair 03",
+        "src": "assets/parts/hair-001-0166.webp",
+        "bounds": [
+          73,
+          18,
+          365,
+          297
+        ],
+        "source": "001-0166",
+        "pixels": 512
+      },
+      {
+        "id": "hair-gov-6",
+        "name": "Hair 04",
+        "src": "assets/parts/hair-gov-6.webp",
+        "bounds": [
+          115,
+          20,
+          267,
+          205
+        ],
+        "source": "gov-6",
+        "pixels": 512
+      },
+      {
+        "id": "hair-001-0251",
+        "name": "Hair 05",
+        "src": "assets/parts/hair-001-0251.webp",
+        "bounds": [
+          15,
+          14,
+          496,
+          455
+        ],
+        "source": "001-0251",
+        "pixels": 512
+      },
+      {
+        "id": "hair-gov-3",
+        "name": "Hair 06",
+        "src": "assets/parts/hair-gov-3.webp",
+        "bounds": [
+          124,
+          51,
+          274,
+          192
+        ],
+        "source": "gov-3",
+        "pixels": 512
+      },
+      {
+        "id": "hair-001-0426",
+        "name": "Hair 07",
+        "src": "assets/parts/hair-001-0426.webp",
+        "bounds": [
+          129,
+          1,
+          272,
+          245
+        ],
+        "source": "001-0426",
+        "pixels": 512
+      },
+      {
+        "id": "hair-gov-2",
+        "name": "Hair 08",
+        "src": "assets/parts/hair-gov-2.webp",
+        "bounds": [
+          112,
+          47,
+          277,
+          211
+        ],
+        "source": "gov-2",
+        "pixels": 512
+      },
+      {
+        "id": "hair-001-0126",
+        "name": "Hair 09",
+        "src": "assets/parts/hair-001-0126.webp",
+        "bounds": [
+          12,
+          21,
+          424,
+          413
+        ],
+        "source": "001-0126",
+        "pixels": 512
+      },
+      {
+        "id": "hair-gov-11",
+        "name": "Hair 10",
+        "src": "assets/parts/hair-gov-11.webp",
+        "bounds": [
+          126,
+          9,
+          301,
+          238
+        ],
+        "source": "gov-11",
+        "pixels": 512
+      },
+      {
+        "id": "hair-001-0381",
+        "name": "Hair 11",
+        "src": "assets/parts/hair-001-0381.webp",
+        "bounds": [
+          46,
+          57,
+          339,
+          306
+        ],
+        "source": "001-0381",
+        "pixels": 512
+      },
+      {
+        "id": "hair-gov-10",
+        "name": "Hair 12",
+        "src": "assets/parts/hair-gov-10.webp",
+        "bounds": [
+          131,
+          36,
+          292,
+          215
+        ],
+        "source": "gov-10",
+        "pixels": 512
+      },
+      {
+        "id": "hair-001-0026",
+        "name": "Hair 13",
+        "src": "assets/parts/hair-001-0026.webp",
+        "bounds": [
+          86,
+          40,
+          304,
+          221
+        ],
+        "source": "001-0026",
+        "pixels": 512
+      },
+      {
+        "id": "hair-001-0046",
+        "name": "Hair 14",
+        "src": "assets/parts/hair-001-0046.webp",
+        "bounds": [
+          132,
+          5,
+          335,
+          455
+        ],
+        "source": "001-0046",
+        "pixels": 512
+      },
+      {
+        "id": "hair-001-0066",
+        "name": "Hair 15",
+        "src": "assets/parts/hair-001-0066.webp",
+        "bounds": [
+          51,
+          2,
+          427,
+          397
+        ],
+        "source": "001-0066",
+        "pixels": 512
+      },
+      {
+        "id": "hair-001-0121",
+        "name": "Hair 16",
+        "src": "assets/parts/hair-001-0121.webp",
+        "bounds": [
+          97,
+          13,
+          316,
+          400
+        ],
+        "source": "001-0121",
+        "pixels": 512
+      },
+      {
+        "id": "hair-001-0131",
+        "name": "Hair 17",
+        "src": "assets/parts/hair-001-0131.webp",
+        "bounds": [
+          2,
+          31,
+          474,
+          442
+        ],
+        "source": "001-0131",
+        "pixels": 512
+      },
+      {
+        "id": "hair-001-0171",
+        "name": "Hair 18",
+        "src": "assets/parts/hair-001-0171.webp",
+        "bounds": [
+          132,
+          41,
+          298,
+          217
+        ],
+        "source": "001-0171",
+        "pixels": 512
+      },
+      {
+        "id": "hair-001-0191",
+        "name": "Hair 19",
+        "src": "assets/parts/hair-001-0191.webp",
+        "bounds": [
+          135,
+          70,
+          238,
+          179
+        ],
+        "source": "001-0191",
+        "pixels": 512
+      },
+      {
+        "id": "hair-001-0206",
+        "name": "Hair 20",
+        "src": "assets/parts/hair-001-0206.webp",
+        "bounds": [
+          25,
+          8,
+          448,
+          418
+        ],
+        "source": "001-0206",
+        "pixels": 512
+      },
+      {
+        "id": "hair-001-0226",
+        "name": "Hair 21",
+        "src": "assets/parts/hair-001-0226.webp",
+        "bounds": [
+          1,
+          24,
+          510,
+          450
+        ],
+        "source": "001-0226",
+        "pixels": 512
+      },
+      {
+        "id": "hair-001-0266",
+        "name": "Hair 22",
+        "src": "assets/parts/hair-001-0266.webp",
+        "bounds": [
+          11,
+          3,
+          483,
+          474
+        ],
+        "source": "001-0266",
+        "pixels": 512
+      },
+      {
+        "id": "hair-001-0271",
+        "name": "Hair 23",
+        "src": "assets/parts/hair-001-0271.webp",
+        "bounds": [
+          33,
+          1,
+          386,
+          418
+        ],
+        "source": "001-0271",
+        "pixels": 512
+      },
+      {
+        "id": "hair-001-0301",
+        "name": "Hair 24",
+        "src": "assets/parts/hair-001-0301.webp",
+        "bounds": [
+          89,
+          18,
+          334,
+          396
+        ],
+        "source": "001-0301",
+        "pixels": 512
+      },
+      {
+        "id": "hair-001-0306",
+        "name": "Hair 25",
+        "src": "assets/parts/hair-001-0306.webp",
+        "bounds": [
+          13,
+          9,
+          495,
+          468
+        ],
+        "source": "001-0306",
+        "pixels": 512
+      },
+      {
+        "id": "hair-001-0326",
+        "name": "Hair 26",
+        "src": "assets/parts/hair-001-0326.webp",
+        "bounds": [
+          1,
+          1,
+          420,
+          476
+        ],
+        "source": "001-0326",
+        "pixels": 512
+      },
+      {
+        "id": "hair-001-0331",
+        "name": "Hair 27",
+        "src": "assets/parts/hair-001-0331.webp",
+        "bounds": [
+          1,
+          1,
+          465,
+          476
+        ],
+        "source": "001-0331",
+        "pixels": 512
+      },
+      {
+        "id": "hair-001-0346",
+        "name": "Hair 28",
+        "src": "assets/parts/hair-001-0346.webp",
+        "bounds": [
+          98,
+          85,
+          337,
+          388
+        ],
+        "source": "001-0346",
+        "pixels": 512
+      },
+      {
+        "id": "hair-001-0361",
+        "name": "Hair 29",
+        "src": "assets/parts/hair-001-0361.webp",
+        "bounds": [
+          57,
+          8,
+          391,
+          464
+        ],
+        "source": "001-0361",
+        "pixels": 512
+      },
+      {
+        "id": "hair-001-0366",
+        "name": "Hair 30",
+        "src": "assets/parts/hair-001-0366.webp",
+        "bounds": [
+          119,
+          38,
+          298,
+          437
+        ],
+        "source": "001-0366",
+        "pixels": 512
+      },
+      {
+        "id": "hair-001-0386",
+        "name": "Hair 31",
+        "src": "assets/parts/hair-001-0386.webp",
+        "bounds": [
+          114,
+          16,
+          299,
+          421
+        ],
+        "source": "001-0386",
+        "pixels": 512
+      },
+      {
+        "id": "hair-001-0431",
+        "name": "Hair 32",
+        "src": "assets/parts/hair-001-0431.webp",
+        "bounds": [
+          94,
+          12,
+          400,
+          468
+        ],
+        "source": "001-0431",
+        "pixels": 512
+      },
+      {
+        "id": "hair-001-0451",
+        "name": "Hair 33",
+        "src": "assets/parts/hair-001-0451.webp",
+        "bounds": [
+          95,
+          33,
+          346,
+          442
+        ],
+        "source": "001-0451",
+        "pixels": 512
+      },
+      {
+        "id": "hair-001-0471",
+        "name": "Hair 34",
+        "src": "assets/parts/hair-001-0471.webp",
+        "bounds": [
+          10,
+          1,
+          479,
+          472
+        ],
+        "source": "001-0471",
+        "pixels": 512
+      },
+      {
+        "id": "hair-gov-1",
+        "name": "Hair 35",
+        "src": "assets/parts/hair-gov-1.webp",
+        "bounds": [
+          106,
+          15,
+          320,
+          238
+        ],
+        "source": "gov-1",
+        "pixels": 512
+      },
+      {
+        "id": "hair-gov-4",
+        "name": "Hair 36",
+        "src": "assets/parts/hair-gov-4.webp",
+        "bounds": [
+          135,
+          26,
+          287,
+          216
+        ],
+        "source": "gov-4",
+        "pixels": 512
+      },
+      {
+        "id": "hair-gov-9",
+        "name": "Hair 37",
+        "src": "assets/parts/hair-gov-9.webp",
+        "bounds": [
+          85,
+          43,
+          292,
+          207
+        ],
+        "source": "gov-9",
+        "pixels": 512
+      },
+      {
+        "id": "hair-gov-12",
+        "name": "Hair 38",
+        "src": "assets/parts/hair-gov-12.webp",
+        "bounds": [
+          127,
+          21,
+          284,
+          209
+        ],
+        "source": "gov-12",
+        "pixels": 512
+      },
+      {
+        "id": "hair-base-001-0019",
+        "name": "Hair 39",
+        "src": "assets/parts/hair-base-001-0019.webp",
+        "bounds": [
+          1,
+          1,
+          408,
+          415
+        ],
+        "source": "base-001-0019",
+        "pixels": 1024
+      },
+      {
+        "id": "hair-base-001-0035",
+        "name": "Hair 40",
+        "src": "assets/parts/hair-base-001-0035.webp",
+        "bounds": [
+          38,
+          18,
+          427,
+          412
+        ],
+        "source": "base-001-0035",
+        "pixels": 1024
+      },
+      {
+        "id": "hair-base-001-0057",
+        "name": "Hair 41",
+        "src": "assets/parts/hair-base-001-0057.webp",
+        "bounds": [
+          3,
+          37,
+          445,
+          440
+        ],
+        "source": "base-001-0057",
+        "pixels": 1024
+      },
+      {
+        "id": "hair-base-001-0079",
+        "name": "Hair 42",
+        "src": "assets/parts/hair-base-001-0079.webp",
+        "bounds": [
+          74,
+          6,
+          327,
+          325
+        ],
+        "source": "base-001-0079",
+        "pixels": 1024
+      },
+      {
+        "id": "hair-base-001-0087",
+        "name": "Hair 43",
+        "src": "assets/parts/hair-base-001-0087.webp",
+        "bounds": [
+          59,
+          7,
+          397,
+          397
+        ],
+        "source": "base-001-0087",
+        "pixels": 1024
+      },
+      {
+        "id": "hair-base-001-0097",
+        "name": "Hair 44",
+        "src": "assets/parts/hair-base-001-0097.webp",
+        "bounds": [
+          107,
+          42,
+          321,
+          422
+        ],
+        "source": "base-001-0097",
+        "pixels": 1024
+      },
+      {
+        "id": "hair-base-001-0125",
+        "name": "Hair 45",
+        "src": "assets/parts/hair-base-001-0125.webp",
+        "bounds": [
+          1,
+          6,
+          446,
+          471
+        ],
+        "source": "base-001-0125",
+        "pixels": 1024
+      },
+      {
+        "id": "hair-base-001-0143",
+        "name": "Hair 46",
+        "src": "assets/parts/hair-base-001-0143.webp",
+        "bounds": [
+          29,
+          93,
+          381,
+          380
+        ],
+        "source": "base-001-0143",
+        "pixels": 1024
+      },
+      {
+        "id": "hair-base-001-0263",
+        "name": "Hair 47",
+        "src": "assets/parts/hair-base-001-0263.webp",
+        "bounds": [
+          128,
+          18,
+          260,
+          221
+        ],
+        "source": "base-001-0263",
+        "pixels": 1024
+      },
+      {
+        "id": "hair-base-001-0319",
+        "name": "Hair 48",
+        "src": "assets/parts/hair-base-001-0319.webp",
+        "bounds": [
+          86,
+          15,
+          425,
+          466
+        ],
+        "source": "base-001-0319",
+        "pixels": 1024
+      },
+      {
+        "id": "hair-base-001-0397",
+        "name": "Hair 49",
+        "src": "assets/parts/hair-base-001-0397.webp",
+        "bounds": [
+          100,
+          9,
+          290,
+          242
+        ],
+        "source": "base-001-0397",
+        "pixels": 1024
+      },
+      {
+        "id": "hair-nasa-S92-40463",
+        "name": "Hair 50",
+        "src": "assets/parts/hair-nasa-S92-40463.webp",
+        "bounds": [
+          102,
+          1,
+          302,
+          236
+        ],
+        "source": "nasa-S92-40463",
+        "pixels": 1024
+      },
+      {
+        "id": "hair-nasa-jsc2014e037863",
+        "name": "Hair 51",
+        "src": "assets/parts/hair-nasa-jsc2014e037863.webp",
+        "bounds": [
+          84,
+          9,
+          372,
+          388
+        ],
+        "source": "nasa-jsc2014e037863",
+        "pixels": 1024
+      },
+      {
+        "id": "hair-nasa-jsc2025e078605_alt",
+        "name": "Hair 52",
+        "src": "assets/parts/hair-nasa-jsc2025e078605_alt.webp",
+        "bounds": [
+          121,
+          14,
+          354,
+          408
+        ],
+        "source": "nasa-jsc2025e078605_alt",
+        "pixels": 1024
+      },
+      {
+        "id": "hair-nasa-S97-06573",
+        "name": "Hair 53",
+        "src": "assets/parts/hair-nasa-S97-06573.webp",
+        "bounds": [
+          81,
+          36,
+          355,
+          249
+        ],
+        "source": "nasa-S97-06573",
+        "pixels": 512
+      },
+      {
+        "id": "hair-nasa-S85-36539",
+        "name": "Hair 54",
+        "src": "assets/parts/hair-nasa-S85-36539.webp",
+        "bounds": [
+          115,
+          62,
+          300,
+          211
+        ],
+        "source": "nasa-S85-36539",
+        "pixels": 1024
+      },
+      {
+        "id": "hair-nasa-S82-36442",
+        "name": "Hair 55",
+        "src": "assets/parts/hair-nasa-S82-36442.webp",
+        "bounds": [
+          148,
+          21,
+          292,
+          189
+        ],
+        "source": "nasa-S82-36442",
+        "pixels": 1024
+      },
+      {
+        "id": "hair-nasa-NHQ202009160004",
+        "name": "Hair 56",
+        "src": "assets/parts/hair-nasa-NHQ202009160004.webp",
+        "bounds": [
+          72,
+          64,
+          362,
+          409
+        ],
+        "source": "nasa-NHQ202009160004",
+        "pixels": 1024
+      },
+      {
+        "id": "hair-nasa-s64-29926",
+        "name": "Hair 57",
+        "src": "assets/parts/hair-nasa-s64-29926.webp",
+        "bounds": [
+          169,
+          31,
+          273,
+          211
+        ],
+        "source": "nasa-s64-29926",
+        "pixels": 1024
+      },
+      {
+        "id": "hair-nasa-jsc2023e047050_alt",
+        "name": "Hair 58",
+        "src": "assets/parts/hair-nasa-jsc2023e047050_alt.webp",
+        "bounds": [
+          101,
+          21,
+          410,
+          452
+        ],
+        "source": "nasa-jsc2023e047050_alt",
+        "pixels": 1024
+      },
+      {
+        "id": "hair-archive-lincoln",
+        "name": "Hair 59",
+        "src": "assets/parts/hair-archive-lincoln.webp",
+        "bounds": [
+          101,
+          7,
+          328,
+          293
+        ],
+        "source": "archive-lincoln",
+        "pixels": 1024
+      },
+      {
+        "id": "hair-archive-douglass",
+        "name": "Hair 60",
+        "src": "assets/parts/hair-archive-douglass.webp",
+        "bounds": [
+          125,
+          3,
+          386,
+          353
+        ],
+        "source": "archive-douglass",
+        "pixels": 512
+      },
+      {
+        "id": "hair-gov-13",
+        "name": "Hair 61",
+        "src": "assets/parts/hair-gov-13.webp",
+        "bounds": [
+          125,
+          9,
+          302,
+          236
+        ],
+        "source": "gov-13",
+        "pixels": 512
+      },
+      {
+        "id": "hair-gov-15",
+        "name": "Hair 62",
+        "src": "assets/parts/hair-gov-15.webp",
+        "bounds": [
+          109,
+          11,
+          300,
+          251
+        ],
+        "source": "gov-15",
+        "pixels": 1024
+      },
+      {
+        "id": "hair-gov-16",
+        "name": "Hair 63",
+        "src": "assets/parts/hair-gov-16.webp",
+        "bounds": [
+          1,
+          59,
+          431,
+          411
+        ],
+        "source": "gov-16",
+        "pixels": 1024
+      },
+      {
+        "id": "hair-gov-17",
+        "name": "Hair 64",
+        "src": "assets/parts/hair-gov-17.webp",
+        "bounds": [
+          75,
+          21,
+          371,
+          324
+        ],
+        "source": "gov-17",
+        "pixels": 512
+      }
+    ],
+    "glasses": [
+      {
+        "id": "glasses-gov-6",
+        "name": "Frames 01",
+        "src": "assets/parts/glasses-gov-6.webp",
+        "bounds": [
+          115,
+          206,
+          268,
+          69
+        ],
+        "source": "gov-6",
+        "pixels": 512
+      },
+      {
+        "id": "glasses-gov-8",
+        "name": "Slim rectangle",
+        "src": "assets/parts/glasses-gov-8.webp",
+        "bounds": [
+          118,
+          211,
+          276,
+          59
+        ],
+        "source": "gov-8",
+        "pixels": 512
+      },
+      {
+        "id": "glasses-gov-16",
+        "name": "Upswept browline",
+        "src": "assets/parts/glasses-gov-16.webp",
+        "bounds": [
+          147,
+          213,
+          227,
+          71
+        ],
+        "source": "gov-16",
+        "pixels": 1024
+      },
+      {
+        "id": "glasses-gov-18",
+        "name": "Heavy keyhole",
+        "src": "assets/parts/glasses-gov-18.webp",
+        "bounds": [
+          145,
+          207,
+          229,
+          66
+        ],
+        "source": "gov-18",
+        "pixels": 512
+      }
+    ],
+    "beard": [
+      {
+        "id": "beard-gov-13",
+        "name": "Chevron moustache",
+        "src": "assets/parts/beard-gov-13.webp",
+        "bounds": [
+          191,
+          293,
+          138,
+          40
+        ],
+        "source": "gov-13",
+        "pixels": 512
+      },
+      {
+        "id": "beard-gov-14",
+        "name": "Goatee",
+        "src": "assets/parts/beard-gov-14.webp",
+        "bounds": [
+          191,
+          343,
+          123,
+          98
+        ],
+        "source": "gov-14",
+        "pixels": 512
+      },
+      {
+        "id": "beard-gov-15",
+        "name": "Full beard",
+        "src": "assets/parts/beard-gov-15.webp",
+        "bounds": [
+          121,
+          260,
+          272,
+          176
+        ],
+        "source": "gov-15",
+        "pixels": 1024
+      },
+      {
+        "id": "beard-nasa-S85-36539",
+        "name": "Tapered moustache",
+        "src": "assets/parts/beard-nasa-S85-36539.webp",
+        "bounds": [
+          186,
+          299,
+          142,
+          36
+        ],
+        "source": "nasa-S85-36539",
+        "pixels": 1024
+      },
+      {
+        "id": "beard-archive-lincoln",
+        "name": "Chin curtain",
+        "src": "assets/parts/beard-archive-lincoln.webp",
+        "bounds": [
+          130,
+          263,
+          250,
+          208
+        ],
+        "source": "archive-lincoln",
+        "pixels": 1024
+      },
+      {
+        "id": "beard-archive-douglass",
+        "name": "Silver fork beard",
+        "src": "assets/parts/beard-archive-douglass.webp",
+        "bounds": [
+          167,
+          270,
+          259,
+          219
+        ],
+        "source": "archive-douglass",
+        "pixels": 512
+      },
+      {
+        "id": "beard-gov-18",
+        "name": "Pencil moustache",
+        "src": "assets/parts/beard-gov-18.webp",
+        "bounds": [
+          206,
+          300,
+          103,
+          26
+        ],
+        "source": "gov-18",
+        "pixels": 512
+      }
+    ]
+  },
+  "sources": {
+    "001-0006": {
+      "url": "https://huggingface.co/datasets/retowyss/Syn-Vis-v0/blob/100262732989e77f38cd831d70a376a93735006a/images/headshot/001-0006.png",
+      "kind": "synthetic",
+      "sha256": "2262f27a6907af3bc7ea549dc0d92fbb5e87ebb75e93673645b125a07ba8875f",
+      "rights": "CC0-1.0"
+    },
+    "001-0011": {
+      "url": "https://huggingface.co/datasets/retowyss/Syn-Vis-v0/blob/100262732989e77f38cd831d70a376a93735006a/images/headshot/001-0011.png",
+      "kind": "synthetic",
+      "sha256": "1fff3756ceffb394314630b8ddf95752ec5b68a577b490ad2f77f7b65a153470",
+      "rights": "CC0-1.0"
+    },
+    "001-0026": {
+      "url": "https://huggingface.co/datasets/retowyss/Syn-Vis-v0/blob/100262732989e77f38cd831d70a376a93735006a/images/headshot/001-0026.png",
+      "kind": "synthetic",
+      "sha256": "62b19413d9d459c9035e05accf3b2628b37049088b911aebe23b0636c6ae3060",
+      "rights": "CC0-1.0"
+    },
+    "001-0041": {
+      "url": "https://huggingface.co/datasets/retowyss/Syn-Vis-v0/blob/100262732989e77f38cd831d70a376a93735006a/images/headshot/001-0041.png",
+      "kind": "synthetic",
+      "sha256": "54f6cb8ae3f8d8cb08b6033efe44b9569584d3437e7cd59045ca8513cfb55f88",
+      "rights": "CC0-1.0"
+    },
+    "001-0046": {
+      "url": "https://huggingface.co/datasets/retowyss/Syn-Vis-v0/blob/100262732989e77f38cd831d70a376a93735006a/images/headshot/001-0046.png",
+      "kind": "synthetic",
+      "sha256": "95aaca4f392f283a7311cadd38a1b80527bd847eb905757189221db9bc6d8177",
+      "rights": "CC0-1.0"
+    },
+    "001-0066": {
+      "url": "https://huggingface.co/datasets/retowyss/Syn-Vis-v0/blob/100262732989e77f38cd831d70a376a93735006a/images/headshot/001-0066.png",
+      "kind": "synthetic",
+      "sha256": "3d4ff29c548881bde371fe57b25fec1c312fa8d6b23b2d3f19097b06b6a2b90f",
+      "rights": "CC0-1.0"
+    },
+    "001-0081": {
+      "url": "https://huggingface.co/datasets/retowyss/Syn-Vis-v0/blob/100262732989e77f38cd831d70a376a93735006a/images/headshot/001-0081.png",
+      "kind": "synthetic",
+      "sha256": "b52e01b015d64ae558e592d7e825155ab4923b6823777c514b041a344af12318",
+      "rights": "CC0-1.0"
+    },
+    "001-0086": {
+      "url": "https://huggingface.co/datasets/retowyss/Syn-Vis-v0/blob/100262732989e77f38cd831d70a376a93735006a/images/headshot/001-0086.png",
+      "kind": "synthetic",
+      "sha256": "4ca281180b5e62ef543a504a050daf455620a30892ea400d83cfbfc6bf3c9c66",
+      "rights": "CC0-1.0"
+    },
+    "001-0106": {
+      "url": "https://huggingface.co/datasets/retowyss/Syn-Vis-v0/blob/100262732989e77f38cd831d70a376a93735006a/images/headshot/001-0106.png",
+      "kind": "synthetic",
+      "sha256": "0aad6c0707ed43cc6cdc7d804dd8530ae34b81b17d0b605392d0b62399e84fd6",
+      "rights": "CC0-1.0"
+    },
+    "001-0121": {
+      "url": "https://huggingface.co/datasets/retowyss/Syn-Vis-v0/blob/100262732989e77f38cd831d70a376a93735006a/images/headshot/001-0121.png",
+      "kind": "synthetic",
+      "sha256": "885b9bc884756abafe9843fe75298625270c4cc5fe7e7dab7b3b2698103b4b92",
+      "rights": "CC0-1.0"
+    },
+    "001-0126": {
+      "url": "https://huggingface.co/datasets/retowyss/Syn-Vis-v0/blob/100262732989e77f38cd831d70a376a93735006a/images/headshot/001-0126.png",
+      "kind": "synthetic",
+      "sha256": "262e5eeebea92e3dddc2420b2376f7bc27159bb417f641f9d24143779bdeefaa",
+      "rights": "CC0-1.0"
+    },
+    "001-0131": {
+      "url": "https://huggingface.co/datasets/retowyss/Syn-Vis-v0/blob/100262732989e77f38cd831d70a376a93735006a/images/headshot/001-0131.png",
+      "kind": "synthetic",
+      "sha256": "47838f82978bdc776f89aa8dd20eda890abe0c3af1ec2037757a6594af608bd4",
+      "rights": "CC0-1.0"
+    },
+    "001-0141": {
+      "url": "https://huggingface.co/datasets/retowyss/Syn-Vis-v0/blob/100262732989e77f38cd831d70a376a93735006a/images/headshot/001-0141.png",
+      "kind": "synthetic",
+      "sha256": "be0fe9352fab3094f57e297b3a844f0a103941fe8207f5412ded9048dac198c0",
+      "rights": "CC0-1.0"
+    },
+    "001-0166": {
+      "url": "https://huggingface.co/datasets/retowyss/Syn-Vis-v0/blob/100262732989e77f38cd831d70a376a93735006a/images/headshot/001-0166.png",
+      "kind": "synthetic",
+      "sha256": "9909091a7641e225dbe668ae3d52296f34a64da8a3d5545b848729e97455c65b",
+      "rights": "CC0-1.0"
+    },
+    "001-0171": {
+      "url": "https://huggingface.co/datasets/retowyss/Syn-Vis-v0/blob/100262732989e77f38cd831d70a376a93735006a/images/headshot/001-0171.png",
+      "kind": "synthetic",
+      "sha256": "846a975fa7df49eb72aeca7ab12c52f7d33f73e82138415f83a03645f5dc88ea",
+      "rights": "CC0-1.0"
+    },
+    "001-0191": {
+      "url": "https://huggingface.co/datasets/retowyss/Syn-Vis-v0/blob/100262732989e77f38cd831d70a376a93735006a/images/headshot/001-0191.png",
+      "kind": "synthetic",
+      "sha256": "d25ab6d28f6efaa94b6eeff2415764db4197e4cfd3f3e83e1f67ef0868bb7ca2",
+      "rights": "CC0-1.0"
+    },
+    "001-0201": {
+      "url": "https://huggingface.co/datasets/retowyss/Syn-Vis-v0/blob/100262732989e77f38cd831d70a376a93735006a/images/headshot/001-0201.png",
+      "kind": "synthetic",
+      "sha256": "fdff084a5b1590de21f961a731c18338763ca650f8aa0d597c04475f4d3f86db",
+      "rights": "CC0-1.0"
+    },
+    "001-0206": {
+      "url": "https://huggingface.co/datasets/retowyss/Syn-Vis-v0/blob/100262732989e77f38cd831d70a376a93735006a/images/headshot/001-0206.png",
+      "kind": "synthetic",
+      "sha256": "1ac7b8ecebdcd71e447aa03beadb8ccbfff3ed9ca039d0f73cb63ed21bd70e44",
+      "rights": "CC0-1.0"
+    },
+    "001-0226": {
+      "url": "https://huggingface.co/datasets/retowyss/Syn-Vis-v0/blob/100262732989e77f38cd831d70a376a93735006a/images/headshot/001-0226.png",
+      "kind": "synthetic",
+      "sha256": "9c9983565012f2e39351300e4e585362a7ba55e712d4ae5ab63d4a128b924ede",
+      "rights": "CC0-1.0"
+    },
+    "001-0231": {
+      "url": "https://huggingface.co/datasets/retowyss/Syn-Vis-v0/blob/100262732989e77f38cd831d70a376a93735006a/images/headshot/001-0231.png",
+      "kind": "synthetic",
+      "sha256": "5f28ff5d2b063e2e05dda465f20243292b216b0167e5432cd23fbb449d1239c2",
+      "rights": "CC0-1.0"
+    },
+    "001-0251": {
+      "url": "https://huggingface.co/datasets/retowyss/Syn-Vis-v0/blob/100262732989e77f38cd831d70a376a93735006a/images/headshot/001-0251.png",
+      "kind": "synthetic",
+      "sha256": "670091ce5ae8d857aa4578c8e9dd4725dcdb920a036b103ef0f39ccd77c37677",
+      "rights": "CC0-1.0"
+    },
+    "001-0266": {
+      "url": "https://huggingface.co/datasets/retowyss/Syn-Vis-v0/blob/100262732989e77f38cd831d70a376a93735006a/images/headshot/001-0266.png",
+      "kind": "synthetic",
+      "sha256": "052ae699e52e9978091405d440ddfb21ffa37aa152af105e252b61fbde49469f",
+      "rights": "CC0-1.0"
+    },
+    "001-0271": {
+      "url": "https://huggingface.co/datasets/retowyss/Syn-Vis-v0/blob/100262732989e77f38cd831d70a376a93735006a/images/headshot/001-0271.png",
+      "kind": "synthetic",
+      "sha256": "c8d044d8c64590b65b6f76a0530e7a37e7a13b49032d6880fba639d5f28ff05a",
+      "rights": "CC0-1.0"
+    },
+    "001-0301": {
+      "url": "https://huggingface.co/datasets/retowyss/Syn-Vis-v0/blob/100262732989e77f38cd831d70a376a93735006a/images/headshot/001-0301.png",
+      "kind": "synthetic",
+      "sha256": "859fc882364bcaebda5b8c60a704d4abcc579a8c7e9e92cebff716ce9554cc01",
+      "rights": "CC0-1.0"
+    },
+    "001-0306": {
+      "url": "https://huggingface.co/datasets/retowyss/Syn-Vis-v0/blob/100262732989e77f38cd831d70a376a93735006a/images/headshot/001-0306.png",
+      "kind": "synthetic",
+      "sha256": "7df5ecc06101d4f48e0a229d93d5e42c39f8e72db22cac2c8948f8ae339efe43",
+      "rights": "CC0-1.0"
+    },
+    "001-0326": {
+      "url": "https://huggingface.co/datasets/retowyss/Syn-Vis-v0/blob/100262732989e77f38cd831d70a376a93735006a/images/headshot/001-0326.png",
+      "kind": "synthetic",
+      "sha256": "ad8ccb211d2d5341f6e3e2aa6ce7eaf15aaaea3a80789604514b01f8912c473c",
+      "rights": "CC0-1.0"
+    },
+    "001-0331": {
+      "url": "https://huggingface.co/datasets/retowyss/Syn-Vis-v0/blob/100262732989e77f38cd831d70a376a93735006a/images/headshot/001-0331.png",
+      "kind": "synthetic",
+      "sha256": "bc98b66fa391410e3168914b087842b14f29803eac2479975196bc7fe80fe6fa",
+      "rights": "CC0-1.0"
+    },
+    "001-0346": {
+      "url": "https://huggingface.co/datasets/retowyss/Syn-Vis-v0/blob/100262732989e77f38cd831d70a376a93735006a/images/headshot/001-0346.png",
+      "kind": "synthetic",
+      "sha256": "0205fea2de2e6ebdd8ef5ceba490499b1dec0644c9621ca5bb75b024d0043d37",
+      "rights": "CC0-1.0"
+    },
+    "001-0361": {
+      "url": "https://huggingface.co/datasets/retowyss/Syn-Vis-v0/blob/100262732989e77f38cd831d70a376a93735006a/images/headshot/001-0361.png",
+      "kind": "synthetic",
+      "sha256": "c2b0bfabcb63b938a66f455c5fcb4e74542cbaf2cb1210682a361f876de0511c",
+      "rights": "CC0-1.0"
+    },
+    "001-0366": {
+      "url": "https://huggingface.co/datasets/retowyss/Syn-Vis-v0/blob/100262732989e77f38cd831d70a376a93735006a/images/headshot/001-0366.png",
+      "kind": "synthetic",
+      "sha256": "866afde385a01bcbc8360ce5b32edcdf355678be2c068c4ea286f7c4a8b80a2d",
+      "rights": "CC0-1.0"
+    },
+    "001-0381": {
+      "url": "https://huggingface.co/datasets/retowyss/Syn-Vis-v0/blob/100262732989e77f38cd831d70a376a93735006a/images/headshot/001-0381.png",
+      "kind": "synthetic",
+      "sha256": "0e35257d6705ecc5f131c8abf71bd378e81ad56ebc2dde03249d815bb3a29073",
+      "rights": "CC0-1.0"
+    },
+    "001-0386": {
+      "url": "https://huggingface.co/datasets/retowyss/Syn-Vis-v0/blob/100262732989e77f38cd831d70a376a93735006a/images/headshot/001-0386.png",
+      "kind": "synthetic",
+      "sha256": "40af87c8ba572cd18a356a0e02715bb58f1bfdd585f300bdb39cfd0836b4fd7d",
+      "rights": "CC0-1.0"
+    },
+    "001-0421": {
+      "url": "https://huggingface.co/datasets/retowyss/Syn-Vis-v0/blob/100262732989e77f38cd831d70a376a93735006a/images/headshot/001-0421.png",
+      "kind": "synthetic",
+      "sha256": "e0c5982a6d15d9f392b72d2ca6c0aa816251c7ae68782d9bdd93a51907248c6b",
+      "rights": "CC0-1.0"
+    },
+    "001-0426": {
+      "url": "https://huggingface.co/datasets/retowyss/Syn-Vis-v0/blob/100262732989e77f38cd831d70a376a93735006a/images/headshot/001-0426.png",
+      "kind": "synthetic",
+      "sha256": "46a272349530fdb0e1bb3ac37362727d7f5a60fe500a4f75ca3f77a628680af9",
+      "rights": "CC0-1.0"
+    },
+    "001-0431": {
+      "url": "https://huggingface.co/datasets/retowyss/Syn-Vis-v0/blob/100262732989e77f38cd831d70a376a93735006a/images/headshot/001-0431.png",
+      "kind": "synthetic",
+      "sha256": "e5678ef454a2268ce8d967798400e2d0212df3415b72e1e954ca9fa0bce07a64",
+      "rights": "CC0-1.0"
+    },
+    "001-0451": {
+      "url": "https://huggingface.co/datasets/retowyss/Syn-Vis-v0/blob/100262732989e77f38cd831d70a376a93735006a/images/headshot/001-0451.png",
+      "kind": "synthetic",
+      "sha256": "a2b7dbeed313d9331dca545735925448c28e21a9cc0271ac2460ec8a99eb19fd",
+      "rights": "CC0-1.0"
+    },
+    "001-0461": {
+      "url": "https://huggingface.co/datasets/retowyss/Syn-Vis-v0/blob/100262732989e77f38cd831d70a376a93735006a/images/headshot/001-0461.png",
+      "kind": "synthetic",
+      "sha256": "036567facf9036424a856d4fe315f9020fdc60137a9220ab6c8442b9ea867178",
+      "rights": "CC0-1.0"
+    },
+    "001-0471": {
+      "url": "https://huggingface.co/datasets/retowyss/Syn-Vis-v0/blob/100262732989e77f38cd831d70a376a93735006a/images/headshot/001-0471.png",
+      "kind": "synthetic",
+      "sha256": "14a11a3e197676dfcbeb57c2e672f1a54c62b0c098bf206d10e6d6e258d1f85d",
+      "rights": "CC0-1.0"
+    },
+    "base-001-0019": {
+      "url": "https://huggingface.co/datasets/retowyss/Syn-Vis-v0/blob/100262732989e77f38cd831d70a376a93735006a/images/base/001-0019.png",
+      "kind": "synthetic",
+      "sha256": "2baa2cb4063709c89390eb8470573997c628bb3466c9f63a8c2f6fcefd1bb6b6",
+      "rights": "CC0-1.0"
+    },
+    "base-001-0027": {
+      "url": "https://huggingface.co/datasets/retowyss/Syn-Vis-v0/blob/100262732989e77f38cd831d70a376a93735006a/images/base/001-0027.png",
+      "kind": "synthetic",
+      "sha256": "56320c77025d6779129c9d20fc70a314b7e859d39014f12b88d5aceed8be4cf3",
+      "rights": "CC0-1.0"
+    },
+    "base-001-0035": {
+      "url": "https://huggingface.co/datasets/retowyss/Syn-Vis-v0/blob/100262732989e77f38cd831d70a376a93735006a/images/base/001-0035.png",
+      "kind": "synthetic",
+      "sha256": "9ad95cecac6ab733aee10d62c14544347062be18c360140c8180915bb8601f60",
+      "rights": "CC0-1.0"
+    },
+    "base-001-0057": {
+      "url": "https://huggingface.co/datasets/retowyss/Syn-Vis-v0/blob/100262732989e77f38cd831d70a376a93735006a/images/base/001-0057.png",
+      "kind": "synthetic",
+      "sha256": "62ca39591288b33924056fecd60f0d9de4a0fb24cbb3f0f43019d1bf7d3a3f09",
+      "rights": "CC0-1.0"
+    },
+    "base-001-0079": {
+      "url": "https://huggingface.co/datasets/retowyss/Syn-Vis-v0/blob/100262732989e77f38cd831d70a376a93735006a/images/base/001-0079.png",
+      "kind": "synthetic",
+      "sha256": "4114bc95d5fb9e896fd4d2ac82b5b532ed868b8104459aace5968e9811771e07",
+      "rights": "CC0-1.0"
+    },
+    "base-001-0087": {
+      "url": "https://huggingface.co/datasets/retowyss/Syn-Vis-v0/blob/100262732989e77f38cd831d70a376a93735006a/images/base/001-0087.png",
+      "kind": "synthetic",
+      "sha256": "23b22d64d168991069fc40be0d28e1c5520cdef63c4244b344da90ea153ff647",
+      "rights": "CC0-1.0"
+    },
+    "base-001-0097": {
+      "url": "https://huggingface.co/datasets/retowyss/Syn-Vis-v0/blob/100262732989e77f38cd831d70a376a93735006a/images/base/001-0097.png",
+      "kind": "synthetic",
+      "sha256": "9a524e6279ec6a07b40416867fe1bccbebf4a5d8458f4cab47595fd5e731d556",
+      "rights": "CC0-1.0"
+    },
+    "base-001-0125": {
+      "url": "https://huggingface.co/datasets/retowyss/Syn-Vis-v0/blob/100262732989e77f38cd831d70a376a93735006a/images/base/001-0125.png",
+      "kind": "synthetic",
+      "sha256": "1e08ba78d0ee51fc337a561fd0ac4fba89fb639378a60f38b2ea459f158b9d7c",
+      "rights": "CC0-1.0"
+    },
+    "base-001-0143": {
+      "url": "https://huggingface.co/datasets/retowyss/Syn-Vis-v0/blob/100262732989e77f38cd831d70a376a93735006a/images/base/001-0143.png",
+      "kind": "synthetic",
+      "sha256": "fe1c52a6f2bc131146d2ba4499ae9e7a19f94b757672dba78f1d097a2b46e9b7",
+      "rights": "CC0-1.0"
+    },
+    "base-001-0217": {
+      "url": "https://huggingface.co/datasets/retowyss/Syn-Vis-v0/blob/100262732989e77f38cd831d70a376a93735006a/images/base/001-0217.png",
+      "kind": "synthetic",
+      "sha256": "15b3fb33dba5f64494395124dbdcad94772580c38a058db95dbdb95488c650fe",
+      "rights": "CC0-1.0"
+    },
+    "base-001-0248": {
+      "url": "https://huggingface.co/datasets/retowyss/Syn-Vis-v0/blob/100262732989e77f38cd831d70a376a93735006a/images/base/001-0248.png",
+      "kind": "synthetic",
+      "sha256": "075b5191263332dba3f71ad016e08006fe698872364b78187ab45ab89e1c0d47",
+      "rights": "CC0-1.0"
+    },
+    "base-001-0263": {
+      "url": "https://huggingface.co/datasets/retowyss/Syn-Vis-v0/blob/100262732989e77f38cd831d70a376a93735006a/images/base/001-0263.png",
+      "kind": "synthetic",
+      "sha256": "bcd199d3cfbe050d93efe2f1d75bc5fca751cb6e9c983d27da066b55c90dae93",
+      "rights": "CC0-1.0"
+    },
+    "base-001-0319": {
+      "url": "https://huggingface.co/datasets/retowyss/Syn-Vis-v0/blob/100262732989e77f38cd831d70a376a93735006a/images/base/001-0319.png",
+      "kind": "synthetic",
+      "sha256": "6b89bbc1c33ebf6138e0a58e1ceebb3389050f398a79164e0833c5dcf7d40fe9",
+      "rights": "CC0-1.0"
+    },
+    "base-001-0397": {
+      "url": "https://huggingface.co/datasets/retowyss/Syn-Vis-v0/blob/100262732989e77f38cd831d70a376a93735006a/images/base/001-0397.png",
+      "kind": "synthetic",
+      "sha256": "6e83b15f8911cfe6475cab3cc37f8bf409cf800e54a53af70a701cb65de1da8d",
+      "rights": "CC0-1.0"
+    },
+    "nasa-S92-40463": {
+      "url": "https://images.nasa.gov/details/S92-40463",
+      "kind": "photo",
+      "sha256": "7f9c8203cbf9e1304e30eedc2577d245818790f74cb817c45b17fecf7f188776",
+      "rights": "Public domain (United States)"
+    },
+    "nasa-jsc2014e037863": {
+      "url": "https://images.nasa.gov/details/jsc2014e037863",
+      "kind": "photo",
+      "sha256": "08240d413affedc6632d0d417fa2e2c3d67e7d49fad85f70663c9c9001fa8e12",
+      "rights": "Public domain (United States)"
+    },
+    "nasa-JSC2001-03044": {
+      "url": "https://images.nasa.gov/details/JSC2001-03044",
+      "kind": "photo",
+      "sha256": "66dfbb7a390d062bc592a4a5e617637551aa744683431f8c467865e6db611a69",
+      "rights": "Public domain (United States)"
+    },
+    "nasa-jsc2025e078605_alt": {
+      "url": "https://images.nasa.gov/details/jsc2025e078605_alt",
+      "kind": "photo",
+      "sha256": "c556944d26b1f023ef2aae4ebaff4f07361527459b2db6fda9527bdfbc70d2e9",
+      "rights": "Public domain (United States)"
+    },
+    "nasa-S97-06573": {
+      "url": "https://images.nasa.gov/details/S97-06573",
+      "kind": "photo",
+      "sha256": "c417b2f84f6dcfa0e61795e29eaf5d05354adc5830ffaa9eba64d23a81109b95",
+      "rights": "Public domain (United States)"
+    },
+    "nasa-S85-36539": {
+      "url": "https://images.nasa.gov/details/S85-36539",
+      "kind": "photo",
+      "sha256": "d542cb2d6e4367f9ce0445b7b6c0103c8c8ac3662014423b01000b2927b47425",
+      "rights": "Public domain (United States)"
+    },
+    "nasa-S82-36442": {
+      "url": "https://images.nasa.gov/details/S82-36442",
+      "kind": "photo",
+      "sha256": "709a3efe6ea4baf8969207961530e2d09e6542855f90c1d97b9f213582dd32ad",
+      "rights": "Public domain (United States)"
+    },
+    "nasa-NHQ202009160004": {
+      "url": "https://images.nasa.gov/details/NHQ202009160004",
+      "kind": "photo",
+      "sha256": "7383e388fcb5f36b539ddb8c9daa91f4792f74c4fd776c99050ca84bb141d377",
+      "rights": "Public domain (United States)"
+    },
+    "nasa-s64-29926": {
+      "url": "https://images.nasa.gov/details/s64-29926",
+      "kind": "photo",
+      "sha256": "e806cdac243bdd3649183fcdbae9626c0008fd3b02d8eb55f14dacae42d0ab0e",
+      "rights": "Public domain (United States)"
+    },
+    "nasa-jsc2023e047050_alt": {
+      "url": "https://images.nasa.gov/details/jsc2023e047050_alt",
+      "kind": "photo",
+      "sha256": "0f6495fa211c59a646640cd8ee8741d42f8c15021bcf6370a2c716bc6bf35423",
+      "rights": "Public domain (United States)"
+    },
+    "archive-lincoln": {
+      "url": "https://www.loc.gov/pictures/item/96522529/",
+      "kind": "photo",
+      "sha256": "e5499e5d762589f96bc3c7e1bbe0c8d5bb095e87ded4f9ac6480dbe2e9846b2c",
+      "rights": "Public domain (United States)"
+    },
+    "archive-douglass": {
+      "url": "https://www.archives.gov/research/still-pictures/highlights/frederick-douglass",
+      "kind": "photo",
+      "sha256": "644711664211123b0c709b50784ae354003e4a657e062fc0fc427060bdafc545",
+      "rights": "Public domain (United States)"
+    },
+    "gov-1": {
+      "url": "https://commons.wikimedia.org/wiki/File:Donald_R._Pettit.jpg",
+      "kind": "photo",
+      "sha256": "743b6b895c4bd522f4024ba02ed3fe1d94e024e5ddc558c707abac1c1ed11704",
+      "rights": "Public domain (United States)"
+    },
+    "gov-2": {
+      "url": "https://commons.wikimedia.org/wiki/File:Aaron_Cohen_-_GPN-2002-000100.jpg",
+      "kind": "photo",
+      "sha256": "0ef6776f0966ce283bbd133e3a9e9a063396320606ee36b4a5c9ea6c11b28b60",
+      "rights": "Public domain (United States)"
+    },
+    "gov-3": {
+      "url": "https://commons.wikimedia.org/wiki/File:Leland_Melvin.jpg",
+      "kind": "photo",
+      "sha256": "a76adf8440e5fcdd38aeffea6271a86b58fc185227e72d50ecc7a9ea199b8b91",
+      "rights": "Public domain (United States)"
+    },
+    "gov-4": {
+      "url": "https://commons.wikimedia.org/wiki/File:Frank_Rubio_official_portrait.jpg",
+      "kind": "photo",
+      "sha256": "5940456204149843d0b40dce153996c05b04d012de4cc189d03b10a1531c42ee",
+      "rights": "Public domain (United States)"
+    },
+    "gov-5": {
+      "url": "https://commons.wikimedia.org/wiki/File:Victor_J._Glover_official_portrait.jpg",
+      "kind": "photo",
+      "sha256": "4d3f2a7b9ac36813073b50476e4888b88ca542d0422b969c2fff6563ff5b065e",
+      "rights": "Public domain (United States)"
+    },
+    "gov-6": {
+      "url": "https://commons.wikimedia.org/wiki/File:Ruth_Bader_Ginsburg_2016_portrait.jpg",
+      "kind": "photo",
+      "sha256": "3b7ca79ffa6305868d99ddb8ba70db4e6477d871bf839809ab573dfb5875c243",
+      "rights": "Public domain (United States)"
+    },
+    "gov-7": {
+      "url": "https://commons.wikimedia.org/wiki/File:Ellison_Shoji_Onizuka_%28NASA%29.jpg",
+      "kind": "photo",
+      "sha256": "b61046d98aa9682daf462357d4abd830331a8ec2956821fc37432afc48f6841d",
+      "rights": "Public domain (United States)"
+    },
+    "gov-8": {
+      "url": "https://commons.wikimedia.org/wiki/File:Katherine_Johnson_in_2008.jpg",
+      "kind": "photo",
+      "sha256": "4c8539f7124cf425b1788a8b2a5b197eb709bb82d3cf934d72e9e424b2ef4486",
+      "rights": "Public domain (United States)"
+    },
+    "gov-9": {
+      "url": "https://commons.wikimedia.org/wiki/File:John_Glenn_Low_Res.jpg",
+      "kind": "photo",
+      "sha256": "4a1462feb9874fb480037b9cf0111b0d325500e7e1753a3acda3a1e5ecc59457",
+      "rights": "Public domain (United States)"
+    },
+    "gov-10": {
+      "url": "https://commons.wikimedia.org/wiki/File:Charles_F._Bolden%2C_Jr.jpg",
+      "kind": "photo",
+      "sha256": "4f029907d4b4e414d7acef133be5de74d95e50d9fcb28e3d9dafb96a26125ac4",
+      "rights": "Public domain (United States)"
+    },
+    "gov-11": {
+      "url": "https://commons.wikimedia.org/wiki/File:Guion_Bluford.jpg",
+      "kind": "photo",
+      "sha256": "92d614b6656736162f4bf4f332fea4b08ec039d9f6af9e0ed1f24a940ca60ab8",
+      "rights": "Public domain (United States)"
+    },
+    "gov-12": {
+      "url": "https://commons.wikimedia.org/wiki/File:Buzz_Aldrin_%28S69-31743%29.jpg",
+      "kind": "photo",
+      "sha256": "54946465817e21f47d10bd8928c51479bbd601a4ecc3bd5b34d636fe81eaabcb",
+      "rights": "Public domain (United States)"
+    },
+    "gov-13": {
+      "url": "https://commons.wikimedia.org/wiki/File:Chris_Hadfield.jpg",
+      "kind": "photo",
+      "sha256": "38300aba47adb49bdd0907cc37da4aae4d592e772d9cd1d16673cbe2cd95d821",
+      "rights": "Public domain (United States)"
+    },
+    "gov-14": {
+      "url": "https://commons.wikimedia.org/wiki/File:John_Fetterman_US_Senate_portrait.jpg",
+      "kind": "photo",
+      "sha256": "1646877a4f7bdee5120e80609977523284ffe3f9482736063f096475bda7276f",
+      "rights": "Public domain (United States)"
+    },
+    "gov-15": {
+      "url": "https://commons.wikimedia.org/wiki/File:Ted_Cruz_official_116th_portrait.jpg",
+      "kind": "photo",
+      "sha256": "64d85deb7f03968f33a948547c7e3e88c95db49997f9273e1f00659656902cdb",
+      "rights": "Public domain (United States)"
+    },
+    "gov-16": {
+      "url": "https://commons.wikimedia.org/wiki/File:Ketanji_Brown_Jackson_official_SCOTUS_portrait.jpg",
+      "kind": "photo",
+      "sha256": "6e8ea3dbfd81a86af719b9994d46029fefda81f1d8f2e110240abc674ff17159",
+      "rights": "Public domain (United States)"
+    },
+    "gov-17": {
+      "url": "https://commons.wikimedia.org/wiki/File:Rosa_DeLauro_118th_Congress.jpeg",
+      "kind": "photo",
+      "sha256": "145569968fac2182ee5376b053475897e430aa815b02c7a4a3a32b5568069e68",
+      "rights": "Public domain (United States)"
+    },
+    "gov-18": {
+      "url": "https://commons.wikimedia.org/wiki/File:Thurgood-marshall-2.jpg",
+      "kind": "photo",
+      "sha256": "f4d16398876fa247ec138c01d80986da5e2f0ffd2dd6ead16cca5a45b41b8cb4",
+      "rights": "Public domain (United States)"
+    }
+  }
+}

@@ -1,0 +1,458 @@
+{
+  "size": 512,
+  "parts": {
+    "ears": [
+      {
+        "id": "cat-ears",
+        "name": "Cat ears",
+        "src": "assets/specimens/cat-ears.webp",
+        "bounds": [
+          118,
+          82,
+          276,
+          101
+        ],
+        "origin": "animal",
+        "source": "ears"
+      },
+      {
+        "id": "cottontail-ears",
+        "name": "Cottontail ears",
+        "src": "assets/specimens/cottontail-ears.webp",
+        "bounds": [
+          171,
+          30,
+          170,
+          128
+        ],
+        "origin": "animal",
+        "source": "rabbit"
+      },
+      {
+        "id": "moose-ears",
+        "name": "Moose ears",
+        "src": "assets/specimens/moose-ears.webp",
+        "bounds": [
+          120,
+          177,
+          272,
+          70
+        ],
+        "origin": "animal",
+        "source": "moose"
+      }
+    ],
+    "eyes": [
+      {
+        "id": "tabby-eyes",
+        "name": "Tabby eyes",
+        "src": "assets/specimens/tabby-eyes.webp",
+        "bounds": [
+          174,
+          213,
+          164,
+          46
+        ],
+        "origin": "animal",
+        "source": "cat"
+      },
+      {
+        "id": "perch-eyes",
+        "name": "Perch eyes",
+        "src": "assets/specimens/perch-eyes.webp",
+        "bounds": [
+          173,
+          208,
+          166,
+          56
+        ],
+        "origin": "animal",
+        "source": "perch"
+      },
+      {
+        "id": "bluegill-eyes",
+        "name": "Bluegill eyes",
+        "src": "assets/specimens/bluegill-eyes.webp",
+        "bounds": [
+          175,
+          208,
+          162,
+          56
+        ],
+        "origin": "animal",
+        "source": "sunfish"
+      },
+      {
+        "id": "goat-eyes",
+        "name": "Goat eyes",
+        "src": "assets/specimens/goat-eyes.webp",
+        "bounds": [
+          166,
+          215,
+          180,
+          43
+        ],
+        "origin": "animal",
+        "source": "goat"
+      },
+      {
+        "id": "puffin-eyes",
+        "name": "Puffin eyes",
+        "src": "assets/specimens/puffin-eyes.webp",
+        "bounds": [
+          177,
+          212,
+          158,
+          49
+        ],
+        "origin": "animal",
+        "source": "puffin"
+      }
+    ],
+    "nose": [
+      {
+        "id": "tabby-muzzle",
+        "name": "Tabby muzzle",
+        "src": "assets/specimens/tabby-muzzle.webp",
+        "bounds": [
+          151,
+          271,
+          210,
+          66
+        ],
+        "origin": "animal",
+        "source": "cat"
+      }
+    ],
+    "mouth": [
+      {
+        "id": "puffin-bill",
+        "name": "Puffin bill",
+        "src": "assets/specimens/puffin-bill.webp",
+        "bounds": [
+          213,
+          272,
+          86,
+          110
+        ],
+        "origin": "animal",
+        "source": "puffin"
+      },
+      {
+        "id": "bluegill-lips",
+        "name": "Bluegill lips",
+        "src": "assets/specimens/bluegill-lips.webp",
+        "bounds": [
+          217,
+          316,
+          78,
+          32
+        ],
+        "origin": "animal",
+        "source": "sunfish"
+      }
+    ],
+    "gills": [
+      {
+        "id": "perch-opercula",
+        "name": "Perch gill covers",
+        "src": "assets/specimens/perch-opercula.webp",
+        "bounds": [
+          142,
+          255,
+          228,
+          62
+        ],
+        "origin": "animal",
+        "source": "perch"
+      },
+      {
+        "id": "bluegill-opercula",
+        "name": "Bluegill gill covers",
+        "src": "assets/specimens/bluegill-opercula.webp",
+        "bounds": [
+          135,
+          186,
+          242,
+          196
+        ],
+        "origin": "animal",
+        "source": "sunfish"
+      },
+      {
+        "id": "tuna-gill-filaments",
+        "name": "Tuna gill fans",
+        "src": "assets/specimens/tuna-gill-filaments.webp",
+        "bounds": [
+          148,
+          244,
+          216,
+          96
+        ],
+        "origin": "animal",
+        "source": "tuna"
+      }
+    ],
+    "fins": [
+      {
+        "id": "bluegill-tail-fins",
+        "name": "Bluegill fan fins",
+        "src": "assets/specimens/bluegill-tail-fins.webp",
+        "bounds": [
+          75,
+          219,
+          362,
+          73
+        ],
+        "origin": "animal",
+        "source": "sunfish"
+      },
+      {
+        "id": "perch-dorsal",
+        "name": "Perch dorsal crest",
+        "src": "assets/specimens/perch-dorsal.webp",
+        "bounds": [
+          171,
+          74,
+          173,
+          77
+        ],
+        "origin": "animal",
+        "source": "perch"
+      },
+      {
+        "id": "sunfish-spines",
+        "name": "Sunfish dorsal spines",
+        "src": "assets/specimens/sunfish-spines.webp",
+        "bounds": [
+          170,
+          78,
+          172,
+          62
+        ],
+        "origin": "animal",
+        "source": "sunfish"
+      },
+      {
+        "id": "perch-tail-fins",
+        "name": "Forked tail fins",
+        "src": "assets/specimens/perch-tail-fins.webp",
+        "bounds": [
+          79,
+          219,
+          354,
+          81
+        ],
+        "origin": "animal",
+        "source": "perch"
+      },
+      {
+        "id": "sunfish-pectoral",
+        "name": "Pectoral fins",
+        "src": "assets/specimens/sunfish-pectoral.webp",
+        "bounds": [
+          90,
+          256,
+          332,
+          56
+        ],
+        "origin": "animal",
+        "source": "sunfish"
+      }
+    ],
+    "antlers": [
+      {
+        "id": "stag-antlers",
+        "name": "Velvet antlers",
+        "src": "assets/specimens/stag-antlers.webp",
+        "bounds": [
+          122,
+          8,
+          268,
+          154
+        ],
+        "origin": "animal",
+        "source": "deer2"
+      },
+      {
+        "id": "moose-antlers",
+        "name": "Moose paddles",
+        "src": "assets/specimens/moose-antlers.webp",
+        "bounds": [
+          120,
+          51,
+          272,
+          113
+        ],
+        "origin": "animal",
+        "source": "moose"
+      }
+    ],
+    "glasses": [
+      {
+        "id": "clip-on-shades",
+        "name": "Clip-on shades",
+        "src": "assets/specimens/clip-on-shades.webp",
+        "bounds": [
+          135,
+          203,
+          242,
+          66
+        ],
+        "source": "shades"
+      },
+      {
+        "id": "round-spectacles",
+        "name": "Round spectacles",
+        "src": "assets/specimens/round-spectacles.webp",
+        "bounds": [
+          138,
+          194,
+          236,
+          84
+        ],
+        "source": "glasses"
+      }
+    ],
+    "texture": [
+      {
+        "id": "rag-stock",
+        "name": "Paper fibers",
+        "src": "assets/specimens/rag-stock.webp",
+        "bounds": [
+          0,
+          0,
+          512,
+          512
+        ],
+        "source": "paper2"
+      },
+      {
+        "id": "ink-grain",
+        "name": "Letterpress grain",
+        "src": "assets/specimens/ink-grain.webp",
+        "bounds": [
+          0,
+          0,
+          512,
+          512
+        ],
+        "source": "paper"
+      }
+    ]
+  },
+  "sources": {
+    "perch": {
+      "title": "Yellow Perch (Perca flavescens) white background.jpg",
+      "creator": "Sam Stukel / U.S. Fish and Wildlife Service",
+      "rights": "Public domain (U.S. government work)",
+      "url": "https://commons.wikimedia.org/wiki/File:Yellow_Perch_%28Perca_flavescens%29_white_background.jpg",
+      "licenseUrl": null,
+      "sha256": "c205a1bd5d8bde21aeaa98c14f23106e7ad835b6f070f3f54d07ab544da95989"
+    },
+    "sunfish": {
+      "title": "Blue gill (51238121687).jpg",
+      "creator": "Sam Stukel / U.S. Fish and Wildlife Service",
+      "rights": "Public domain (U.S. government work)",
+      "url": "https://commons.wikimedia.org/wiki/File:Blue_gill_%2851238121687%29.jpg",
+      "licenseUrl": null,
+      "sha256": "529954af113b2e3a9710852e2a9c8be85021b991b2ad4dd643f055e5e09a1ea1"
+    },
+    "tuna": {
+      "title": "Tuna Gills cut out.jpg",
+      "creator": "Chris 73 / Wikimedia Commons",
+      "rights": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Tuna_Gills_cut_out.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "sha256": "23acfa7f0f689152b4a4d2cbcd1e86975e93be7908a43c99a719729a42f67953"
+    },
+    "puffin": {
+      "title": "Puffin (Fratercula arctica) head.jpg",
+      "creator": "Charles J. Sharp / Sharp Photography",
+      "rights": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Puffin_%28Fratercula_arctica%29_head.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "sha256": "1e3f1ed4b9fcdcfb086f63284555d132d09bbc03c8d3b9aa4c9872823d277dc3"
+    },
+    "goat": {
+      "title": "Horizontal Rectangular Pupil of a Goat.jpg",
+      "creator": "Sumbria.vikramaditya",
+      "rights": "CC0 1.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Horizontal_Rectangular_Pupil_of_a_Goat.jpg",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "sha256": "75ad2d386cbcbf45771b6a94dc84477bd38011658c26009b2fa7ff5076893237"
+    },
+    "moose": {
+      "title": "Bull Moose.jpg",
+      "creator": "Kent Miller / U.S. National Park Service, Denali National Park and Preserve",
+      "rights": "Public domain (U.S. government work)",
+      "url": "https://commons.wikimedia.org/wiki/File:Bull_Moose.jpg",
+      "licenseUrl": null,
+      "sha256": "ef074a81c74cbebc1499843813308d5668371e21a73b73bc5ab98f4717fbe7e5"
+    },
+    "ears": {
+      "title": "Cat-ears.jpg",
+      "creator": "Jim Conrad",
+      "rights": "Public domain (author release)",
+      "url": "https://commons.wikimedia.org/wiki/File:Cat-ears.jpg",
+      "licenseUrl": null,
+      "sha256": "8eb632377ae8b65d4cc23463421b7b9674ed64bae922cd652fdd368d17127bcd"
+    },
+    "rabbit": {
+      "title": "Cottontail rabbits - 37514488816 (portrait).jpg",
+      "creator": "lwolfartist",
+      "rights": "CC BY 2.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Cottontail_rabbits_-_37514488816_%28portrait%29.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+      "sha256": "7bf83ffba8a24f11b014573bd1e7aed8d460b8fc083f076f8a0f101054bdaedd"
+    },
+    "deer2": {
+      "title": "Red deer stag.jpg",
+      "creator": "Mehmet Karatay",
+      "rights": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Red_deer_stag.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "sha256": "4a51a491b49b31af91c33cbf22cc17191c53e555b2747ba5e805af7fc45a86c5"
+    },
+    "cat": {
+      "title": "Cat close-up 2004 b.jpg",
+      "creator": "Cayambe",
+      "rights": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Cat_close-up_2004_b.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "sha256": "66c0b0e4535cd6e3a4f488f634ca5f0dda3b0fbe90c5b723ff0c05c346f517eb"
+    },
+    "shades": {
+      "title": "Clip-on sunglasses.jpg",
+      "creator": "Tiia Monto",
+      "rights": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Clip-on_sunglasses.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "sha256": "adefffa2f9a0a334ef999c5b388673728dc62454a7c2683528063db773c320dd"
+    },
+    "glasses": {
+      "title": "A pair of Spectacles Wellcome L0044000.jpg",
+      "creator": "Wellcome Library, London",
+      "rights": "CC BY 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:A_pair_of_Spectacles_Wellcome_L0044000.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sha256": "43b285cc22e8afe49662d27922dc4747a53bff9828438671d6dc31601075ce44"
+    },
+    "paper": {
+      "title": "Texture paper.jpg",
+      "creator": "Paolo Neo",
+      "rights": "Public domain (author release)",
+      "url": "https://commons.wikimedia.org/wiki/File:Texture_paper.jpg",
+      "licenseUrl": null,
+      "sha256": "8ec81b25b552eb170260939152b597bb06f4f34a671147023426c1f452d0c3f3"
+    },
+    "paper2": {
+      "title": "Paper002 4K Color.jpg",
+      "creator": "ambientCG.com / Lennart Demes",
+      "rights": "CC0 1.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Paper002_4K_Color.jpg",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "sha256": "fed4bf44cc94058f65af0ac83b4e3d65d16bb02a14332eb361999cada6cff59e"
+    }
+  }
+}
