@@ -22,10 +22,6 @@ python3 -m http.server 4371 --bind 127.0.0.1
 6. **Newsprint** uses an angled screen of variable-size ink dots. Dot size and ink density control both the print and the parts-library previews. Archive thumbnails use the saved settings of each portrait.
 7. **Export PNG** downloads the displayed 800 × 880 print with its selected image credits embedded as PNG text metadata. **Save to archive** keeps an editable copy in this browser. Drafts survive reloads on the same origin. Historical drafts reopen with their saved facial choices. Retired illustrated extras reopen as empty slots for photo cutouts.
 
-## Host for free
-
-The app uses relative paths and needs no build, API key, paid model, or backend. To publish with GitHub Pages, place the contents of this directory at the root of a public GitHub repository. In **Settings → Pages**, choose **Deploy from a branch**, select the branch and **/(root)**, and save. Keep the assets and credits with the site. GitHub Pages supports public repositories on GitHub Free. [GitHub Pages quickstart](https://docs.github.com/en/pages/quickstart)
-
 ## Face library
 
 The browser samples each cutout at its native resolution. All cutouts share a normalized 512 × 512 coordinate system for placement. The extraction pipeline runs separately from the app. See the [image credits and extraction guide](CREDITS.md) for sources and licenses. The [adornment credits](assets/adornments/CREDITS.md) and [animal, eyewear, and paper credits](assets/specimens/CREDITS.md) document the source photos and rebuild steps. Archivo Black is bundled under the [SIL Open Font License](assets/type/OFL.txt).
